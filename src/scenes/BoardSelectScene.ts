@@ -7,6 +7,7 @@ import { gameState } from "../services/GameState";
 import { BoardCard } from "../ui/BoardCard";
 import { BoardPack } from "../models/BoardPack";
 
+/** Commercial-style 3×2 board library for "מסע הניקוד". */
 export class BoardSelectScene extends BaseScene {
     private selectedBoard!: BoardPack;
     private cards = new Map<string, BoardCard>();
@@ -58,6 +59,7 @@ export class BoardSelectScene extends BaseScene {
         bg.fillGradientStyle(0x052a63, 0x063b83, 0x0a74bd, 0x08488f, 1);
         bg.fillRect(0, 0, 1280, 720);
 
+        // Subtle radial rays and stars, matching the approved visual reference.
         const rays = this.add.graphics().setDepth(1);
         rays.fillStyle(0x38bdf8, 0.08);
         for (let i = 0; i < 11; i++) {

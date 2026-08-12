@@ -1,0 +1,2574 @@
+{
+  "schemaVersion": 1,
+  "boardId": "shuruk-kubutz",
+  "version": "2.1.0",
+  "groups": {
+    "shuruk-kubutz:syllable-05d0-05bb": [
+      {
+        "id": 240001,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05d0-05bb",
+        "learningGoal": "זיהוי ההברה אֻ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  אֻ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "אֻ"
+          },
+          {
+            "id": 2,
+            "text": "דוּ"
+          },
+          {
+            "id": 3,
+            "text": "חוּ"
+          },
+          {
+            "id": 4,
+            "text": "לוּ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "symbol": "אֻ"
+      },
+      {
+        "id": 240002,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05d0-05bb",
+        "learningGoal": "זיהוי הניקוד בהברה אֻ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה אֻ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קובוץ"
+          },
+          {
+            "id": 2,
+            "text": "קמץ"
+          },
+          {
+            "id": 3,
+            "text": "פתח"
+          },
+          {
+            "id": 4,
+            "text": "סגול"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "symbol": "אֻ"
+      },
+      {
+        "id": 240003,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05d0-05bb",
+        "learningGoal": "התאמת ההברה אֻ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: אֻ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "לוּ"
+          },
+          {
+            "id": 2,
+            "text": "חוּ"
+          },
+          {
+            "id": 3,
+            "text": "דוּ"
+          },
+          {
+            "id": 4,
+            "text": "אֻ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 1,
+        "symbol": "אֻ"
+      },
+      {
+        "id": 240067,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05d0-05bb",
+        "learningGoal": "זיהוי ההברה אֻ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  אֻ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "אֻ"
+          },
+          {
+            "id": 2,
+            "text": "דוּ"
+          },
+          {
+            "id": 3,
+            "text": "חוּ"
+          },
+          {
+            "id": 4,
+            "text": "הֻ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "אֻ"
+      },
+      {
+        "id": 240068,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05d0-05bb",
+        "learningGoal": "זיהוי הניקוד בהברה אֻ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה אֻ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "פתח"
+          },
+          {
+            "id": 2,
+            "text": "סגול"
+          },
+          {
+            "id": 3,
+            "text": "קובוץ"
+          },
+          {
+            "id": 4,
+            "text": "קמץ"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 3,
+        "symbol": "אֻ"
+      },
+      {
+        "id": 240069,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05d0-05bb",
+        "learningGoal": "התאמת ההברה אֻ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: אֻ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "הֻ"
+          },
+          {
+            "id": 2,
+            "text": "חוּ"
+          },
+          {
+            "id": 3,
+            "text": "דוּ"
+          },
+          {
+            "id": 4,
+            "text": "אֻ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "אֻ"
+      }
+    ],
+    "shuruk-kubutz:syllable-05d1-05d5-05bc": [
+      {
+        "id": 240004,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05d1-05d5-05bc",
+        "learningGoal": "זיהוי ההברה בוּ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  בוּ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "בוּ"
+          },
+          {
+            "id": 2,
+            "text": "הֻ"
+          },
+          {
+            "id": 3,
+            "text": "טֻ"
+          },
+          {
+            "id": 4,
+            "text": "מֻ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "symbol": "בוּ"
+      },
+      {
+        "id": 240005,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05d1-05d5-05bc",
+        "learningGoal": "זיהוי הניקוד בהברה בוּ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה בוּ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קמץ"
+          },
+          {
+            "id": 2,
+            "text": "פתח"
+          },
+          {
+            "id": 3,
+            "text": "סגול"
+          },
+          {
+            "id": 4,
+            "text": "שורוק"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 1,
+        "symbol": "בוּ"
+      },
+      {
+        "id": 240006,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05d1-05d5-05bc",
+        "learningGoal": "התאמת ההברה בוּ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: בוּ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "מֻ"
+          },
+          {
+            "id": 2,
+            "text": "טֻ"
+          },
+          {
+            "id": 3,
+            "text": "הֻ"
+          },
+          {
+            "id": 4,
+            "text": "בוּ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 1,
+        "symbol": "בוּ"
+      },
+      {
+        "id": 240070,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05d1-05d5-05bc",
+        "learningGoal": "זיהוי ההברה בוּ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  בוּ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "בוּ"
+          },
+          {
+            "id": 2,
+            "text": "הֻ"
+          },
+          {
+            "id": 3,
+            "text": "אֻ"
+          },
+          {
+            "id": 4,
+            "text": "ווּ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "בוּ"
+      },
+      {
+        "id": 240071,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05d1-05d5-05bc",
+        "learningGoal": "זיהוי הניקוד בהברה בוּ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה בוּ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סגול"
+          },
+          {
+            "id": 2,
+            "text": "שורוק"
+          },
+          {
+            "id": 3,
+            "text": "קמץ"
+          },
+          {
+            "id": 4,
+            "text": "פתח"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 3,
+        "symbol": "בוּ"
+      },
+      {
+        "id": 240072,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05d1-05d5-05bc",
+        "learningGoal": "התאמת ההברה בוּ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: בוּ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "ווּ"
+          },
+          {
+            "id": 2,
+            "text": "אֻ"
+          },
+          {
+            "id": 3,
+            "text": "הֻ"
+          },
+          {
+            "id": 4,
+            "text": "בוּ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "בוּ"
+      }
+    ],
+    "shuruk-kubutz:syllable-05d2-05bb": [
+      {
+        "id": 240007,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05d2-05bb",
+        "learningGoal": "זיהוי ההברה גֻ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  גֻ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "גֻ"
+          },
+          {
+            "id": 2,
+            "text": "ווּ"
+          },
+          {
+            "id": 3,
+            "text": "יוּ"
+          },
+          {
+            "id": 4,
+            "text": "נוּ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "symbol": "גֻ"
+      },
+      {
+        "id": 240008,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05d2-05bb",
+        "learningGoal": "זיהוי הניקוד בהברה גֻ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה גֻ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "פתח"
+          },
+          {
+            "id": 2,
+            "text": "סגול"
+          },
+          {
+            "id": 3,
+            "text": "קובוץ"
+          },
+          {
+            "id": 4,
+            "text": "קמץ"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 1,
+        "symbol": "גֻ"
+      },
+      {
+        "id": 240009,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05d2-05bb",
+        "learningGoal": "התאמת ההברה גֻ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: גֻ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "נוּ"
+          },
+          {
+            "id": 2,
+            "text": "יוּ"
+          },
+          {
+            "id": 3,
+            "text": "ווּ"
+          },
+          {
+            "id": 4,
+            "text": "גֻ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 1,
+        "symbol": "גֻ"
+      },
+      {
+        "id": 240073,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05d2-05bb",
+        "learningGoal": "זיהוי ההברה גֻ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  גֻ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "גֻ"
+          },
+          {
+            "id": 2,
+            "text": "ווּ"
+          },
+          {
+            "id": 3,
+            "text": "בוּ"
+          },
+          {
+            "id": 4,
+            "text": "זֻ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "גֻ"
+      },
+      {
+        "id": 240074,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05d2-05bb",
+        "learningGoal": "זיהוי הניקוד בהברה גֻ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה גֻ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קובוץ"
+          },
+          {
+            "id": 2,
+            "text": "קמץ"
+          },
+          {
+            "id": 3,
+            "text": "פתח"
+          },
+          {
+            "id": 4,
+            "text": "סגול"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "גֻ"
+      },
+      {
+        "id": 240075,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05d2-05bb",
+        "learningGoal": "התאמת ההברה גֻ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: גֻ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "זֻ"
+          },
+          {
+            "id": 2,
+            "text": "בוּ"
+          },
+          {
+            "id": 3,
+            "text": "ווּ"
+          },
+          {
+            "id": 4,
+            "text": "גֻ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "גֻ"
+      }
+    ],
+    "shuruk-kubutz:syllable-05d3-05d5-05bc": [
+      {
+        "id": 240010,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05d3-05d5-05bc",
+        "learningGoal": "זיהוי ההברה דוּ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  דוּ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "דוּ"
+          },
+          {
+            "id": 2,
+            "text": "זֻ"
+          },
+          {
+            "id": 3,
+            "text": "כֻ"
+          },
+          {
+            "id": 4,
+            "text": "סֻ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "symbol": "דוּ"
+      },
+      {
+        "id": 240011,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05d3-05d5-05bc",
+        "learningGoal": "זיהוי הניקוד בהברה דוּ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה דוּ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סגול"
+          },
+          {
+            "id": 2,
+            "text": "שורוק"
+          },
+          {
+            "id": 3,
+            "text": "קמץ"
+          },
+          {
+            "id": 4,
+            "text": "פתח"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 1,
+        "symbol": "דוּ"
+      },
+      {
+        "id": 240012,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05d3-05d5-05bc",
+        "learningGoal": "התאמת ההברה דוּ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: דוּ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סֻ"
+          },
+          {
+            "id": 2,
+            "text": "כֻ"
+          },
+          {
+            "id": 3,
+            "text": "זֻ"
+          },
+          {
+            "id": 4,
+            "text": "דוּ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 1,
+        "symbol": "דוּ"
+      },
+      {
+        "id": 240076,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05d3-05d5-05bc",
+        "learningGoal": "זיהוי ההברה דוּ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  דוּ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "דוּ"
+          },
+          {
+            "id": 2,
+            "text": "זֻ"
+          },
+          {
+            "id": 3,
+            "text": "גֻ"
+          },
+          {
+            "id": 4,
+            "text": "חוּ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "דוּ"
+      },
+      {
+        "id": 240077,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05d3-05d5-05bc",
+        "learningGoal": "זיהוי הניקוד בהברה דוּ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה דוּ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קמץ"
+          },
+          {
+            "id": 2,
+            "text": "פתח"
+          },
+          {
+            "id": 3,
+            "text": "סגול"
+          },
+          {
+            "id": 4,
+            "text": "שורוק"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "דוּ"
+      },
+      {
+        "id": 240078,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05d3-05d5-05bc",
+        "learningGoal": "התאמת ההברה דוּ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: דוּ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "חוּ"
+          },
+          {
+            "id": 2,
+            "text": "גֻ"
+          },
+          {
+            "id": 3,
+            "text": "זֻ"
+          },
+          {
+            "id": 4,
+            "text": "דוּ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "דוּ"
+      }
+    ],
+    "shuruk-kubutz:syllable-05d4-05bb": [
+      {
+        "id": 240013,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05d4-05bb",
+        "learningGoal": "זיהוי ההברה הֻ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  הֻ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "הֻ"
+          },
+          {
+            "id": 2,
+            "text": "חוּ"
+          },
+          {
+            "id": 3,
+            "text": "לוּ"
+          },
+          {
+            "id": 4,
+            "text": "עוּ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "symbol": "הֻ"
+      },
+      {
+        "id": 240014,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05d4-05bb",
+        "learningGoal": "זיהוי הניקוד בהברה הֻ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה הֻ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קובוץ"
+          },
+          {
+            "id": 2,
+            "text": "קמץ"
+          },
+          {
+            "id": 3,
+            "text": "פתח"
+          },
+          {
+            "id": 4,
+            "text": "סגול"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "symbol": "הֻ"
+      },
+      {
+        "id": 240015,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05d4-05bb",
+        "learningGoal": "התאמת ההברה הֻ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: הֻ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "עוּ"
+          },
+          {
+            "id": 2,
+            "text": "לוּ"
+          },
+          {
+            "id": 3,
+            "text": "חוּ"
+          },
+          {
+            "id": 4,
+            "text": "הֻ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 1,
+        "symbol": "הֻ"
+      },
+      {
+        "id": 240079,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05d4-05bb",
+        "learningGoal": "זיהוי ההברה הֻ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  הֻ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "הֻ"
+          },
+          {
+            "id": 2,
+            "text": "חוּ"
+          },
+          {
+            "id": 3,
+            "text": "דוּ"
+          },
+          {
+            "id": 4,
+            "text": "אֻ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "הֻ"
+      },
+      {
+        "id": 240080,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05d4-05bb",
+        "learningGoal": "זיהוי הניקוד בהברה הֻ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה הֻ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "פתח"
+          },
+          {
+            "id": 2,
+            "text": "סגול"
+          },
+          {
+            "id": 3,
+            "text": "קובוץ"
+          },
+          {
+            "id": 4,
+            "text": "קמץ"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 3,
+        "symbol": "הֻ"
+      },
+      {
+        "id": 240081,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05d4-05bb",
+        "learningGoal": "התאמת ההברה הֻ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: הֻ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "אֻ"
+          },
+          {
+            "id": 2,
+            "text": "דוּ"
+          },
+          {
+            "id": 3,
+            "text": "חוּ"
+          },
+          {
+            "id": 4,
+            "text": "הֻ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "הֻ"
+      }
+    ],
+    "shuruk-kubutz:syllable-05d5-05d5-05bc": [
+      {
+        "id": 240016,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05d5-05d5-05bc",
+        "learningGoal": "זיהוי ההברה ווּ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  ווּ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "ווּ"
+          },
+          {
+            "id": 2,
+            "text": "טֻ"
+          },
+          {
+            "id": 3,
+            "text": "מֻ"
+          },
+          {
+            "id": 4,
+            "text": "פֻ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "symbol": "ווּ"
+      },
+      {
+        "id": 240017,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05d5-05d5-05bc",
+        "learningGoal": "זיהוי הניקוד בהברה ווּ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה ווּ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קמץ"
+          },
+          {
+            "id": 2,
+            "text": "פתח"
+          },
+          {
+            "id": 3,
+            "text": "סגול"
+          },
+          {
+            "id": 4,
+            "text": "שורוק"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 1,
+        "symbol": "ווּ"
+      },
+      {
+        "id": 240018,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05d5-05d5-05bc",
+        "learningGoal": "התאמת ההברה ווּ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: ווּ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "פֻ"
+          },
+          {
+            "id": 2,
+            "text": "מֻ"
+          },
+          {
+            "id": 3,
+            "text": "טֻ"
+          },
+          {
+            "id": 4,
+            "text": "ווּ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 1,
+        "symbol": "ווּ"
+      },
+      {
+        "id": 240082,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05d5-05d5-05bc",
+        "learningGoal": "זיהוי ההברה ווּ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  ווּ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "ווּ"
+          },
+          {
+            "id": 2,
+            "text": "אֻ"
+          },
+          {
+            "id": 3,
+            "text": "הֻ"
+          },
+          {
+            "id": 4,
+            "text": "טֻ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "ווּ"
+      },
+      {
+        "id": 240083,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05d5-05d5-05bc",
+        "learningGoal": "זיהוי הניקוד בהברה ווּ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה ווּ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סגול"
+          },
+          {
+            "id": 2,
+            "text": "שורוק"
+          },
+          {
+            "id": 3,
+            "text": "קמץ"
+          },
+          {
+            "id": 4,
+            "text": "פתח"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 3,
+        "symbol": "ווּ"
+      },
+      {
+        "id": 240084,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05d5-05d5-05bc",
+        "learningGoal": "התאמת ההברה ווּ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: ווּ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "טֻ"
+          },
+          {
+            "id": 2,
+            "text": "הֻ"
+          },
+          {
+            "id": 3,
+            "text": "אֻ"
+          },
+          {
+            "id": 4,
+            "text": "ווּ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "ווּ"
+      }
+    ],
+    "shuruk-kubutz:syllable-05d6-05bb": [
+      {
+        "id": 240019,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05d6-05bb",
+        "learningGoal": "זיהוי ההברה זֻ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  זֻ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "זֻ"
+          },
+          {
+            "id": 2,
+            "text": "יוּ"
+          },
+          {
+            "id": 3,
+            "text": "נוּ"
+          },
+          {
+            "id": 4,
+            "text": "צוּ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "symbol": "זֻ"
+      },
+      {
+        "id": 240020,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05d6-05bb",
+        "learningGoal": "זיהוי הניקוד בהברה זֻ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה זֻ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "פתח"
+          },
+          {
+            "id": 2,
+            "text": "סגול"
+          },
+          {
+            "id": 3,
+            "text": "קובוץ"
+          },
+          {
+            "id": 4,
+            "text": "קמץ"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 1,
+        "symbol": "זֻ"
+      },
+      {
+        "id": 240021,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05d6-05bb",
+        "learningGoal": "התאמת ההברה זֻ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: זֻ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "צוּ"
+          },
+          {
+            "id": 2,
+            "text": "נוּ"
+          },
+          {
+            "id": 3,
+            "text": "יוּ"
+          },
+          {
+            "id": 4,
+            "text": "זֻ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 1,
+        "symbol": "זֻ"
+      },
+      {
+        "id": 240085,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05d6-05bb",
+        "learningGoal": "זיהוי ההברה זֻ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  זֻ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "זֻ"
+          },
+          {
+            "id": 2,
+            "text": "בוּ"
+          },
+          {
+            "id": 3,
+            "text": "ווּ"
+          },
+          {
+            "id": 4,
+            "text": "יוּ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "זֻ"
+      },
+      {
+        "id": 240086,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05d6-05bb",
+        "learningGoal": "זיהוי הניקוד בהברה זֻ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה זֻ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קובוץ"
+          },
+          {
+            "id": 2,
+            "text": "קמץ"
+          },
+          {
+            "id": 3,
+            "text": "פתח"
+          },
+          {
+            "id": 4,
+            "text": "סגול"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "זֻ"
+      },
+      {
+        "id": 240087,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05d6-05bb",
+        "learningGoal": "התאמת ההברה זֻ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: זֻ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "יוּ"
+          },
+          {
+            "id": 2,
+            "text": "ווּ"
+          },
+          {
+            "id": 3,
+            "text": "בוּ"
+          },
+          {
+            "id": 4,
+            "text": "זֻ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "זֻ"
+      }
+    ],
+    "shuruk-kubutz:syllable-05d7-05d5-05bc": [
+      {
+        "id": 240022,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05d7-05d5-05bc",
+        "learningGoal": "זיהוי ההברה חוּ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  חוּ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "חוּ"
+          },
+          {
+            "id": 2,
+            "text": "כֻ"
+          },
+          {
+            "id": 3,
+            "text": "סֻ"
+          },
+          {
+            "id": 4,
+            "text": "קֻ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "symbol": "חוּ"
+      },
+      {
+        "id": 240023,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05d7-05d5-05bc",
+        "learningGoal": "זיהוי הניקוד בהברה חוּ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה חוּ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סגול"
+          },
+          {
+            "id": 2,
+            "text": "שורוק"
+          },
+          {
+            "id": 3,
+            "text": "קמץ"
+          },
+          {
+            "id": 4,
+            "text": "פתח"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 1,
+        "symbol": "חוּ"
+      },
+      {
+        "id": 240024,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05d7-05d5-05bc",
+        "learningGoal": "התאמת ההברה חוּ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: חוּ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קֻ"
+          },
+          {
+            "id": 2,
+            "text": "סֻ"
+          },
+          {
+            "id": 3,
+            "text": "כֻ"
+          },
+          {
+            "id": 4,
+            "text": "חוּ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 1,
+        "symbol": "חוּ"
+      }
+    ],
+    "shuruk-kubutz:syllable-05d8-05bb": [
+      {
+        "id": 240025,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05d8-05bb",
+        "learningGoal": "זיהוי ההברה טֻ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  טֻ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "טֻ"
+          },
+          {
+            "id": 2,
+            "text": "לוּ"
+          },
+          {
+            "id": 3,
+            "text": "עוּ"
+          },
+          {
+            "id": 4,
+            "text": "רוּ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "symbol": "טֻ"
+      },
+      {
+        "id": 240026,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05d8-05bb",
+        "learningGoal": "זיהוי הניקוד בהברה טֻ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה טֻ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קובוץ"
+          },
+          {
+            "id": 2,
+            "text": "קמץ"
+          },
+          {
+            "id": 3,
+            "text": "פתח"
+          },
+          {
+            "id": 4,
+            "text": "סגול"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "symbol": "טֻ"
+      },
+      {
+        "id": 240027,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05d8-05bb",
+        "learningGoal": "התאמת ההברה טֻ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: טֻ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "רוּ"
+          },
+          {
+            "id": 2,
+            "text": "עוּ"
+          },
+          {
+            "id": 3,
+            "text": "לוּ"
+          },
+          {
+            "id": 4,
+            "text": "טֻ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 1,
+        "symbol": "טֻ"
+      }
+    ],
+    "shuruk-kubutz:syllable-05d9-05d5-05bc": [
+      {
+        "id": 240028,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05d9-05d5-05bc",
+        "learningGoal": "זיהוי ההברה יוּ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  יוּ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "יוּ"
+          },
+          {
+            "id": 2,
+            "text": "מֻ"
+          },
+          {
+            "id": 3,
+            "text": "פֻ"
+          },
+          {
+            "id": 4,
+            "text": "שֻ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "symbol": "יוּ"
+      },
+      {
+        "id": 240029,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05d9-05d5-05bc",
+        "learningGoal": "זיהוי הניקוד בהברה יוּ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה יוּ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קמץ"
+          },
+          {
+            "id": 2,
+            "text": "פתח"
+          },
+          {
+            "id": 3,
+            "text": "סגול"
+          },
+          {
+            "id": 4,
+            "text": "שורוק"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 1,
+        "symbol": "יוּ"
+      },
+      {
+        "id": 240030,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05d9-05d5-05bc",
+        "learningGoal": "התאמת ההברה יוּ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: יוּ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "שֻ"
+          },
+          {
+            "id": 2,
+            "text": "פֻ"
+          },
+          {
+            "id": 3,
+            "text": "מֻ"
+          },
+          {
+            "id": 4,
+            "text": "יוּ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 1,
+        "symbol": "יוּ"
+      }
+    ],
+    "shuruk-kubutz:syllable-05db-05bb": [
+      {
+        "id": 240031,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05db-05bb",
+        "learningGoal": "זיהוי ההברה כֻ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  כֻ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "כֻ"
+          },
+          {
+            "id": 2,
+            "text": "נוּ"
+          },
+          {
+            "id": 3,
+            "text": "צוּ"
+          },
+          {
+            "id": 4,
+            "text": "תוּ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "כֻ"
+      },
+      {
+        "id": 240032,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05db-05bb",
+        "learningGoal": "זיהוי הניקוד בהברה כֻ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה כֻ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "פתח"
+          },
+          {
+            "id": 2,
+            "text": "סגול"
+          },
+          {
+            "id": 3,
+            "text": "קובוץ"
+          },
+          {
+            "id": 4,
+            "text": "קמץ"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 2,
+        "symbol": "כֻ"
+      },
+      {
+        "id": 240033,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05db-05bb",
+        "learningGoal": "התאמת ההברה כֻ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: כֻ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "תוּ"
+          },
+          {
+            "id": 2,
+            "text": "צוּ"
+          },
+          {
+            "id": 3,
+            "text": "נוּ"
+          },
+          {
+            "id": 4,
+            "text": "כֻ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "כֻ"
+      }
+    ],
+    "shuruk-kubutz:syllable-05dc-05d5-05bc": [
+      {
+        "id": 240034,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05dc-05d5-05bc",
+        "learningGoal": "זיהוי ההברה לוּ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  לוּ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "לוּ"
+          },
+          {
+            "id": 2,
+            "text": "סֻ"
+          },
+          {
+            "id": 3,
+            "text": "קֻ"
+          },
+          {
+            "id": 4,
+            "text": "אֻ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "לוּ"
+      },
+      {
+        "id": 240035,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05dc-05d5-05bc",
+        "learningGoal": "זיהוי הניקוד בהברה לוּ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה לוּ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סגול"
+          },
+          {
+            "id": 2,
+            "text": "שורוק"
+          },
+          {
+            "id": 3,
+            "text": "קמץ"
+          },
+          {
+            "id": 4,
+            "text": "פתח"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 2,
+        "symbol": "לוּ"
+      },
+      {
+        "id": 240036,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05dc-05d5-05bc",
+        "learningGoal": "התאמת ההברה לוּ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: לוּ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "אֻ"
+          },
+          {
+            "id": 2,
+            "text": "קֻ"
+          },
+          {
+            "id": 3,
+            "text": "סֻ"
+          },
+          {
+            "id": 4,
+            "text": "לוּ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "לוּ"
+      }
+    ],
+    "shuruk-kubutz:syllable-05de-05bb": [
+      {
+        "id": 240037,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05de-05bb",
+        "learningGoal": "זיהוי ההברה מֻ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  מֻ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "מֻ"
+          },
+          {
+            "id": 2,
+            "text": "עוּ"
+          },
+          {
+            "id": 3,
+            "text": "רוּ"
+          },
+          {
+            "id": 4,
+            "text": "בוּ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "מֻ"
+      },
+      {
+        "id": 240038,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05de-05bb",
+        "learningGoal": "זיהוי הניקוד בהברה מֻ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה מֻ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קובוץ"
+          },
+          {
+            "id": 2,
+            "text": "קמץ"
+          },
+          {
+            "id": 3,
+            "text": "פתח"
+          },
+          {
+            "id": 4,
+            "text": "סגול"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "מֻ"
+      },
+      {
+        "id": 240039,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05de-05bb",
+        "learningGoal": "התאמת ההברה מֻ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: מֻ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "בוּ"
+          },
+          {
+            "id": 2,
+            "text": "רוּ"
+          },
+          {
+            "id": 3,
+            "text": "עוּ"
+          },
+          {
+            "id": 4,
+            "text": "מֻ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "מֻ"
+      }
+    ],
+    "shuruk-kubutz:syllable-05e0-05d5-05bc": [
+      {
+        "id": 240040,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05e0-05d5-05bc",
+        "learningGoal": "זיהוי ההברה נוּ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  נוּ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "נוּ"
+          },
+          {
+            "id": 2,
+            "text": "פֻ"
+          },
+          {
+            "id": 3,
+            "text": "שֻ"
+          },
+          {
+            "id": 4,
+            "text": "גֻ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "נוּ"
+      },
+      {
+        "id": 240041,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05e0-05d5-05bc",
+        "learningGoal": "זיהוי הניקוד בהברה נוּ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה נוּ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קמץ"
+          },
+          {
+            "id": 2,
+            "text": "פתח"
+          },
+          {
+            "id": 3,
+            "text": "סגול"
+          },
+          {
+            "id": 4,
+            "text": "שורוק"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "נוּ"
+      },
+      {
+        "id": 240042,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05e0-05d5-05bc",
+        "learningGoal": "התאמת ההברה נוּ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: נוּ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "גֻ"
+          },
+          {
+            "id": 2,
+            "text": "שֻ"
+          },
+          {
+            "id": 3,
+            "text": "פֻ"
+          },
+          {
+            "id": 4,
+            "text": "נוּ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "נוּ"
+      }
+    ],
+    "shuruk-kubutz:syllable-05e1-05bb": [
+      {
+        "id": 240043,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05e1-05bb",
+        "learningGoal": "זיהוי ההברה סֻ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  סֻ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סֻ"
+          },
+          {
+            "id": 2,
+            "text": "צוּ"
+          },
+          {
+            "id": 3,
+            "text": "תוּ"
+          },
+          {
+            "id": 4,
+            "text": "דוּ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "סֻ"
+      },
+      {
+        "id": 240044,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05e1-05bb",
+        "learningGoal": "זיהוי הניקוד בהברה סֻ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה סֻ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "פתח"
+          },
+          {
+            "id": 2,
+            "text": "סגול"
+          },
+          {
+            "id": 3,
+            "text": "קובוץ"
+          },
+          {
+            "id": 4,
+            "text": "קמץ"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 2,
+        "symbol": "סֻ"
+      },
+      {
+        "id": 240045,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05e1-05bb",
+        "learningGoal": "התאמת ההברה סֻ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: סֻ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "דוּ"
+          },
+          {
+            "id": 2,
+            "text": "תוּ"
+          },
+          {
+            "id": 3,
+            "text": "צוּ"
+          },
+          {
+            "id": 4,
+            "text": "סֻ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "סֻ"
+      }
+    ],
+    "shuruk-kubutz:syllable-05e2-05d5-05bc": [
+      {
+        "id": 240046,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05e2-05d5-05bc",
+        "learningGoal": "זיהוי ההברה עוּ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  עוּ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "עוּ"
+          },
+          {
+            "id": 2,
+            "text": "קֻ"
+          },
+          {
+            "id": 3,
+            "text": "אֻ"
+          },
+          {
+            "id": 4,
+            "text": "הֻ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "עוּ"
+      },
+      {
+        "id": 240047,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05e2-05d5-05bc",
+        "learningGoal": "זיהוי הניקוד בהברה עוּ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה עוּ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סגול"
+          },
+          {
+            "id": 2,
+            "text": "שורוק"
+          },
+          {
+            "id": 3,
+            "text": "קמץ"
+          },
+          {
+            "id": 4,
+            "text": "פתח"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 2,
+        "symbol": "עוּ"
+      },
+      {
+        "id": 240048,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05e2-05d5-05bc",
+        "learningGoal": "התאמת ההברה עוּ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: עוּ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "הֻ"
+          },
+          {
+            "id": 2,
+            "text": "אֻ"
+          },
+          {
+            "id": 3,
+            "text": "קֻ"
+          },
+          {
+            "id": 4,
+            "text": "עוּ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "עוּ"
+      }
+    ],
+    "shuruk-kubutz:syllable-05e4-05bb": [
+      {
+        "id": 240049,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05e4-05bb",
+        "learningGoal": "זיהוי ההברה פֻ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  פֻ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "פֻ"
+          },
+          {
+            "id": 2,
+            "text": "רוּ"
+          },
+          {
+            "id": 3,
+            "text": "בוּ"
+          },
+          {
+            "id": 4,
+            "text": "ווּ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "פֻ"
+      },
+      {
+        "id": 240050,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05e4-05bb",
+        "learningGoal": "זיהוי הניקוד בהברה פֻ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה פֻ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קובוץ"
+          },
+          {
+            "id": 2,
+            "text": "קמץ"
+          },
+          {
+            "id": 3,
+            "text": "פתח"
+          },
+          {
+            "id": 4,
+            "text": "סגול"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "פֻ"
+      },
+      {
+        "id": 240051,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05e4-05bb",
+        "learningGoal": "התאמת ההברה פֻ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: פֻ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "ווּ"
+          },
+          {
+            "id": 2,
+            "text": "בוּ"
+          },
+          {
+            "id": 3,
+            "text": "רוּ"
+          },
+          {
+            "id": 4,
+            "text": "פֻ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "פֻ"
+      }
+    ],
+    "shuruk-kubutz:syllable-05e6-05d5-05bc": [
+      {
+        "id": 240052,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05e6-05d5-05bc",
+        "learningGoal": "זיהוי ההברה צוּ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  צוּ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "צוּ"
+          },
+          {
+            "id": 2,
+            "text": "שֻ"
+          },
+          {
+            "id": 3,
+            "text": "גֻ"
+          },
+          {
+            "id": 4,
+            "text": "זֻ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "צוּ"
+      },
+      {
+        "id": 240053,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05e6-05d5-05bc",
+        "learningGoal": "זיהוי הניקוד בהברה צוּ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה צוּ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קמץ"
+          },
+          {
+            "id": 2,
+            "text": "פתח"
+          },
+          {
+            "id": 3,
+            "text": "סגול"
+          },
+          {
+            "id": 4,
+            "text": "שורוק"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "צוּ"
+      },
+      {
+        "id": 240054,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05e6-05d5-05bc",
+        "learningGoal": "התאמת ההברה צוּ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: צוּ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "זֻ"
+          },
+          {
+            "id": 2,
+            "text": "גֻ"
+          },
+          {
+            "id": 3,
+            "text": "שֻ"
+          },
+          {
+            "id": 4,
+            "text": "צוּ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "צוּ"
+      }
+    ],
+    "shuruk-kubutz:syllable-05e7-05bb": [
+      {
+        "id": 240055,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05e7-05bb",
+        "learningGoal": "זיהוי ההברה קֻ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  קֻ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קֻ"
+          },
+          {
+            "id": 2,
+            "text": "תוּ"
+          },
+          {
+            "id": 3,
+            "text": "דוּ"
+          },
+          {
+            "id": 4,
+            "text": "חוּ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "קֻ"
+      },
+      {
+        "id": 240056,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05e7-05bb",
+        "learningGoal": "זיהוי הניקוד בהברה קֻ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה קֻ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "פתח"
+          },
+          {
+            "id": 2,
+            "text": "סגול"
+          },
+          {
+            "id": 3,
+            "text": "קובוץ"
+          },
+          {
+            "id": 4,
+            "text": "קמץ"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 2,
+        "symbol": "קֻ"
+      },
+      {
+        "id": 240057,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05e7-05bb",
+        "learningGoal": "התאמת ההברה קֻ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: קֻ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "חוּ"
+          },
+          {
+            "id": 2,
+            "text": "דוּ"
+          },
+          {
+            "id": 3,
+            "text": "תוּ"
+          },
+          {
+            "id": 4,
+            "text": "קֻ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "קֻ"
+      }
+    ],
+    "shuruk-kubutz:syllable-05e8-05d5-05bc": [
+      {
+        "id": 240058,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05e8-05d5-05bc",
+        "learningGoal": "זיהוי ההברה רוּ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  רוּ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "רוּ"
+          },
+          {
+            "id": 2,
+            "text": "אֻ"
+          },
+          {
+            "id": 3,
+            "text": "הֻ"
+          },
+          {
+            "id": 4,
+            "text": "בוּ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "רוּ"
+      },
+      {
+        "id": 240059,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05e8-05d5-05bc",
+        "learningGoal": "זיהוי הניקוד בהברה רוּ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה רוּ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סגול"
+          },
+          {
+            "id": 2,
+            "text": "שורוק"
+          },
+          {
+            "id": 3,
+            "text": "קמץ"
+          },
+          {
+            "id": 4,
+            "text": "פתח"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 2,
+        "symbol": "רוּ"
+      },
+      {
+        "id": 240060,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05e8-05d5-05bc",
+        "learningGoal": "התאמת ההברה רוּ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: רוּ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "בוּ"
+          },
+          {
+            "id": 2,
+            "text": "הֻ"
+          },
+          {
+            "id": 3,
+            "text": "אֻ"
+          },
+          {
+            "id": 4,
+            "text": "רוּ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "רוּ"
+      }
+    ],
+    "shuruk-kubutz:syllable-05e9-05bb": [
+      {
+        "id": 240061,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05e9-05bb",
+        "learningGoal": "זיהוי ההברה שֻ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  שֻ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "שֻ"
+          },
+          {
+            "id": 2,
+            "text": "בוּ"
+          },
+          {
+            "id": 3,
+            "text": "ווּ"
+          },
+          {
+            "id": 4,
+            "text": "גֻ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "שֻ"
+      },
+      {
+        "id": 240062,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05e9-05bb",
+        "learningGoal": "זיהוי הניקוד בהברה שֻ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה שֻ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קובוץ"
+          },
+          {
+            "id": 2,
+            "text": "קמץ"
+          },
+          {
+            "id": 3,
+            "text": "פתח"
+          },
+          {
+            "id": 4,
+            "text": "סגול"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "שֻ"
+      },
+      {
+        "id": 240063,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05e9-05bb",
+        "learningGoal": "התאמת ההברה שֻ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: שֻ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "גֻ"
+          },
+          {
+            "id": 2,
+            "text": "ווּ"
+          },
+          {
+            "id": 3,
+            "text": "בוּ"
+          },
+          {
+            "id": 4,
+            "text": "שֻ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "שֻ"
+      }
+    ],
+    "shuruk-kubutz:syllable-05ea-05d5-05bc": [
+      {
+        "id": 240064,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05ea-05d5-05bc",
+        "learningGoal": "זיהוי ההברה תוּ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  תוּ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "תוּ"
+          },
+          {
+            "id": 2,
+            "text": "גֻ"
+          },
+          {
+            "id": 3,
+            "text": "זֻ"
+          },
+          {
+            "id": 4,
+            "text": "דוּ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "תוּ"
+      },
+      {
+        "id": 240065,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05ea-05d5-05bc",
+        "learningGoal": "זיהוי הניקוד בהברה תוּ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה תוּ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קמץ"
+          },
+          {
+            "id": 2,
+            "text": "פתח"
+          },
+          {
+            "id": 3,
+            "text": "סגול"
+          },
+          {
+            "id": 4,
+            "text": "שורוק"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "תוּ"
+      },
+      {
+        "id": 240066,
+        "boardId": "shuruk-kubutz",
+        "groupId": "shuruk-kubutz:syllable-05ea-05d5-05bc",
+        "learningGoal": "התאמת ההברה תוּ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: תוּ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "דוּ"
+          },
+          {
+            "id": 2,
+            "text": "זֻ"
+          },
+          {
+            "id": 3,
+            "text": "גֻ"
+          },
+          {
+            "id": 4,
+            "text": "תוּ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "תוּ"
+      }
+    ]
+  }
+}

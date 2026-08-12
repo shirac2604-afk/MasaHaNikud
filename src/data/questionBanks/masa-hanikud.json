@@ -1,0 +1,5258 @@
+{
+  "schemaVersion": 1,
+  "boardId": "masa-hanikud",
+  "version": "2.1.0",
+  "groups": {
+    "masa-hanikud:syllable-05d0-05b8": [
+      {
+        "id": 250001,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d0-05b8",
+        "learningGoal": "זיהוי ההברה אָ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  אָ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "אָ"
+          },
+          {
+            "id": 2,
+            "text": "דֵ"
+          },
+          {
+            "id": 3,
+            "text": "חֻ"
+          },
+          {
+            "id": 4,
+            "text": "לֶ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "symbol": "אָ"
+      },
+      {
+        "id": 250002,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d0-05b8",
+        "learningGoal": "זיהוי הניקוד בהברה אָ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה אָ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קמץ"
+          },
+          {
+            "id": 2,
+            "text": "פתח"
+          },
+          {
+            "id": 3,
+            "text": "סגול"
+          },
+          {
+            "id": 4,
+            "text": "צירה"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "symbol": "אָ"
+      },
+      {
+        "id": 250003,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d0-05b8",
+        "learningGoal": "התאמת ההברה אָ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: אָ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "לֶ"
+          },
+          {
+            "id": 2,
+            "text": "חֻ"
+          },
+          {
+            "id": 3,
+            "text": "דֵ"
+          },
+          {
+            "id": 4,
+            "text": "אָ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 1,
+        "symbol": "אָ"
+      }
+    ],
+    "masa-hanikud:syllable-05d1-05b7": [
+      {
+        "id": 250004,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d1-05b7",
+        "learningGoal": "זיהוי ההברה בַ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  בַ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "בַ"
+          },
+          {
+            "id": 2,
+            "text": "הִ"
+          },
+          {
+            "id": 3,
+            "text": "טוּ"
+          },
+          {
+            "id": 4,
+            "text": "מֵ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "symbol": "בַ"
+      },
+      {
+        "id": 250005,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d1-05b7",
+        "learningGoal": "זיהוי הניקוד בהברה בַ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה בַ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קמץ"
+          },
+          {
+            "id": 2,
+            "text": "סגול"
+          },
+          {
+            "id": 3,
+            "text": "צירה"
+          },
+          {
+            "id": 4,
+            "text": "פתח"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 1,
+        "symbol": "בַ"
+      },
+      {
+        "id": 250006,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d1-05b7",
+        "learningGoal": "התאמת ההברה בַ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: בַ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "מֵ"
+          },
+          {
+            "id": 2,
+            "text": "טוּ"
+          },
+          {
+            "id": 3,
+            "text": "הִ"
+          },
+          {
+            "id": 4,
+            "text": "בַ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 1,
+        "symbol": "בַ"
+      }
+    ],
+    "masa-hanikud:syllable-05d2-05b6": [
+      {
+        "id": 250007,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d2-05b6",
+        "learningGoal": "זיהוי ההברה גֶ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  גֶ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "גֶ"
+          },
+          {
+            "id": 2,
+            "text": "וֹ"
+          },
+          {
+            "id": 3,
+            "text": "יָ"
+          },
+          {
+            "id": 4,
+            "text": "נִ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "symbol": "גֶ"
+      },
+      {
+        "id": 250008,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d2-05b6",
+        "learningGoal": "זיהוי הניקוד בהברה גֶ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה גֶ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "פתח"
+          },
+          {
+            "id": 2,
+            "text": "צירה"
+          },
+          {
+            "id": 3,
+            "text": "סגול"
+          },
+          {
+            "id": 4,
+            "text": "קמץ"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 1,
+        "symbol": "גֶ"
+      },
+      {
+        "id": 250009,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d2-05b6",
+        "learningGoal": "התאמת ההברה גֶ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: גֶ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "נִ"
+          },
+          {
+            "id": 2,
+            "text": "יָ"
+          },
+          {
+            "id": 3,
+            "text": "וֹ"
+          },
+          {
+            "id": 4,
+            "text": "גֶ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 1,
+        "symbol": "גֶ"
+      }
+    ],
+    "masa-hanikud:syllable-05d3-05b5": [
+      {
+        "id": 250010,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d3-05b5",
+        "learningGoal": "זיהוי ההברה דֵ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  דֵ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "דֵ"
+          },
+          {
+            "id": 2,
+            "text": "זוֹ"
+          },
+          {
+            "id": 3,
+            "text": "כַ"
+          },
+          {
+            "id": 4,
+            "text": "סֹ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "symbol": "דֵ"
+      },
+      {
+        "id": 250011,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d3-05b5",
+        "learningGoal": "זיהוי הניקוד בהברה דֵ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה דֵ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סגול"
+          },
+          {
+            "id": 2,
+            "text": "צירה"
+          },
+          {
+            "id": 3,
+            "text": "קמץ"
+          },
+          {
+            "id": 4,
+            "text": "פתח"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 1,
+        "symbol": "דֵ"
+      },
+      {
+        "id": 250012,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d3-05b5",
+        "learningGoal": "התאמת ההברה דֵ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: דֵ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סֹ"
+          },
+          {
+            "id": 2,
+            "text": "כַ"
+          },
+          {
+            "id": 3,
+            "text": "זוֹ"
+          },
+          {
+            "id": 4,
+            "text": "דֵ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 1,
+        "symbol": "דֵ"
+      }
+    ],
+    "masa-hanikud:syllable-05d4-05b4": [
+      {
+        "id": 250013,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d4-05b4",
+        "learningGoal": "זיהוי ההברה הִ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  הִ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "הִ"
+          },
+          {
+            "id": 2,
+            "text": "חֻ"
+          },
+          {
+            "id": 3,
+            "text": "לֶ"
+          },
+          {
+            "id": 4,
+            "text": "עוֹ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "symbol": "הִ"
+      },
+      {
+        "id": 250014,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d4-05b4",
+        "learningGoal": "זיהוי הניקוד בהברה הִ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה הִ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "חיריק"
+          },
+          {
+            "id": 2,
+            "text": "קמץ"
+          },
+          {
+            "id": 3,
+            "text": "פתח"
+          },
+          {
+            "id": 4,
+            "text": "סגול"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "symbol": "הִ"
+      },
+      {
+        "id": 250015,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d4-05b4",
+        "learningGoal": "התאמת ההברה הִ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: הִ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "עוֹ"
+          },
+          {
+            "id": 2,
+            "text": "לֶ"
+          },
+          {
+            "id": 3,
+            "text": "חֻ"
+          },
+          {
+            "id": 4,
+            "text": "הִ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 1,
+        "symbol": "הִ"
+      }
+    ],
+    "masa-hanikud:syllable-05d5-05b9": [
+      {
+        "id": 250016,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d5-05b9",
+        "learningGoal": "זיהוי ההברה וֹ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  וֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "וֹ"
+          },
+          {
+            "id": 2,
+            "text": "טוּ"
+          },
+          {
+            "id": 3,
+            "text": "מֵ"
+          },
+          {
+            "id": 4,
+            "text": "פֻ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "symbol": "וֹ"
+      },
+      {
+        "id": 250017,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d5-05b9",
+        "learningGoal": "זיהוי הניקוד בהברה וֹ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה וֹ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קמץ"
+          },
+          {
+            "id": 2,
+            "text": "פתח"
+          },
+          {
+            "id": 3,
+            "text": "סגול"
+          },
+          {
+            "id": 4,
+            "text": "חולם חסר"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 1,
+        "symbol": "וֹ"
+      },
+      {
+        "id": 250018,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d5-05b9",
+        "learningGoal": "התאמת ההברה וֹ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: וֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "פֻ"
+          },
+          {
+            "id": 2,
+            "text": "מֵ"
+          },
+          {
+            "id": 3,
+            "text": "טוּ"
+          },
+          {
+            "id": 4,
+            "text": "וֹ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 1,
+        "symbol": "וֹ"
+      }
+    ],
+    "masa-hanikud:syllable-05d6-05d5-05b9": [
+      {
+        "id": 250019,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d6-05d5-05b9",
+        "learningGoal": "זיהוי ההברה זוֹ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  זוֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "זוֹ"
+          },
+          {
+            "id": 2,
+            "text": "יָ"
+          },
+          {
+            "id": 3,
+            "text": "נִ"
+          },
+          {
+            "id": 4,
+            "text": "צוּ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "symbol": "זוֹ"
+      },
+      {
+        "id": 250020,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d6-05d5-05b9",
+        "learningGoal": "זיהוי הניקוד בהברה זוֹ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה זוֹ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "פתח"
+          },
+          {
+            "id": 2,
+            "text": "סגול"
+          },
+          {
+            "id": 3,
+            "text": "חולם מלא"
+          },
+          {
+            "id": 4,
+            "text": "קמץ"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 1,
+        "symbol": "זוֹ"
+      },
+      {
+        "id": 250021,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d6-05d5-05b9",
+        "learningGoal": "התאמת ההברה זוֹ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: זוֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "צוּ"
+          },
+          {
+            "id": 2,
+            "text": "נִ"
+          },
+          {
+            "id": 3,
+            "text": "יָ"
+          },
+          {
+            "id": 4,
+            "text": "זוֹ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 1,
+        "symbol": "זוֹ"
+      }
+    ],
+    "masa-hanikud:syllable-05d7-05bb": [
+      {
+        "id": 250022,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d7-05bb",
+        "learningGoal": "זיהוי ההברה חֻ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  חֻ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "חֻ"
+          },
+          {
+            "id": 2,
+            "text": "כַ"
+          },
+          {
+            "id": 3,
+            "text": "סֹ"
+          },
+          {
+            "id": 4,
+            "text": "קָ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "symbol": "חֻ"
+      },
+      {
+        "id": 250023,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d7-05bb",
+        "learningGoal": "זיהוי הניקוד בהברה חֻ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה חֻ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סגול"
+          },
+          {
+            "id": 2,
+            "text": "קובוץ"
+          },
+          {
+            "id": 3,
+            "text": "קמץ"
+          },
+          {
+            "id": 4,
+            "text": "פתח"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 1,
+        "symbol": "חֻ"
+      },
+      {
+        "id": 250024,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d7-05bb",
+        "learningGoal": "התאמת ההברה חֻ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: חֻ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קָ"
+          },
+          {
+            "id": 2,
+            "text": "סֹ"
+          },
+          {
+            "id": 3,
+            "text": "כַ"
+          },
+          {
+            "id": 4,
+            "text": "חֻ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 1,
+        "symbol": "חֻ"
+      }
+    ],
+    "masa-hanikud:syllable-05d8-05d5-05bc": [
+      {
+        "id": 250025,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d8-05d5-05bc",
+        "learningGoal": "זיהוי ההברה טוּ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  טוּ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "טוּ"
+          },
+          {
+            "id": 2,
+            "text": "לֶ"
+          },
+          {
+            "id": 3,
+            "text": "עוֹ"
+          },
+          {
+            "id": 4,
+            "text": "רַ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "symbol": "טוּ"
+      },
+      {
+        "id": 250026,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d8-05d5-05bc",
+        "learningGoal": "זיהוי הניקוד בהברה טוּ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה טוּ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "שורוק"
+          },
+          {
+            "id": 2,
+            "text": "קמץ"
+          },
+          {
+            "id": 3,
+            "text": "פתח"
+          },
+          {
+            "id": 4,
+            "text": "סגול"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "symbol": "טוּ"
+      },
+      {
+        "id": 250027,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d8-05d5-05bc",
+        "learningGoal": "התאמת ההברה טוּ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: טוּ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "רַ"
+          },
+          {
+            "id": 2,
+            "text": "עוֹ"
+          },
+          {
+            "id": 3,
+            "text": "לֶ"
+          },
+          {
+            "id": 4,
+            "text": "טוּ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 1,
+        "symbol": "טוּ"
+      }
+    ],
+    "masa-hanikud:syllable-05d9-05b8": [
+      {
+        "id": 250028,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d9-05b8",
+        "learningGoal": "זיהוי ההברה יָ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  יָ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "יָ"
+          },
+          {
+            "id": 2,
+            "text": "מֵ"
+          },
+          {
+            "id": 3,
+            "text": "פֻ"
+          },
+          {
+            "id": 4,
+            "text": "שֶ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "symbol": "יָ"
+      },
+      {
+        "id": 250029,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d9-05b8",
+        "learningGoal": "זיהוי הניקוד בהברה יָ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה יָ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "פתח"
+          },
+          {
+            "id": 2,
+            "text": "סגול"
+          },
+          {
+            "id": 3,
+            "text": "צירה"
+          },
+          {
+            "id": 4,
+            "text": "קמץ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 1,
+        "symbol": "יָ"
+      },
+      {
+        "id": 250030,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d9-05b8",
+        "learningGoal": "התאמת ההברה יָ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: יָ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "שֶ"
+          },
+          {
+            "id": 2,
+            "text": "פֻ"
+          },
+          {
+            "id": 3,
+            "text": "מֵ"
+          },
+          {
+            "id": 4,
+            "text": "יָ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 1,
+        "symbol": "יָ"
+      }
+    ],
+    "masa-hanikud:syllable-05db-05b7": [
+      {
+        "id": 250031,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05db-05b7",
+        "learningGoal": "זיהוי ההברה כַ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  כַ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "כַ"
+          },
+          {
+            "id": 2,
+            "text": "נִ"
+          },
+          {
+            "id": 3,
+            "text": "צוּ"
+          },
+          {
+            "id": 4,
+            "text": "תֵ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "כַ"
+      },
+      {
+        "id": 250032,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05db-05b7",
+        "learningGoal": "זיהוי הניקוד בהברה כַ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה כַ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סגול"
+          },
+          {
+            "id": 2,
+            "text": "צירה"
+          },
+          {
+            "id": 3,
+            "text": "פתח"
+          },
+          {
+            "id": 4,
+            "text": "קמץ"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 2,
+        "symbol": "כַ"
+      },
+      {
+        "id": 250033,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05db-05b7",
+        "learningGoal": "התאמת ההברה כַ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: כַ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "תֵ"
+          },
+          {
+            "id": 2,
+            "text": "צוּ"
+          },
+          {
+            "id": 3,
+            "text": "נִ"
+          },
+          {
+            "id": 4,
+            "text": "כַ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "כַ"
+      }
+    ],
+    "masa-hanikud:syllable-05dc-05b6": [
+      {
+        "id": 250034,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05dc-05b6",
+        "learningGoal": "זיהוי ההברה לֶ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  לֶ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "לֶ"
+          },
+          {
+            "id": 2,
+            "text": "סֹ"
+          },
+          {
+            "id": 3,
+            "text": "קָ"
+          },
+          {
+            "id": 4,
+            "text": "אִ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "לֶ"
+      },
+      {
+        "id": 250035,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05dc-05b6",
+        "learningGoal": "זיהוי הניקוד בהברה לֶ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה לֶ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "צירה"
+          },
+          {
+            "id": 2,
+            "text": "סגול"
+          },
+          {
+            "id": 3,
+            "text": "קמץ"
+          },
+          {
+            "id": 4,
+            "text": "פתח"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 2,
+        "symbol": "לֶ"
+      },
+      {
+        "id": 250036,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05dc-05b6",
+        "learningGoal": "התאמת ההברה לֶ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: לֶ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "אִ"
+          },
+          {
+            "id": 2,
+            "text": "קָ"
+          },
+          {
+            "id": 3,
+            "text": "סֹ"
+          },
+          {
+            "id": 4,
+            "text": "לֶ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "לֶ"
+      }
+    ],
+    "masa-hanikud:syllable-05de-05b5": [
+      {
+        "id": 250037,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05de-05b5",
+        "learningGoal": "זיהוי ההברה מֵ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  מֵ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "מֵ"
+          },
+          {
+            "id": 2,
+            "text": "עוֹ"
+          },
+          {
+            "id": 3,
+            "text": "רַ"
+          },
+          {
+            "id": 4,
+            "text": "בֹ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "מֵ"
+      },
+      {
+        "id": 250038,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05de-05b5",
+        "learningGoal": "זיהוי הניקוד בהברה מֵ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה מֵ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "צירה"
+          },
+          {
+            "id": 2,
+            "text": "קמץ"
+          },
+          {
+            "id": 3,
+            "text": "פתח"
+          },
+          {
+            "id": 4,
+            "text": "סגול"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "מֵ"
+      },
+      {
+        "id": 250039,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05de-05b5",
+        "learningGoal": "התאמת ההברה מֵ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: מֵ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "בֹ"
+          },
+          {
+            "id": 2,
+            "text": "רַ"
+          },
+          {
+            "id": 3,
+            "text": "עוֹ"
+          },
+          {
+            "id": 4,
+            "text": "מֵ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "מֵ"
+      }
+    ],
+    "masa-hanikud:syllable-05e0-05b4": [
+      {
+        "id": 250040,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05e0-05b4",
+        "learningGoal": "זיהוי ההברה נִ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  נִ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "נִ"
+          },
+          {
+            "id": 2,
+            "text": "פֻ"
+          },
+          {
+            "id": 3,
+            "text": "שֶ"
+          },
+          {
+            "id": 4,
+            "text": "גוֹ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "נִ"
+      },
+      {
+        "id": 250041,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05e0-05b4",
+        "learningGoal": "זיהוי הניקוד בהברה נִ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה נִ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קמץ"
+          },
+          {
+            "id": 2,
+            "text": "פתח"
+          },
+          {
+            "id": 3,
+            "text": "סגול"
+          },
+          {
+            "id": 4,
+            "text": "חיריק"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "נִ"
+      },
+      {
+        "id": 250042,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05e0-05b4",
+        "learningGoal": "התאמת ההברה נִ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: נִ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "גוֹ"
+          },
+          {
+            "id": 2,
+            "text": "שֶ"
+          },
+          {
+            "id": 3,
+            "text": "פֻ"
+          },
+          {
+            "id": 4,
+            "text": "נִ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "נִ"
+      }
+    ],
+    "masa-hanikud:syllable-05e1-05b9": [
+      {
+        "id": 250043,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05e1-05b9",
+        "learningGoal": "זיהוי ההברה סֹ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  סֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סֹ"
+          },
+          {
+            "id": 2,
+            "text": "צוּ"
+          },
+          {
+            "id": 3,
+            "text": "תֵ"
+          },
+          {
+            "id": 4,
+            "text": "דֻ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "סֹ"
+      },
+      {
+        "id": 250044,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05e1-05b9",
+        "learningGoal": "זיהוי הניקוד בהברה סֹ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה סֹ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "פתח"
+          },
+          {
+            "id": 2,
+            "text": "סגול"
+          },
+          {
+            "id": 3,
+            "text": "חולם חסר"
+          },
+          {
+            "id": 4,
+            "text": "קמץ"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 2,
+        "symbol": "סֹ"
+      },
+      {
+        "id": 250045,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05e1-05b9",
+        "learningGoal": "התאמת ההברה סֹ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: סֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "דֻ"
+          },
+          {
+            "id": 2,
+            "text": "תֵ"
+          },
+          {
+            "id": 3,
+            "text": "צוּ"
+          },
+          {
+            "id": 4,
+            "text": "סֹ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "סֹ"
+      }
+    ],
+    "masa-hanikud:syllable-05e2-05d5-05b9": [
+      {
+        "id": 250046,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05e2-05d5-05b9",
+        "learningGoal": "זיהוי ההברה עוֹ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  עוֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "עוֹ"
+          },
+          {
+            "id": 2,
+            "text": "קָ"
+          },
+          {
+            "id": 3,
+            "text": "אִ"
+          },
+          {
+            "id": 4,
+            "text": "הוּ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "עוֹ"
+      },
+      {
+        "id": 250047,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05e2-05d5-05b9",
+        "learningGoal": "זיהוי הניקוד בהברה עוֹ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה עוֹ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סגול"
+          },
+          {
+            "id": 2,
+            "text": "חולם מלא"
+          },
+          {
+            "id": 3,
+            "text": "קמץ"
+          },
+          {
+            "id": 4,
+            "text": "פתח"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 2,
+        "symbol": "עוֹ"
+      },
+      {
+        "id": 250048,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05e2-05d5-05b9",
+        "learningGoal": "התאמת ההברה עוֹ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: עוֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "הוּ"
+          },
+          {
+            "id": 2,
+            "text": "אִ"
+          },
+          {
+            "id": 3,
+            "text": "קָ"
+          },
+          {
+            "id": 4,
+            "text": "עוֹ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "עוֹ"
+      }
+    ],
+    "masa-hanikud:syllable-05e4-05bb": [
+      {
+        "id": 250049,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05e4-05bb",
+        "learningGoal": "זיהוי ההברה פֻ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  פֻ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "פֻ"
+          },
+          {
+            "id": 2,
+            "text": "רַ"
+          },
+          {
+            "id": 3,
+            "text": "בֹ"
+          },
+          {
+            "id": 4,
+            "text": "וָ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "פֻ"
+      },
+      {
+        "id": 250050,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05e4-05bb",
+        "learningGoal": "זיהוי הניקוד בהברה פֻ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה פֻ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קובוץ"
+          },
+          {
+            "id": 2,
+            "text": "קמץ"
+          },
+          {
+            "id": 3,
+            "text": "פתח"
+          },
+          {
+            "id": 4,
+            "text": "סגול"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "פֻ"
+      },
+      {
+        "id": 250051,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05e4-05bb",
+        "learningGoal": "התאמת ההברה פֻ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: פֻ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "וָ"
+          },
+          {
+            "id": 2,
+            "text": "בֹ"
+          },
+          {
+            "id": 3,
+            "text": "רַ"
+          },
+          {
+            "id": 4,
+            "text": "פֻ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "פֻ"
+      }
+    ],
+    "masa-hanikud:syllable-05e6-05d5-05bc": [
+      {
+        "id": 250052,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05e6-05d5-05bc",
+        "learningGoal": "זיהוי ההברה צוּ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  צוּ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "צוּ"
+          },
+          {
+            "id": 2,
+            "text": "שֶ"
+          },
+          {
+            "id": 3,
+            "text": "גוֹ"
+          },
+          {
+            "id": 4,
+            "text": "זַ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "צוּ"
+      },
+      {
+        "id": 250053,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05e6-05d5-05bc",
+        "learningGoal": "זיהוי הניקוד בהברה צוּ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה צוּ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קמץ"
+          },
+          {
+            "id": 2,
+            "text": "פתח"
+          },
+          {
+            "id": 3,
+            "text": "סגול"
+          },
+          {
+            "id": 4,
+            "text": "שורוק"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "צוּ"
+      },
+      {
+        "id": 250054,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05e6-05d5-05bc",
+        "learningGoal": "התאמת ההברה צוּ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: צוּ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "זַ"
+          },
+          {
+            "id": 2,
+            "text": "גוֹ"
+          },
+          {
+            "id": 3,
+            "text": "שֶ"
+          },
+          {
+            "id": 4,
+            "text": "צוּ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "צוּ"
+      }
+    ],
+    "masa-hanikud:syllable-05e7-05b8": [
+      {
+        "id": 250055,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05e7-05b8",
+        "learningGoal": "זיהוי ההברה קָ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  קָ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קָ"
+          },
+          {
+            "id": 2,
+            "text": "תֵ"
+          },
+          {
+            "id": 3,
+            "text": "דֻ"
+          },
+          {
+            "id": 4,
+            "text": "חֶ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "קָ"
+      },
+      {
+        "id": 250056,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05e7-05b8",
+        "learningGoal": "זיהוי הניקוד בהברה קָ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה קָ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סגול"
+          },
+          {
+            "id": 2,
+            "text": "צירה"
+          },
+          {
+            "id": 3,
+            "text": "קמץ"
+          },
+          {
+            "id": 4,
+            "text": "פתח"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 2,
+        "symbol": "קָ"
+      },
+      {
+        "id": 250057,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05e7-05b8",
+        "learningGoal": "התאמת ההברה קָ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: קָ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "חֶ"
+          },
+          {
+            "id": 2,
+            "text": "דֻ"
+          },
+          {
+            "id": 3,
+            "text": "תֵ"
+          },
+          {
+            "id": 4,
+            "text": "קָ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "קָ"
+      }
+    ],
+    "masa-hanikud:syllable-05e8-05b7": [
+      {
+        "id": 250058,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05e8-05b7",
+        "learningGoal": "זיהוי ההברה רַ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  רַ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "רַ"
+          },
+          {
+            "id": 2,
+            "text": "אִ"
+          },
+          {
+            "id": 3,
+            "text": "הוּ"
+          },
+          {
+            "id": 4,
+            "text": "טֵ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "רַ"
+      },
+      {
+        "id": 250059,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05e8-05b7",
+        "learningGoal": "זיהוי הניקוד בהברה רַ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה רַ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "צירה"
+          },
+          {
+            "id": 2,
+            "text": "פתח"
+          },
+          {
+            "id": 3,
+            "text": "קמץ"
+          },
+          {
+            "id": 4,
+            "text": "סגול"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 2,
+        "symbol": "רַ"
+      },
+      {
+        "id": 250060,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05e8-05b7",
+        "learningGoal": "התאמת ההברה רַ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: רַ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "טֵ"
+          },
+          {
+            "id": 2,
+            "text": "הוּ"
+          },
+          {
+            "id": 3,
+            "text": "אִ"
+          },
+          {
+            "id": 4,
+            "text": "רַ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "רַ"
+      }
+    ],
+    "masa-hanikud:syllable-05e9-05b6": [
+      {
+        "id": 250061,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05e9-05b6",
+        "learningGoal": "זיהוי ההברה שֶ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  שֶ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "שֶ"
+          },
+          {
+            "id": 2,
+            "text": "בֹ"
+          },
+          {
+            "id": 3,
+            "text": "וָ"
+          },
+          {
+            "id": 4,
+            "text": "יִ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "שֶ"
+      },
+      {
+        "id": 250062,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05e9-05b6",
+        "learningGoal": "זיהוי הניקוד בהברה שֶ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה שֶ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סגול"
+          },
+          {
+            "id": 2,
+            "text": "קמץ"
+          },
+          {
+            "id": 3,
+            "text": "פתח"
+          },
+          {
+            "id": 4,
+            "text": "צירה"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "שֶ"
+      },
+      {
+        "id": 250063,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05e9-05b6",
+        "learningGoal": "התאמת ההברה שֶ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: שֶ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "יִ"
+          },
+          {
+            "id": 2,
+            "text": "וָ"
+          },
+          {
+            "id": 3,
+            "text": "בֹ"
+          },
+          {
+            "id": 4,
+            "text": "שֶ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "שֶ"
+      }
+    ],
+    "masa-hanikud:syllable-05ea-05b5": [
+      {
+        "id": 250064,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05ea-05b5",
+        "learningGoal": "זיהוי ההברה תֵ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  תֵ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "תֵ"
+          },
+          {
+            "id": 2,
+            "text": "גוֹ"
+          },
+          {
+            "id": 3,
+            "text": "זַ"
+          },
+          {
+            "id": 4,
+            "text": "כֹ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "תֵ"
+      },
+      {
+        "id": 250065,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05ea-05b5",
+        "learningGoal": "זיהוי הניקוד בהברה תֵ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה תֵ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קמץ"
+          },
+          {
+            "id": 2,
+            "text": "פתח"
+          },
+          {
+            "id": 3,
+            "text": "סגול"
+          },
+          {
+            "id": 4,
+            "text": "צירה"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "תֵ"
+      },
+      {
+        "id": 250066,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05ea-05b5",
+        "learningGoal": "התאמת ההברה תֵ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: תֵ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "כֹ"
+          },
+          {
+            "id": 2,
+            "text": "זַ"
+          },
+          {
+            "id": 3,
+            "text": "גוֹ"
+          },
+          {
+            "id": 4,
+            "text": "תֵ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "תֵ"
+      }
+    ],
+    "masa-hanikud:syllable-05d0-05b4": [
+      {
+        "id": 250067,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d0-05b4",
+        "learningGoal": "זיהוי ההברה אִ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  אִ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "אִ"
+          },
+          {
+            "id": 2,
+            "text": "דֻ"
+          },
+          {
+            "id": 3,
+            "text": "חֶ"
+          },
+          {
+            "id": 4,
+            "text": "לוֹ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "אִ"
+      },
+      {
+        "id": 250068,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d0-05b4",
+        "learningGoal": "זיהוי הניקוד בהברה אִ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה אִ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "פתח"
+          },
+          {
+            "id": 2,
+            "text": "סגול"
+          },
+          {
+            "id": 3,
+            "text": "חיריק"
+          },
+          {
+            "id": 4,
+            "text": "קמץ"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 3,
+        "symbol": "אִ"
+      },
+      {
+        "id": 250069,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d0-05b4",
+        "learningGoal": "התאמת ההברה אִ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: אִ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "לוֹ"
+          },
+          {
+            "id": 2,
+            "text": "חֶ"
+          },
+          {
+            "id": 3,
+            "text": "דֻ"
+          },
+          {
+            "id": 4,
+            "text": "אִ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "אִ"
+      }
+    ],
+    "masa-hanikud:syllable-05d1-05b9": [
+      {
+        "id": 250070,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d1-05b9",
+        "learningGoal": "זיהוי ההברה בֹ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  בֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "בֹ"
+          },
+          {
+            "id": 2,
+            "text": "הוּ"
+          },
+          {
+            "id": 3,
+            "text": "טֵ"
+          },
+          {
+            "id": 4,
+            "text": "מֻ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "בֹ"
+      },
+      {
+        "id": 250071,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d1-05b9",
+        "learningGoal": "זיהוי הניקוד בהברה בֹ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה בֹ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סגול"
+          },
+          {
+            "id": 2,
+            "text": "חולם חסר"
+          },
+          {
+            "id": 3,
+            "text": "קמץ"
+          },
+          {
+            "id": 4,
+            "text": "פתח"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 3,
+        "symbol": "בֹ"
+      },
+      {
+        "id": 250072,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d1-05b9",
+        "learningGoal": "התאמת ההברה בֹ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: בֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "מֻ"
+          },
+          {
+            "id": 2,
+            "text": "טֵ"
+          },
+          {
+            "id": 3,
+            "text": "הוּ"
+          },
+          {
+            "id": 4,
+            "text": "בֹ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "בֹ"
+      }
+    ],
+    "masa-hanikud:syllable-05d2-05d5-05b9": [
+      {
+        "id": 250073,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d2-05d5-05b9",
+        "learningGoal": "זיהוי ההברה גוֹ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  גוֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "גוֹ"
+          },
+          {
+            "id": 2,
+            "text": "וָ"
+          },
+          {
+            "id": 3,
+            "text": "יִ"
+          },
+          {
+            "id": 4,
+            "text": "נוּ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "גוֹ"
+      },
+      {
+        "id": 250074,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d2-05d5-05b9",
+        "learningGoal": "זיהוי הניקוד בהברה גוֹ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה גוֹ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "חולם מלא"
+          },
+          {
+            "id": 2,
+            "text": "קמץ"
+          },
+          {
+            "id": 3,
+            "text": "פתח"
+          },
+          {
+            "id": 4,
+            "text": "סגול"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "גוֹ"
+      },
+      {
+        "id": 250075,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d2-05d5-05b9",
+        "learningGoal": "התאמת ההברה גוֹ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: גוֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "נוּ"
+          },
+          {
+            "id": 2,
+            "text": "יִ"
+          },
+          {
+            "id": 3,
+            "text": "וָ"
+          },
+          {
+            "id": 4,
+            "text": "גוֹ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "גוֹ"
+      }
+    ],
+    "masa-hanikud:syllable-05d3-05bb": [
+      {
+        "id": 250076,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d3-05bb",
+        "learningGoal": "זיהוי ההברה דֻ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  דֻ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "דֻ"
+          },
+          {
+            "id": 2,
+            "text": "זַ"
+          },
+          {
+            "id": 3,
+            "text": "כֹ"
+          },
+          {
+            "id": 4,
+            "text": "סָ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "דֻ"
+      },
+      {
+        "id": 250077,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d3-05bb",
+        "learningGoal": "זיהוי הניקוד בהברה דֻ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה דֻ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קמץ"
+          },
+          {
+            "id": 2,
+            "text": "פתח"
+          },
+          {
+            "id": 3,
+            "text": "סגול"
+          },
+          {
+            "id": 4,
+            "text": "קובוץ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "דֻ"
+      },
+      {
+        "id": 250078,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d3-05bb",
+        "learningGoal": "התאמת ההברה דֻ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: דֻ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סָ"
+          },
+          {
+            "id": 2,
+            "text": "כֹ"
+          },
+          {
+            "id": 3,
+            "text": "זַ"
+          },
+          {
+            "id": 4,
+            "text": "דֻ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "דֻ"
+      }
+    ],
+    "masa-hanikud:syllable-05d4-05d5-05bc": [
+      {
+        "id": 250079,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d4-05d5-05bc",
+        "learningGoal": "זיהוי ההברה הוּ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  הוּ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "הוּ"
+          },
+          {
+            "id": 2,
+            "text": "חֶ"
+          },
+          {
+            "id": 3,
+            "text": "לוֹ"
+          },
+          {
+            "id": 4,
+            "text": "עַ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "הוּ"
+      },
+      {
+        "id": 250080,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d4-05d5-05bc",
+        "learningGoal": "זיהוי הניקוד בהברה הוּ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה הוּ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "פתח"
+          },
+          {
+            "id": 2,
+            "text": "סגול"
+          },
+          {
+            "id": 3,
+            "text": "שורוק"
+          },
+          {
+            "id": 4,
+            "text": "קמץ"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 3,
+        "symbol": "הוּ"
+      },
+      {
+        "id": 250081,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d4-05d5-05bc",
+        "learningGoal": "התאמת ההברה הוּ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: הוּ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "עַ"
+          },
+          {
+            "id": 2,
+            "text": "לוֹ"
+          },
+          {
+            "id": 3,
+            "text": "חֶ"
+          },
+          {
+            "id": 4,
+            "text": "הוּ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "הוּ"
+      }
+    ],
+    "masa-hanikud:syllable-05d5-05b8": [
+      {
+        "id": 250082,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d5-05b8",
+        "learningGoal": "זיהוי ההברה וָ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  וָ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "וָ"
+          },
+          {
+            "id": 2,
+            "text": "טֵ"
+          },
+          {
+            "id": 3,
+            "text": "מֻ"
+          },
+          {
+            "id": 4,
+            "text": "פֶ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "וָ"
+      },
+      {
+        "id": 250083,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d5-05b8",
+        "learningGoal": "זיהוי הניקוד בהברה וָ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה וָ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "צירה"
+          },
+          {
+            "id": 2,
+            "text": "קמץ"
+          },
+          {
+            "id": 3,
+            "text": "פתח"
+          },
+          {
+            "id": 4,
+            "text": "סגול"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 3,
+        "symbol": "וָ"
+      },
+      {
+        "id": 250084,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d5-05b8",
+        "learningGoal": "התאמת ההברה וָ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: וָ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "פֶ"
+          },
+          {
+            "id": 2,
+            "text": "מֻ"
+          },
+          {
+            "id": 3,
+            "text": "טֵ"
+          },
+          {
+            "id": 4,
+            "text": "וָ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "וָ"
+      }
+    ],
+    "masa-hanikud:syllable-05d6-05b7": [
+      {
+        "id": 250085,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d6-05b7",
+        "learningGoal": "זיהוי ההברה זַ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  זַ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "זַ"
+          },
+          {
+            "id": 2,
+            "text": "יִ"
+          },
+          {
+            "id": 3,
+            "text": "נוּ"
+          },
+          {
+            "id": 4,
+            "text": "צֵ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "זַ"
+      },
+      {
+        "id": 250086,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d6-05b7",
+        "learningGoal": "זיהוי הניקוד בהברה זַ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה זַ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "פתח"
+          },
+          {
+            "id": 2,
+            "text": "קמץ"
+          },
+          {
+            "id": 3,
+            "text": "סגול"
+          },
+          {
+            "id": 4,
+            "text": "צירה"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "זַ"
+      },
+      {
+        "id": 250087,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d6-05b7",
+        "learningGoal": "התאמת ההברה זַ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: זַ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "צֵ"
+          },
+          {
+            "id": 2,
+            "text": "נוּ"
+          },
+          {
+            "id": 3,
+            "text": "יִ"
+          },
+          {
+            "id": 4,
+            "text": "זַ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "זַ"
+      }
+    ],
+    "masa-hanikud:syllable-05d7-05b6": [
+      {
+        "id": 250088,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d7-05b6",
+        "learningGoal": "זיהוי ההברה חֶ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  חֶ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "חֶ"
+          },
+          {
+            "id": 2,
+            "text": "כֹ"
+          },
+          {
+            "id": 3,
+            "text": "סָ"
+          },
+          {
+            "id": 4,
+            "text": "קִ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "חֶ"
+      },
+      {
+        "id": 250089,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d7-05b6",
+        "learningGoal": "זיהוי הניקוד בהברה חֶ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה חֶ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קמץ"
+          },
+          {
+            "id": 2,
+            "text": "פתח"
+          },
+          {
+            "id": 3,
+            "text": "צירה"
+          },
+          {
+            "id": 4,
+            "text": "סגול"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "חֶ"
+      },
+      {
+        "id": 250090,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d7-05b6",
+        "learningGoal": "התאמת ההברה חֶ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: חֶ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קִ"
+          },
+          {
+            "id": 2,
+            "text": "סָ"
+          },
+          {
+            "id": 3,
+            "text": "כֹ"
+          },
+          {
+            "id": 4,
+            "text": "חֶ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "חֶ"
+      }
+    ],
+    "masa-hanikud:syllable-05d8-05b5": [
+      {
+        "id": 250091,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d8-05b5",
+        "learningGoal": "זיהוי ההברה טֵ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  טֵ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "טֵ"
+          },
+          {
+            "id": 2,
+            "text": "לוֹ"
+          },
+          {
+            "id": 3,
+            "text": "עַ"
+          },
+          {
+            "id": 4,
+            "text": "רֹ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "טֵ"
+      },
+      {
+        "id": 250092,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d8-05b5",
+        "learningGoal": "זיהוי הניקוד בהברה טֵ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה טֵ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "פתח"
+          },
+          {
+            "id": 2,
+            "text": "סגול"
+          },
+          {
+            "id": 3,
+            "text": "צירה"
+          },
+          {
+            "id": 4,
+            "text": "קמץ"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 3,
+        "symbol": "טֵ"
+      },
+      {
+        "id": 250093,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d8-05b5",
+        "learningGoal": "התאמת ההברה טֵ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: טֵ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "רֹ"
+          },
+          {
+            "id": 2,
+            "text": "עַ"
+          },
+          {
+            "id": 3,
+            "text": "לוֹ"
+          },
+          {
+            "id": 4,
+            "text": "טֵ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "טֵ"
+      }
+    ],
+    "masa-hanikud:syllable-05d9-05b4": [
+      {
+        "id": 250094,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d9-05b4",
+        "learningGoal": "זיהוי ההברה יִ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  יִ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "יִ"
+          },
+          {
+            "id": 2,
+            "text": "מֻ"
+          },
+          {
+            "id": 3,
+            "text": "פֶ"
+          },
+          {
+            "id": 4,
+            "text": "שוֹ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "יִ"
+      },
+      {
+        "id": 250095,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d9-05b4",
+        "learningGoal": "זיהוי הניקוד בהברה יִ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה יִ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סגול"
+          },
+          {
+            "id": 2,
+            "text": "חיריק"
+          },
+          {
+            "id": 3,
+            "text": "קמץ"
+          },
+          {
+            "id": 4,
+            "text": "פתח"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 3,
+        "symbol": "יִ"
+      },
+      {
+        "id": 250096,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d9-05b4",
+        "learningGoal": "התאמת ההברה יִ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: יִ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "שוֹ"
+          },
+          {
+            "id": 2,
+            "text": "פֶ"
+          },
+          {
+            "id": 3,
+            "text": "מֻ"
+          },
+          {
+            "id": 4,
+            "text": "יִ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "יִ"
+      }
+    ],
+    "masa-hanikud:syllable-05db-05b9": [
+      {
+        "id": 250097,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05db-05b9",
+        "learningGoal": "זיהוי ההברה כֹ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  כֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "כֹ"
+          },
+          {
+            "id": 2,
+            "text": "נוּ"
+          },
+          {
+            "id": 3,
+            "text": "צֵ"
+          },
+          {
+            "id": 4,
+            "text": "תֻ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "כֹ"
+      },
+      {
+        "id": 250098,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05db-05b9",
+        "learningGoal": "זיהוי הניקוד בהברה כֹ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה כֹ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "חולם חסר"
+          },
+          {
+            "id": 2,
+            "text": "קמץ"
+          },
+          {
+            "id": 3,
+            "text": "פתח"
+          },
+          {
+            "id": 4,
+            "text": "סגול"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "כֹ"
+      },
+      {
+        "id": 250099,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05db-05b9",
+        "learningGoal": "התאמת ההברה כֹ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: כֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "תֻ"
+          },
+          {
+            "id": 2,
+            "text": "צֵ"
+          },
+          {
+            "id": 3,
+            "text": "נוּ"
+          },
+          {
+            "id": 4,
+            "text": "כֹ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "כֹ"
+      }
+    ],
+    "masa-hanikud:syllable-05dc-05d5-05b9": [
+      {
+        "id": 250100,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05dc-05d5-05b9",
+        "learningGoal": "זיהוי ההברה לוֹ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  לוֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "לוֹ"
+          },
+          {
+            "id": 2,
+            "text": "סָ"
+          },
+          {
+            "id": 3,
+            "text": "קִ"
+          },
+          {
+            "id": 4,
+            "text": "אוּ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "לוֹ"
+      },
+      {
+        "id": 250101,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05dc-05d5-05b9",
+        "learningGoal": "זיהוי הניקוד בהברה לוֹ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה לוֹ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קמץ"
+          },
+          {
+            "id": 2,
+            "text": "פתח"
+          },
+          {
+            "id": 3,
+            "text": "סגול"
+          },
+          {
+            "id": 4,
+            "text": "חולם מלא"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "לוֹ"
+      },
+      {
+        "id": 250102,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05dc-05d5-05b9",
+        "learningGoal": "התאמת ההברה לוֹ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: לוֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "אוּ"
+          },
+          {
+            "id": 2,
+            "text": "קִ"
+          },
+          {
+            "id": 3,
+            "text": "סָ"
+          },
+          {
+            "id": 4,
+            "text": "לוֹ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "לוֹ"
+      }
+    ],
+    "masa-hanikud:syllable-05de-05bb": [
+      {
+        "id": 250103,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05de-05bb",
+        "learningGoal": "זיהוי ההברה מֻ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  מֻ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "מֻ"
+          },
+          {
+            "id": 2,
+            "text": "עַ"
+          },
+          {
+            "id": 3,
+            "text": "רֹ"
+          },
+          {
+            "id": 4,
+            "text": "בָ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "מֻ"
+      },
+      {
+        "id": 250104,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05de-05bb",
+        "learningGoal": "זיהוי הניקוד בהברה מֻ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה מֻ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "פתח"
+          },
+          {
+            "id": 2,
+            "text": "סגול"
+          },
+          {
+            "id": 3,
+            "text": "קובוץ"
+          },
+          {
+            "id": 4,
+            "text": "קמץ"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 3,
+        "symbol": "מֻ"
+      },
+      {
+        "id": 250105,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05de-05bb",
+        "learningGoal": "התאמת ההברה מֻ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: מֻ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "בָ"
+          },
+          {
+            "id": 2,
+            "text": "רֹ"
+          },
+          {
+            "id": 3,
+            "text": "עַ"
+          },
+          {
+            "id": 4,
+            "text": "מֻ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "מֻ"
+      }
+    ],
+    "masa-hanikud:syllable-05e0-05d5-05bc": [
+      {
+        "id": 250106,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05e0-05d5-05bc",
+        "learningGoal": "זיהוי ההברה נוּ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  נוּ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "נוּ"
+          },
+          {
+            "id": 2,
+            "text": "פֶ"
+          },
+          {
+            "id": 3,
+            "text": "שוֹ"
+          },
+          {
+            "id": 4,
+            "text": "גַ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "נוּ"
+      },
+      {
+        "id": 250107,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05e0-05d5-05bc",
+        "learningGoal": "זיהוי הניקוד בהברה נוּ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה נוּ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סגול"
+          },
+          {
+            "id": 2,
+            "text": "שורוק"
+          },
+          {
+            "id": 3,
+            "text": "קמץ"
+          },
+          {
+            "id": 4,
+            "text": "פתח"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 3,
+        "symbol": "נוּ"
+      },
+      {
+        "id": 250108,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05e0-05d5-05bc",
+        "learningGoal": "התאמת ההברה נוּ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: נוּ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "גַ"
+          },
+          {
+            "id": 2,
+            "text": "שוֹ"
+          },
+          {
+            "id": 3,
+            "text": "פֶ"
+          },
+          {
+            "id": 4,
+            "text": "נוּ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "נוּ"
+      }
+    ],
+    "masa-hanikud:syllable-05e1-05b8": [
+      {
+        "id": 250109,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05e1-05b8",
+        "learningGoal": "זיהוי ההברה סָ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  סָ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סָ"
+          },
+          {
+            "id": 2,
+            "text": "צֵ"
+          },
+          {
+            "id": 3,
+            "text": "תֻ"
+          },
+          {
+            "id": 4,
+            "text": "דֶ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "סָ"
+      },
+      {
+        "id": 250110,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05e1-05b8",
+        "learningGoal": "זיהוי הניקוד בהברה סָ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה סָ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קמץ"
+          },
+          {
+            "id": 2,
+            "text": "פתח"
+          },
+          {
+            "id": 3,
+            "text": "סגול"
+          },
+          {
+            "id": 4,
+            "text": "צירה"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "סָ"
+      },
+      {
+        "id": 250111,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05e1-05b8",
+        "learningGoal": "התאמת ההברה סָ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: סָ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "דֶ"
+          },
+          {
+            "id": 2,
+            "text": "תֻ"
+          },
+          {
+            "id": 3,
+            "text": "צֵ"
+          },
+          {
+            "id": 4,
+            "text": "סָ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "סָ"
+      }
+    ],
+    "masa-hanikud:syllable-05e2-05b7": [
+      {
+        "id": 250112,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05e2-05b7",
+        "learningGoal": "זיהוי ההברה עַ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  עַ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "עַ"
+          },
+          {
+            "id": 2,
+            "text": "קִ"
+          },
+          {
+            "id": 3,
+            "text": "אוּ"
+          },
+          {
+            "id": 4,
+            "text": "הֵ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "עַ"
+      },
+      {
+        "id": 250113,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05e2-05b7",
+        "learningGoal": "זיהוי הניקוד בהברה עַ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה עַ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קמץ"
+          },
+          {
+            "id": 2,
+            "text": "סגול"
+          },
+          {
+            "id": 3,
+            "text": "צירה"
+          },
+          {
+            "id": 4,
+            "text": "פתח"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "עַ"
+      },
+      {
+        "id": 250114,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05e2-05b7",
+        "learningGoal": "התאמת ההברה עַ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: עַ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "הֵ"
+          },
+          {
+            "id": 2,
+            "text": "אוּ"
+          },
+          {
+            "id": 3,
+            "text": "קִ"
+          },
+          {
+            "id": 4,
+            "text": "עַ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "עַ"
+      }
+    ],
+    "masa-hanikud:syllable-05e4-05b6": [
+      {
+        "id": 250115,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05e4-05b6",
+        "learningGoal": "זיהוי ההברה פֶ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  פֶ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "פֶ"
+          },
+          {
+            "id": 2,
+            "text": "רֹ"
+          },
+          {
+            "id": 3,
+            "text": "בָ"
+          },
+          {
+            "id": 4,
+            "text": "וִ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "פֶ"
+      },
+      {
+        "id": 250116,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05e4-05b6",
+        "learningGoal": "זיהוי הניקוד בהברה פֶ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה פֶ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "פתח"
+          },
+          {
+            "id": 2,
+            "text": "צירה"
+          },
+          {
+            "id": 3,
+            "text": "סגול"
+          },
+          {
+            "id": 4,
+            "text": "קמץ"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 3,
+        "symbol": "פֶ"
+      },
+      {
+        "id": 250117,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05e4-05b6",
+        "learningGoal": "התאמת ההברה פֶ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: פֶ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "וִ"
+          },
+          {
+            "id": 2,
+            "text": "בָ"
+          },
+          {
+            "id": 3,
+            "text": "רֹ"
+          },
+          {
+            "id": 4,
+            "text": "פֶ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "פֶ"
+      }
+    ],
+    "masa-hanikud:syllable-05e6-05b5": [
+      {
+        "id": 250118,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05e6-05b5",
+        "learningGoal": "זיהוי ההברה צֵ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  צֵ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "צֵ"
+          },
+          {
+            "id": 2,
+            "text": "שוֹ"
+          },
+          {
+            "id": 3,
+            "text": "גַ"
+          },
+          {
+            "id": 4,
+            "text": "זֹ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "צֵ"
+      },
+      {
+        "id": 250119,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05e6-05b5",
+        "learningGoal": "זיהוי הניקוד בהברה צֵ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה צֵ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סגול"
+          },
+          {
+            "id": 2,
+            "text": "צירה"
+          },
+          {
+            "id": 3,
+            "text": "קמץ"
+          },
+          {
+            "id": 4,
+            "text": "פתח"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 3,
+        "symbol": "צֵ"
+      },
+      {
+        "id": 250120,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05e6-05b5",
+        "learningGoal": "התאמת ההברה צֵ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: צֵ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "זֹ"
+          },
+          {
+            "id": 2,
+            "text": "גַ"
+          },
+          {
+            "id": 3,
+            "text": "שוֹ"
+          },
+          {
+            "id": 4,
+            "text": "צֵ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "צֵ"
+      }
+    ],
+    "masa-hanikud:syllable-05e7-05b4": [
+      {
+        "id": 250121,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05e7-05b4",
+        "learningGoal": "זיהוי ההברה קִ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  קִ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קִ"
+          },
+          {
+            "id": 2,
+            "text": "תֻ"
+          },
+          {
+            "id": 3,
+            "text": "דֶ"
+          },
+          {
+            "id": 4,
+            "text": "חוֹ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "קִ"
+      },
+      {
+        "id": 250122,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05e7-05b4",
+        "learningGoal": "זיהוי הניקוד בהברה קִ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה קִ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "חיריק"
+          },
+          {
+            "id": 2,
+            "text": "קמץ"
+          },
+          {
+            "id": 3,
+            "text": "פתח"
+          },
+          {
+            "id": 4,
+            "text": "סגול"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "קִ"
+      },
+      {
+        "id": 250123,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05e7-05b4",
+        "learningGoal": "התאמת ההברה קִ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: קִ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "חוֹ"
+          },
+          {
+            "id": 2,
+            "text": "דֶ"
+          },
+          {
+            "id": 3,
+            "text": "תֻ"
+          },
+          {
+            "id": 4,
+            "text": "קִ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "קִ"
+      }
+    ],
+    "masa-hanikud:syllable-05e8-05b9": [
+      {
+        "id": 250124,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05e8-05b9",
+        "learningGoal": "זיהוי ההברה רֹ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  רֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "רֹ"
+          },
+          {
+            "id": 2,
+            "text": "אוּ"
+          },
+          {
+            "id": 3,
+            "text": "הֵ"
+          },
+          {
+            "id": 4,
+            "text": "טֻ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "רֹ"
+      },
+      {
+        "id": 250125,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05e8-05b9",
+        "learningGoal": "זיהוי הניקוד בהברה רֹ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה רֹ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קמץ"
+          },
+          {
+            "id": 2,
+            "text": "פתח"
+          },
+          {
+            "id": 3,
+            "text": "סגול"
+          },
+          {
+            "id": 4,
+            "text": "חולם חסר"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "רֹ"
+      },
+      {
+        "id": 250126,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05e8-05b9",
+        "learningGoal": "התאמת ההברה רֹ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: רֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "טֻ"
+          },
+          {
+            "id": 2,
+            "text": "הֵ"
+          },
+          {
+            "id": 3,
+            "text": "אוּ"
+          },
+          {
+            "id": 4,
+            "text": "רֹ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "רֹ"
+      }
+    ],
+    "masa-hanikud:syllable-05e9-05d5-05b9": [
+      {
+        "id": 250127,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05e9-05d5-05b9",
+        "learningGoal": "זיהוי ההברה שוֹ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  שוֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "שוֹ"
+          },
+          {
+            "id": 2,
+            "text": "בָ"
+          },
+          {
+            "id": 3,
+            "text": "וִ"
+          },
+          {
+            "id": 4,
+            "text": "יוּ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "שוֹ"
+      },
+      {
+        "id": 250128,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05e9-05d5-05b9",
+        "learningGoal": "זיהוי הניקוד בהברה שוֹ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה שוֹ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "פתח"
+          },
+          {
+            "id": 2,
+            "text": "סגול"
+          },
+          {
+            "id": 3,
+            "text": "חולם מלא"
+          },
+          {
+            "id": 4,
+            "text": "קמץ"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 3,
+        "symbol": "שוֹ"
+      },
+      {
+        "id": 250129,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05e9-05d5-05b9",
+        "learningGoal": "התאמת ההברה שוֹ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: שוֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "יוּ"
+          },
+          {
+            "id": 2,
+            "text": "וִ"
+          },
+          {
+            "id": 3,
+            "text": "בָ"
+          },
+          {
+            "id": 4,
+            "text": "שוֹ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "שוֹ"
+      }
+    ],
+    "masa-hanikud:syllable-05ea-05bb": [
+      {
+        "id": 250130,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05ea-05bb",
+        "learningGoal": "זיהוי ההברה תֻ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  תֻ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "תֻ"
+          },
+          {
+            "id": 2,
+            "text": "גַ"
+          },
+          {
+            "id": 3,
+            "text": "זֹ"
+          },
+          {
+            "id": 4,
+            "text": "כָ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "תֻ"
+      },
+      {
+        "id": 250131,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05ea-05bb",
+        "learningGoal": "זיהוי הניקוד בהברה תֻ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה תֻ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סגול"
+          },
+          {
+            "id": 2,
+            "text": "קובוץ"
+          },
+          {
+            "id": 3,
+            "text": "קמץ"
+          },
+          {
+            "id": 4,
+            "text": "פתח"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 3,
+        "symbol": "תֻ"
+      },
+      {
+        "id": 250132,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05ea-05bb",
+        "learningGoal": "התאמת ההברה תֻ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: תֻ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "כָ"
+          },
+          {
+            "id": 2,
+            "text": "זֹ"
+          },
+          {
+            "id": 3,
+            "text": "גַ"
+          },
+          {
+            "id": 4,
+            "text": "תֻ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "תֻ"
+      }
+    ],
+    "masa-hanikud:syllable-05d0-05d5-05bc": [
+      {
+        "id": 250133,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d0-05d5-05bc",
+        "learningGoal": "זיהוי ההברה אוּ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  אוּ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "אוּ"
+          },
+          {
+            "id": 2,
+            "text": "דֶ"
+          },
+          {
+            "id": 3,
+            "text": "חוֹ"
+          },
+          {
+            "id": 4,
+            "text": "לַ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "אוּ"
+      },
+      {
+        "id": 250134,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d0-05d5-05bc",
+        "learningGoal": "זיהוי הניקוד בהברה אוּ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה אוּ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "שורוק"
+          },
+          {
+            "id": 2,
+            "text": "קמץ"
+          },
+          {
+            "id": 3,
+            "text": "פתח"
+          },
+          {
+            "id": 4,
+            "text": "סגול"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "אוּ"
+      },
+      {
+        "id": 250135,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d0-05d5-05bc",
+        "learningGoal": "התאמת ההברה אוּ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: אוּ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "לַ"
+          },
+          {
+            "id": 2,
+            "text": "חוֹ"
+          },
+          {
+            "id": 3,
+            "text": "דֶ"
+          },
+          {
+            "id": 4,
+            "text": "אוּ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "אוּ"
+      }
+    ],
+    "masa-hanikud:syllable-05d1-05b8": [
+      {
+        "id": 250136,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d1-05b8",
+        "learningGoal": "זיהוי ההברה בָ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  בָ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "בָ"
+          },
+          {
+            "id": 2,
+            "text": "הֵ"
+          },
+          {
+            "id": 3,
+            "text": "טֻ"
+          },
+          {
+            "id": 4,
+            "text": "מֶ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "בָ"
+      },
+      {
+        "id": 250137,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d1-05b8",
+        "learningGoal": "זיהוי הניקוד בהברה בָ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה בָ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "פתח"
+          },
+          {
+            "id": 2,
+            "text": "סגול"
+          },
+          {
+            "id": 3,
+            "text": "צירה"
+          },
+          {
+            "id": 4,
+            "text": "קמץ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "בָ"
+      },
+      {
+        "id": 250138,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d1-05b8",
+        "learningGoal": "התאמת ההברה בָ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: בָ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "מֶ"
+          },
+          {
+            "id": 2,
+            "text": "טֻ"
+          },
+          {
+            "id": 3,
+            "text": "הֵ"
+          },
+          {
+            "id": 4,
+            "text": "בָ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "בָ"
+      }
+    ],
+    "masa-hanikud:syllable-05d2-05b7": [
+      {
+        "id": 250139,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d2-05b7",
+        "learningGoal": "זיהוי ההברה גַ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  גַ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "גַ"
+          },
+          {
+            "id": 2,
+            "text": "וִ"
+          },
+          {
+            "id": 3,
+            "text": "יוּ"
+          },
+          {
+            "id": 4,
+            "text": "נֵ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "גַ"
+      },
+      {
+        "id": 250140,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d2-05b7",
+        "learningGoal": "זיהוי הניקוד בהברה גַ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה גַ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סגול"
+          },
+          {
+            "id": 2,
+            "text": "צירה"
+          },
+          {
+            "id": 3,
+            "text": "פתח"
+          },
+          {
+            "id": 4,
+            "text": "קמץ"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 3,
+        "symbol": "גַ"
+      },
+      {
+        "id": 250141,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d2-05b7",
+        "learningGoal": "התאמת ההברה גַ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: גַ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "נֵ"
+          },
+          {
+            "id": 2,
+            "text": "יוּ"
+          },
+          {
+            "id": 3,
+            "text": "וִ"
+          },
+          {
+            "id": 4,
+            "text": "גַ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "גַ"
+      }
+    ],
+    "masa-hanikud:syllable-05d3-05b6": [
+      {
+        "id": 250142,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d3-05b6",
+        "learningGoal": "זיהוי ההברה דֶ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  דֶ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "דֶ"
+          },
+          {
+            "id": 2,
+            "text": "זֹ"
+          },
+          {
+            "id": 3,
+            "text": "כָ"
+          },
+          {
+            "id": 4,
+            "text": "סִ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "דֶ"
+      },
+      {
+        "id": 250143,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d3-05b6",
+        "learningGoal": "זיהוי הניקוד בהברה דֶ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה דֶ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "צירה"
+          },
+          {
+            "id": 2,
+            "text": "סגול"
+          },
+          {
+            "id": 3,
+            "text": "קמץ"
+          },
+          {
+            "id": 4,
+            "text": "פתח"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 3,
+        "symbol": "דֶ"
+      },
+      {
+        "id": 250144,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d3-05b6",
+        "learningGoal": "התאמת ההברה דֶ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: דֶ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סִ"
+          },
+          {
+            "id": 2,
+            "text": "כָ"
+          },
+          {
+            "id": 3,
+            "text": "זֹ"
+          },
+          {
+            "id": 4,
+            "text": "דֶ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "דֶ"
+      }
+    ],
+    "masa-hanikud:syllable-05d4-05b5": [
+      {
+        "id": 250145,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d4-05b5",
+        "learningGoal": "זיהוי ההברה הֵ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  הֵ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "הֵ"
+          },
+          {
+            "id": 2,
+            "text": "חוֹ"
+          },
+          {
+            "id": 3,
+            "text": "לַ"
+          },
+          {
+            "id": 4,
+            "text": "עֹ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "הֵ"
+      },
+      {
+        "id": 250146,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d4-05b5",
+        "learningGoal": "זיהוי הניקוד בהברה הֵ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה הֵ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "צירה"
+          },
+          {
+            "id": 2,
+            "text": "קמץ"
+          },
+          {
+            "id": 3,
+            "text": "פתח"
+          },
+          {
+            "id": 4,
+            "text": "סגול"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "הֵ"
+      },
+      {
+        "id": 250147,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d4-05b5",
+        "learningGoal": "התאמת ההברה הֵ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: הֵ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "עֹ"
+          },
+          {
+            "id": 2,
+            "text": "לַ"
+          },
+          {
+            "id": 3,
+            "text": "חוֹ"
+          },
+          {
+            "id": 4,
+            "text": "הֵ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "הֵ"
+      }
+    ],
+    "masa-hanikud:syllable-05d5-05b4": [
+      {
+        "id": 250148,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d5-05b4",
+        "learningGoal": "זיהוי ההברה וִ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  וִ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "וִ"
+          },
+          {
+            "id": 2,
+            "text": "טֻ"
+          },
+          {
+            "id": 3,
+            "text": "מֶ"
+          },
+          {
+            "id": 4,
+            "text": "אָ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "וִ"
+      },
+      {
+        "id": 250149,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d5-05b4",
+        "learningGoal": "זיהוי הניקוד בהברה וִ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה וִ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קמץ"
+          },
+          {
+            "id": 2,
+            "text": "פתח"
+          },
+          {
+            "id": 3,
+            "text": "סגול"
+          },
+          {
+            "id": 4,
+            "text": "חיריק"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "וִ"
+      },
+      {
+        "id": 250150,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d5-05b4",
+        "learningGoal": "התאמת ההברה וִ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: וִ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "אָ"
+          },
+          {
+            "id": 2,
+            "text": "מֶ"
+          },
+          {
+            "id": 3,
+            "text": "טֻ"
+          },
+          {
+            "id": 4,
+            "text": "וִ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "וִ"
+      }
+    ],
+    "masa-hanikud:syllable-05d6-05b9": [
+      {
+        "id": 250151,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d6-05b9",
+        "learningGoal": "זיהוי ההברה זֹ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  זֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "זֹ"
+          },
+          {
+            "id": 2,
+            "text": "יוּ"
+          },
+          {
+            "id": 3,
+            "text": "נֵ"
+          },
+          {
+            "id": 4,
+            "text": "בַ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "זֹ"
+      },
+      {
+        "id": 250152,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d6-05b9",
+        "learningGoal": "זיהוי הניקוד בהברה זֹ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה זֹ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "פתח"
+          },
+          {
+            "id": 2,
+            "text": "סגול"
+          },
+          {
+            "id": 3,
+            "text": "חולם חסר"
+          },
+          {
+            "id": 4,
+            "text": "קמץ"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 3,
+        "symbol": "זֹ"
+      },
+      {
+        "id": 250153,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d6-05b9",
+        "learningGoal": "התאמת ההברה זֹ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: זֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "בַ"
+          },
+          {
+            "id": 2,
+            "text": "נֵ"
+          },
+          {
+            "id": 3,
+            "text": "יוּ"
+          },
+          {
+            "id": 4,
+            "text": "זֹ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "זֹ"
+      }
+    ],
+    "masa-hanikud:syllable-05d7-05d5-05b9": [
+      {
+        "id": 250154,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d7-05d5-05b9",
+        "learningGoal": "זיהוי ההברה חוֹ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  חוֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "חוֹ"
+          },
+          {
+            "id": 2,
+            "text": "כָ"
+          },
+          {
+            "id": 3,
+            "text": "סִ"
+          },
+          {
+            "id": 4,
+            "text": "גֶ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "חוֹ"
+      },
+      {
+        "id": 250155,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d7-05d5-05b9",
+        "learningGoal": "זיהוי הניקוד בהברה חוֹ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה חוֹ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סגול"
+          },
+          {
+            "id": 2,
+            "text": "חולם מלא"
+          },
+          {
+            "id": 3,
+            "text": "קמץ"
+          },
+          {
+            "id": 4,
+            "text": "פתח"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 3,
+        "symbol": "חוֹ"
+      },
+      {
+        "id": 250156,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d7-05d5-05b9",
+        "learningGoal": "התאמת ההברה חוֹ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: חוֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "גֶ"
+          },
+          {
+            "id": 2,
+            "text": "סִ"
+          },
+          {
+            "id": 3,
+            "text": "כָ"
+          },
+          {
+            "id": 4,
+            "text": "חוֹ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "חוֹ"
+      }
+    ],
+    "masa-hanikud:syllable-05d8-05bb": [
+      {
+        "id": 250157,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d8-05bb",
+        "learningGoal": "זיהוי ההברה טֻ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  טֻ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "טֻ"
+          },
+          {
+            "id": 2,
+            "text": "לַ"
+          },
+          {
+            "id": 3,
+            "text": "עֹ"
+          },
+          {
+            "id": 4,
+            "text": "דֵ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "טֻ"
+      },
+      {
+        "id": 250158,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d8-05bb",
+        "learningGoal": "זיהוי הניקוד בהברה טֻ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה טֻ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קובוץ"
+          },
+          {
+            "id": 2,
+            "text": "קמץ"
+          },
+          {
+            "id": 3,
+            "text": "פתח"
+          },
+          {
+            "id": 4,
+            "text": "סגול"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "טֻ"
+      },
+      {
+        "id": 250159,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d8-05bb",
+        "learningGoal": "התאמת ההברה טֻ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: טֻ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "דֵ"
+          },
+          {
+            "id": 2,
+            "text": "עֹ"
+          },
+          {
+            "id": 3,
+            "text": "לַ"
+          },
+          {
+            "id": 4,
+            "text": "טֻ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "טֻ"
+      }
+    ],
+    "masa-hanikud:syllable-05d9-05d5-05bc": [
+      {
+        "id": 250160,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d9-05d5-05bc",
+        "learningGoal": "זיהוי ההברה יוּ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  יוּ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "יוּ"
+          },
+          {
+            "id": 2,
+            "text": "מֶ"
+          },
+          {
+            "id": 3,
+            "text": "אָ"
+          },
+          {
+            "id": 4,
+            "text": "הִ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "יוּ"
+      },
+      {
+        "id": 250161,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d9-05d5-05bc",
+        "learningGoal": "זיהוי הניקוד בהברה יוּ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה יוּ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קמץ"
+          },
+          {
+            "id": 2,
+            "text": "פתח"
+          },
+          {
+            "id": 3,
+            "text": "סגול"
+          },
+          {
+            "id": 4,
+            "text": "שורוק"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "יוּ"
+      },
+      {
+        "id": 250162,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05d9-05d5-05bc",
+        "learningGoal": "התאמת ההברה יוּ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: יוּ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "הִ"
+          },
+          {
+            "id": 2,
+            "text": "אָ"
+          },
+          {
+            "id": 3,
+            "text": "מֶ"
+          },
+          {
+            "id": 4,
+            "text": "יוּ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "יוּ"
+      }
+    ],
+    "masa-hanikud:syllable-05db-05b8": [
+      {
+        "id": 250163,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05db-05b8",
+        "learningGoal": "זיהוי ההברה כָ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  כָ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "כָ"
+          },
+          {
+            "id": 2,
+            "text": "נֵ"
+          },
+          {
+            "id": 3,
+            "text": "בַ"
+          },
+          {
+            "id": 4,
+            "text": "וֹ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "כָ"
+      },
+      {
+        "id": 250164,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05db-05b8",
+        "learningGoal": "זיהוי הניקוד בהברה כָ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה כָ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סגול"
+          },
+          {
+            "id": 2,
+            "text": "צירה"
+          },
+          {
+            "id": 3,
+            "text": "קמץ"
+          },
+          {
+            "id": 4,
+            "text": "פתח"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 3,
+        "symbol": "כָ"
+      },
+      {
+        "id": 250165,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05db-05b8",
+        "learningGoal": "התאמת ההברה כָ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: כָ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "וֹ"
+          },
+          {
+            "id": 2,
+            "text": "בַ"
+          },
+          {
+            "id": 3,
+            "text": "נֵ"
+          },
+          {
+            "id": 4,
+            "text": "כָ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "כָ"
+      }
+    ],
+    "masa-hanikud:syllable-05dc-05b7": [
+      {
+        "id": 250166,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05dc-05b7",
+        "learningGoal": "זיהוי ההברה לַ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  לַ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "לַ"
+          },
+          {
+            "id": 2,
+            "text": "סִ"
+          },
+          {
+            "id": 3,
+            "text": "גֶ"
+          },
+          {
+            "id": 4,
+            "text": "זוֹ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "לַ"
+      },
+      {
+        "id": 250167,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05dc-05b7",
+        "learningGoal": "זיהוי הניקוד בהברה לַ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה לַ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "צירה"
+          },
+          {
+            "id": 2,
+            "text": "פתח"
+          },
+          {
+            "id": 3,
+            "text": "קמץ"
+          },
+          {
+            "id": 4,
+            "text": "סגול"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 3,
+        "symbol": "לַ"
+      },
+      {
+        "id": 250168,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05dc-05b7",
+        "learningGoal": "התאמת ההברה לַ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: לַ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "זוֹ"
+          },
+          {
+            "id": 2,
+            "text": "גֶ"
+          },
+          {
+            "id": 3,
+            "text": "סִ"
+          },
+          {
+            "id": 4,
+            "text": "לַ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "לַ"
+      }
+    ],
+    "masa-hanikud:syllable-05de-05b6": [
+      {
+        "id": 250169,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05de-05b6",
+        "learningGoal": "זיהוי ההברה מֶ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  מֶ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "מֶ"
+          },
+          {
+            "id": 2,
+            "text": "עֹ"
+          },
+          {
+            "id": 3,
+            "text": "דֵ"
+          },
+          {
+            "id": 4,
+            "text": "חֻ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "מֶ"
+      },
+      {
+        "id": 250170,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05de-05b6",
+        "learningGoal": "זיהוי הניקוד בהברה מֶ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה מֶ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סגול"
+          },
+          {
+            "id": 2,
+            "text": "קמץ"
+          },
+          {
+            "id": 3,
+            "text": "פתח"
+          },
+          {
+            "id": 4,
+            "text": "צירה"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "מֶ"
+      },
+      {
+        "id": 250171,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05de-05b6",
+        "learningGoal": "התאמת ההברה מֶ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: מֶ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "חֻ"
+          },
+          {
+            "id": 2,
+            "text": "דֵ"
+          },
+          {
+            "id": 3,
+            "text": "עֹ"
+          },
+          {
+            "id": 4,
+            "text": "מֶ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "מֶ"
+      }
+    ],
+    "masa-hanikud:syllable-05e0-05b5": [
+      {
+        "id": 250172,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05e0-05b5",
+        "learningGoal": "זיהוי ההברה נֵ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  נֵ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "נֵ"
+          },
+          {
+            "id": 2,
+            "text": "אָ"
+          },
+          {
+            "id": 3,
+            "text": "הִ"
+          },
+          {
+            "id": 4,
+            "text": "טוּ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "נֵ"
+      },
+      {
+        "id": 250173,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05e0-05b5",
+        "learningGoal": "זיהוי הניקוד בהברה נֵ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה נֵ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קמץ"
+          },
+          {
+            "id": 2,
+            "text": "פתח"
+          },
+          {
+            "id": 3,
+            "text": "סגול"
+          },
+          {
+            "id": 4,
+            "text": "צירה"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "נֵ"
+      },
+      {
+        "id": 250174,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05e0-05b5",
+        "learningGoal": "התאמת ההברה נֵ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: נֵ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "טוּ"
+          },
+          {
+            "id": 2,
+            "text": "הִ"
+          },
+          {
+            "id": 3,
+            "text": "אָ"
+          },
+          {
+            "id": 4,
+            "text": "נֵ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "נֵ"
+      }
+    ],
+    "masa-hanikud:syllable-05e1-05b4": [
+      {
+        "id": 250175,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05e1-05b4",
+        "learningGoal": "זיהוי ההברה סִ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  סִ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סִ"
+          },
+          {
+            "id": 2,
+            "text": "בַ"
+          },
+          {
+            "id": 3,
+            "text": "וֹ"
+          },
+          {
+            "id": 4,
+            "text": "יָ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "סִ"
+      },
+      {
+        "id": 250176,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05e1-05b4",
+        "learningGoal": "זיהוי הניקוד בהברה סִ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה סִ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "פתח"
+          },
+          {
+            "id": 2,
+            "text": "סגול"
+          },
+          {
+            "id": 3,
+            "text": "חיריק"
+          },
+          {
+            "id": 4,
+            "text": "קמץ"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 3,
+        "symbol": "סִ"
+      },
+      {
+        "id": 250177,
+        "boardId": "masa-hanikud",
+        "groupId": "masa-hanikud:syllable-05e1-05b4",
+        "learningGoal": "התאמת ההברה סִ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: סִ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "יָ"
+          },
+          {
+            "id": 2,
+            "text": "וֹ"
+          },
+          {
+            "id": 3,
+            "text": "בַ"
+          },
+          {
+            "id": 4,
+            "text": "סִ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "סִ"
+      }
+    ]
+  }
+}

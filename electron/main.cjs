@@ -5,6 +5,7 @@ let mainWindow;
 
 function createWindow() {
     const display = screen.getPrimaryDisplay();
+
     mainWindow = new BrowserWindow({
         width: display.bounds.width,
         height: display.bounds.height,
@@ -20,24 +21,39 @@ function createWindow() {
             sandbox: true
         }
     });
+
     mainWindow.loadFile(path.join(__dirname, "..", "dist", "index.html"));
     mainWindow.once("ready-to-show", () => mainWindow.show());
-    mainWindow.on("closed", () => { mainWindow = null; });
+
+    mainWindow.on("closed", () => {
+        mainWindow = null;
+    });
 }
 
-ipcMain.handle("app:quit", () => { app.quit(); });
+ipcMain.handle("app:quit", () => {
+    app.quit();
+});
 
 app.whenReady().then(() => {
     createWindow();
+
+    // F11 מאפשר מעבר בין מסך מלא לחלון לצורכי תחזוקה.
     globalShortcut.register("F11", () => {
-        if (mainWindow) mainWindow.setFullScreen(!mainWindow.isFullScreen());
+        if (mainWindow) {
+            mainWindow.setFullScreen(!mainWindow.isFullScreen());
+        }
     });
+
     app.on("activate", () => {
-        if (BrowserWindow.getAllWindows().length === 0) createWindow();
+        if (BrowserWindow.getAllWindows().length === 0) {
+            createWindow();
+        }
     });
 });
 
 app.on("will-quit", () => globalShortcut.unregisterAll());
 app.on("window-all-closed", () => {
-    if (process.platform !== "darwin") app.quit();
+    if (process.platform !== "darwin") {
+        app.quit();
+    }
 });

@@ -1,0 +1,2574 @@
+{
+  "schemaVersion": 1,
+  "boardId": "segol-tzere",
+  "version": "2.1.0",
+  "groups": {
+    "segol-tzere:syllable-05d0-05b6": [
+      {
+        "id": 210001,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05d0-05b6",
+        "learningGoal": "זיהוי ההברה אֶ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  אֶ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "אֶ"
+          },
+          {
+            "id": 2,
+            "text": "דֵ"
+          },
+          {
+            "id": 3,
+            "text": "חֵ"
+          },
+          {
+            "id": 4,
+            "text": "לֵ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "symbol": "אֶ"
+      },
+      {
+        "id": 210002,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05d0-05b6",
+        "learningGoal": "זיהוי הניקוד בהברה אֶ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה אֶ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סגול"
+          },
+          {
+            "id": 2,
+            "text": "קמץ"
+          },
+          {
+            "id": 3,
+            "text": "פתח"
+          },
+          {
+            "id": 4,
+            "text": "צירה"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "symbol": "אֶ"
+      },
+      {
+        "id": 210003,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05d0-05b6",
+        "learningGoal": "התאמת ההברה אֶ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: אֶ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "לֵ"
+          },
+          {
+            "id": 2,
+            "text": "חֵ"
+          },
+          {
+            "id": 3,
+            "text": "דֵ"
+          },
+          {
+            "id": 4,
+            "text": "אֶ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 1,
+        "symbol": "אֶ"
+      },
+      {
+        "id": 210067,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05d0-05b6",
+        "learningGoal": "זיהוי ההברה אֶ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  אֶ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "אֶ"
+          },
+          {
+            "id": 2,
+            "text": "דֵ"
+          },
+          {
+            "id": 3,
+            "text": "חֵ"
+          },
+          {
+            "id": 4,
+            "text": "הֶ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "אֶ"
+      },
+      {
+        "id": 210068,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05d0-05b6",
+        "learningGoal": "זיהוי הניקוד בהברה אֶ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה אֶ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "פתח"
+          },
+          {
+            "id": 2,
+            "text": "צירה"
+          },
+          {
+            "id": 3,
+            "text": "סגול"
+          },
+          {
+            "id": 4,
+            "text": "קמץ"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 3,
+        "symbol": "אֶ"
+      },
+      {
+        "id": 210069,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05d0-05b6",
+        "learningGoal": "התאמת ההברה אֶ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: אֶ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "הֶ"
+          },
+          {
+            "id": 2,
+            "text": "חֵ"
+          },
+          {
+            "id": 3,
+            "text": "דֵ"
+          },
+          {
+            "id": 4,
+            "text": "אֶ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "אֶ"
+      }
+    ],
+    "segol-tzere:syllable-05d1-05b5": [
+      {
+        "id": 210004,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05d1-05b5",
+        "learningGoal": "זיהוי ההברה בֵ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  בֵ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "בֵ"
+          },
+          {
+            "id": 2,
+            "text": "הֶ"
+          },
+          {
+            "id": 3,
+            "text": "טֶ"
+          },
+          {
+            "id": 4,
+            "text": "מֶ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "symbol": "בֵ"
+      },
+      {
+        "id": 210005,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05d1-05b5",
+        "learningGoal": "זיהוי הניקוד בהברה בֵ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה בֵ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קמץ"
+          },
+          {
+            "id": 2,
+            "text": "פתח"
+          },
+          {
+            "id": 3,
+            "text": "סגול"
+          },
+          {
+            "id": 4,
+            "text": "צירה"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 1,
+        "symbol": "בֵ"
+      },
+      {
+        "id": 210006,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05d1-05b5",
+        "learningGoal": "התאמת ההברה בֵ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: בֵ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "מֶ"
+          },
+          {
+            "id": 2,
+            "text": "טֶ"
+          },
+          {
+            "id": 3,
+            "text": "הֶ"
+          },
+          {
+            "id": 4,
+            "text": "בֵ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 1,
+        "symbol": "בֵ"
+      },
+      {
+        "id": 210070,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05d1-05b5",
+        "learningGoal": "זיהוי ההברה בֵ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  בֵ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "בֵ"
+          },
+          {
+            "id": 2,
+            "text": "הֶ"
+          },
+          {
+            "id": 3,
+            "text": "אֶ"
+          },
+          {
+            "id": 4,
+            "text": "וֵ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "בֵ"
+      },
+      {
+        "id": 210071,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05d1-05b5",
+        "learningGoal": "זיהוי הניקוד בהברה בֵ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה בֵ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סגול"
+          },
+          {
+            "id": 2,
+            "text": "צירה"
+          },
+          {
+            "id": 3,
+            "text": "קמץ"
+          },
+          {
+            "id": 4,
+            "text": "פתח"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 3,
+        "symbol": "בֵ"
+      },
+      {
+        "id": 210072,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05d1-05b5",
+        "learningGoal": "התאמת ההברה בֵ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: בֵ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "וֵ"
+          },
+          {
+            "id": 2,
+            "text": "אֶ"
+          },
+          {
+            "id": 3,
+            "text": "הֶ"
+          },
+          {
+            "id": 4,
+            "text": "בֵ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "בֵ"
+      }
+    ],
+    "segol-tzere:syllable-05d2-05b6": [
+      {
+        "id": 210007,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05d2-05b6",
+        "learningGoal": "זיהוי ההברה גֶ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  גֶ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "גֶ"
+          },
+          {
+            "id": 2,
+            "text": "וֵ"
+          },
+          {
+            "id": 3,
+            "text": "יֵ"
+          },
+          {
+            "id": 4,
+            "text": "נֵ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "symbol": "גֶ"
+      },
+      {
+        "id": 210008,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05d2-05b6",
+        "learningGoal": "זיהוי הניקוד בהברה גֶ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה גֶ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "פתח"
+          },
+          {
+            "id": 2,
+            "text": "צירה"
+          },
+          {
+            "id": 3,
+            "text": "סגול"
+          },
+          {
+            "id": 4,
+            "text": "קמץ"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 1,
+        "symbol": "גֶ"
+      },
+      {
+        "id": 210009,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05d2-05b6",
+        "learningGoal": "התאמת ההברה גֶ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: גֶ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "נֵ"
+          },
+          {
+            "id": 2,
+            "text": "יֵ"
+          },
+          {
+            "id": 3,
+            "text": "וֵ"
+          },
+          {
+            "id": 4,
+            "text": "גֶ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 1,
+        "symbol": "גֶ"
+      },
+      {
+        "id": 210073,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05d2-05b6",
+        "learningGoal": "זיהוי ההברה גֶ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  גֶ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "גֶ"
+          },
+          {
+            "id": 2,
+            "text": "וֵ"
+          },
+          {
+            "id": 3,
+            "text": "בֵ"
+          },
+          {
+            "id": 4,
+            "text": "זֶ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "גֶ"
+      },
+      {
+        "id": 210074,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05d2-05b6",
+        "learningGoal": "זיהוי הניקוד בהברה גֶ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה גֶ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סגול"
+          },
+          {
+            "id": 2,
+            "text": "קמץ"
+          },
+          {
+            "id": 3,
+            "text": "פתח"
+          },
+          {
+            "id": 4,
+            "text": "צירה"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "גֶ"
+      },
+      {
+        "id": 210075,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05d2-05b6",
+        "learningGoal": "התאמת ההברה גֶ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: גֶ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "זֶ"
+          },
+          {
+            "id": 2,
+            "text": "בֵ"
+          },
+          {
+            "id": 3,
+            "text": "וֵ"
+          },
+          {
+            "id": 4,
+            "text": "גֶ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "גֶ"
+      }
+    ],
+    "segol-tzere:syllable-05d3-05b5": [
+      {
+        "id": 210010,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05d3-05b5",
+        "learningGoal": "זיהוי ההברה דֵ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  דֵ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "דֵ"
+          },
+          {
+            "id": 2,
+            "text": "זֶ"
+          },
+          {
+            "id": 3,
+            "text": "כֶ"
+          },
+          {
+            "id": 4,
+            "text": "סֶ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "symbol": "דֵ"
+      },
+      {
+        "id": 210011,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05d3-05b5",
+        "learningGoal": "זיהוי הניקוד בהברה דֵ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה דֵ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סגול"
+          },
+          {
+            "id": 2,
+            "text": "צירה"
+          },
+          {
+            "id": 3,
+            "text": "קמץ"
+          },
+          {
+            "id": 4,
+            "text": "פתח"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 1,
+        "symbol": "דֵ"
+      },
+      {
+        "id": 210012,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05d3-05b5",
+        "learningGoal": "התאמת ההברה דֵ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: דֵ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סֶ"
+          },
+          {
+            "id": 2,
+            "text": "כֶ"
+          },
+          {
+            "id": 3,
+            "text": "זֶ"
+          },
+          {
+            "id": 4,
+            "text": "דֵ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 1,
+        "symbol": "דֵ"
+      },
+      {
+        "id": 210076,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05d3-05b5",
+        "learningGoal": "זיהוי ההברה דֵ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  דֵ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "דֵ"
+          },
+          {
+            "id": 2,
+            "text": "זֶ"
+          },
+          {
+            "id": 3,
+            "text": "גֶ"
+          },
+          {
+            "id": 4,
+            "text": "חֵ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "דֵ"
+      },
+      {
+        "id": 210077,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05d3-05b5",
+        "learningGoal": "זיהוי הניקוד בהברה דֵ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה דֵ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קמץ"
+          },
+          {
+            "id": 2,
+            "text": "פתח"
+          },
+          {
+            "id": 3,
+            "text": "סגול"
+          },
+          {
+            "id": 4,
+            "text": "צירה"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "דֵ"
+      },
+      {
+        "id": 210078,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05d3-05b5",
+        "learningGoal": "התאמת ההברה דֵ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: דֵ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "חֵ"
+          },
+          {
+            "id": 2,
+            "text": "גֶ"
+          },
+          {
+            "id": 3,
+            "text": "זֶ"
+          },
+          {
+            "id": 4,
+            "text": "דֵ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "דֵ"
+      }
+    ],
+    "segol-tzere:syllable-05d4-05b6": [
+      {
+        "id": 210013,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05d4-05b6",
+        "learningGoal": "זיהוי ההברה הֶ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  הֶ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "הֶ"
+          },
+          {
+            "id": 2,
+            "text": "חֵ"
+          },
+          {
+            "id": 3,
+            "text": "לֵ"
+          },
+          {
+            "id": 4,
+            "text": "עֵ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "symbol": "הֶ"
+      },
+      {
+        "id": 210014,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05d4-05b6",
+        "learningGoal": "זיהוי הניקוד בהברה הֶ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה הֶ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סגול"
+          },
+          {
+            "id": 2,
+            "text": "קמץ"
+          },
+          {
+            "id": 3,
+            "text": "פתח"
+          },
+          {
+            "id": 4,
+            "text": "צירה"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "symbol": "הֶ"
+      },
+      {
+        "id": 210015,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05d4-05b6",
+        "learningGoal": "התאמת ההברה הֶ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: הֶ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "עֵ"
+          },
+          {
+            "id": 2,
+            "text": "לֵ"
+          },
+          {
+            "id": 3,
+            "text": "חֵ"
+          },
+          {
+            "id": 4,
+            "text": "הֶ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 1,
+        "symbol": "הֶ"
+      },
+      {
+        "id": 210079,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05d4-05b6",
+        "learningGoal": "זיהוי ההברה הֶ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  הֶ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "הֶ"
+          },
+          {
+            "id": 2,
+            "text": "חֵ"
+          },
+          {
+            "id": 3,
+            "text": "דֵ"
+          },
+          {
+            "id": 4,
+            "text": "אֶ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "הֶ"
+      },
+      {
+        "id": 210080,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05d4-05b6",
+        "learningGoal": "זיהוי הניקוד בהברה הֶ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה הֶ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "פתח"
+          },
+          {
+            "id": 2,
+            "text": "צירה"
+          },
+          {
+            "id": 3,
+            "text": "סגול"
+          },
+          {
+            "id": 4,
+            "text": "קמץ"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 3,
+        "symbol": "הֶ"
+      },
+      {
+        "id": 210081,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05d4-05b6",
+        "learningGoal": "התאמת ההברה הֶ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: הֶ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "אֶ"
+          },
+          {
+            "id": 2,
+            "text": "דֵ"
+          },
+          {
+            "id": 3,
+            "text": "חֵ"
+          },
+          {
+            "id": 4,
+            "text": "הֶ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "הֶ"
+      }
+    ],
+    "segol-tzere:syllable-05d5-05b5": [
+      {
+        "id": 210016,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05d5-05b5",
+        "learningGoal": "זיהוי ההברה וֵ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  וֵ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "וֵ"
+          },
+          {
+            "id": 2,
+            "text": "טֶ"
+          },
+          {
+            "id": 3,
+            "text": "מֶ"
+          },
+          {
+            "id": 4,
+            "text": "פֶ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "symbol": "וֵ"
+      },
+      {
+        "id": 210017,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05d5-05b5",
+        "learningGoal": "זיהוי הניקוד בהברה וֵ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה וֵ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קמץ"
+          },
+          {
+            "id": 2,
+            "text": "פתח"
+          },
+          {
+            "id": 3,
+            "text": "סגול"
+          },
+          {
+            "id": 4,
+            "text": "צירה"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 1,
+        "symbol": "וֵ"
+      },
+      {
+        "id": 210018,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05d5-05b5",
+        "learningGoal": "התאמת ההברה וֵ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: וֵ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "פֶ"
+          },
+          {
+            "id": 2,
+            "text": "מֶ"
+          },
+          {
+            "id": 3,
+            "text": "טֶ"
+          },
+          {
+            "id": 4,
+            "text": "וֵ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 1,
+        "symbol": "וֵ"
+      },
+      {
+        "id": 210082,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05d5-05b5",
+        "learningGoal": "זיהוי ההברה וֵ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  וֵ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "וֵ"
+          },
+          {
+            "id": 2,
+            "text": "אֶ"
+          },
+          {
+            "id": 3,
+            "text": "הֶ"
+          },
+          {
+            "id": 4,
+            "text": "טֶ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "וֵ"
+      },
+      {
+        "id": 210083,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05d5-05b5",
+        "learningGoal": "זיהוי הניקוד בהברה וֵ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה וֵ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סגול"
+          },
+          {
+            "id": 2,
+            "text": "צירה"
+          },
+          {
+            "id": 3,
+            "text": "קמץ"
+          },
+          {
+            "id": 4,
+            "text": "פתח"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 3,
+        "symbol": "וֵ"
+      },
+      {
+        "id": 210084,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05d5-05b5",
+        "learningGoal": "התאמת ההברה וֵ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: וֵ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "טֶ"
+          },
+          {
+            "id": 2,
+            "text": "הֶ"
+          },
+          {
+            "id": 3,
+            "text": "אֶ"
+          },
+          {
+            "id": 4,
+            "text": "וֵ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "וֵ"
+      }
+    ],
+    "segol-tzere:syllable-05d6-05b6": [
+      {
+        "id": 210019,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05d6-05b6",
+        "learningGoal": "זיהוי ההברה זֶ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  זֶ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "זֶ"
+          },
+          {
+            "id": 2,
+            "text": "יֵ"
+          },
+          {
+            "id": 3,
+            "text": "נֵ"
+          },
+          {
+            "id": 4,
+            "text": "צֵ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "symbol": "זֶ"
+      },
+      {
+        "id": 210020,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05d6-05b6",
+        "learningGoal": "זיהוי הניקוד בהברה זֶ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה זֶ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "פתח"
+          },
+          {
+            "id": 2,
+            "text": "צירה"
+          },
+          {
+            "id": 3,
+            "text": "סגול"
+          },
+          {
+            "id": 4,
+            "text": "קמץ"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 1,
+        "symbol": "זֶ"
+      },
+      {
+        "id": 210021,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05d6-05b6",
+        "learningGoal": "התאמת ההברה זֶ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: זֶ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "צֵ"
+          },
+          {
+            "id": 2,
+            "text": "נֵ"
+          },
+          {
+            "id": 3,
+            "text": "יֵ"
+          },
+          {
+            "id": 4,
+            "text": "זֶ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 1,
+        "symbol": "זֶ"
+      },
+      {
+        "id": 210085,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05d6-05b6",
+        "learningGoal": "זיהוי ההברה זֶ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  זֶ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "זֶ"
+          },
+          {
+            "id": 2,
+            "text": "בֵ"
+          },
+          {
+            "id": 3,
+            "text": "וֵ"
+          },
+          {
+            "id": 4,
+            "text": "יֵ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "זֶ"
+      },
+      {
+        "id": 210086,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05d6-05b6",
+        "learningGoal": "זיהוי הניקוד בהברה זֶ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה זֶ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סגול"
+          },
+          {
+            "id": 2,
+            "text": "קמץ"
+          },
+          {
+            "id": 3,
+            "text": "פתח"
+          },
+          {
+            "id": 4,
+            "text": "צירה"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "זֶ"
+      },
+      {
+        "id": 210087,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05d6-05b6",
+        "learningGoal": "התאמת ההברה זֶ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: זֶ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "יֵ"
+          },
+          {
+            "id": 2,
+            "text": "וֵ"
+          },
+          {
+            "id": 3,
+            "text": "בֵ"
+          },
+          {
+            "id": 4,
+            "text": "זֶ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "זֶ"
+      }
+    ],
+    "segol-tzere:syllable-05d7-05b5": [
+      {
+        "id": 210022,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05d7-05b5",
+        "learningGoal": "זיהוי ההברה חֵ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  חֵ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "חֵ"
+          },
+          {
+            "id": 2,
+            "text": "כֶ"
+          },
+          {
+            "id": 3,
+            "text": "סֶ"
+          },
+          {
+            "id": 4,
+            "text": "קֶ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "symbol": "חֵ"
+      },
+      {
+        "id": 210023,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05d7-05b5",
+        "learningGoal": "זיהוי הניקוד בהברה חֵ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה חֵ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סגול"
+          },
+          {
+            "id": 2,
+            "text": "צירה"
+          },
+          {
+            "id": 3,
+            "text": "קמץ"
+          },
+          {
+            "id": 4,
+            "text": "פתח"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 1,
+        "symbol": "חֵ"
+      },
+      {
+        "id": 210024,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05d7-05b5",
+        "learningGoal": "התאמת ההברה חֵ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: חֵ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קֶ"
+          },
+          {
+            "id": 2,
+            "text": "סֶ"
+          },
+          {
+            "id": 3,
+            "text": "כֶ"
+          },
+          {
+            "id": 4,
+            "text": "חֵ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 1,
+        "symbol": "חֵ"
+      }
+    ],
+    "segol-tzere:syllable-05d8-05b6": [
+      {
+        "id": 210025,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05d8-05b6",
+        "learningGoal": "זיהוי ההברה טֶ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  טֶ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "טֶ"
+          },
+          {
+            "id": 2,
+            "text": "לֵ"
+          },
+          {
+            "id": 3,
+            "text": "עֵ"
+          },
+          {
+            "id": 4,
+            "text": "רֵ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "symbol": "טֶ"
+      },
+      {
+        "id": 210026,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05d8-05b6",
+        "learningGoal": "זיהוי הניקוד בהברה טֶ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה טֶ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סגול"
+          },
+          {
+            "id": 2,
+            "text": "קמץ"
+          },
+          {
+            "id": 3,
+            "text": "פתח"
+          },
+          {
+            "id": 4,
+            "text": "צירה"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "symbol": "טֶ"
+      },
+      {
+        "id": 210027,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05d8-05b6",
+        "learningGoal": "התאמת ההברה טֶ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: טֶ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "רֵ"
+          },
+          {
+            "id": 2,
+            "text": "עֵ"
+          },
+          {
+            "id": 3,
+            "text": "לֵ"
+          },
+          {
+            "id": 4,
+            "text": "טֶ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 1,
+        "symbol": "טֶ"
+      }
+    ],
+    "segol-tzere:syllable-05d9-05b5": [
+      {
+        "id": 210028,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05d9-05b5",
+        "learningGoal": "זיהוי ההברה יֵ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  יֵ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "יֵ"
+          },
+          {
+            "id": 2,
+            "text": "מֶ"
+          },
+          {
+            "id": 3,
+            "text": "פֶ"
+          },
+          {
+            "id": 4,
+            "text": "שֶ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "symbol": "יֵ"
+      },
+      {
+        "id": 210029,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05d9-05b5",
+        "learningGoal": "זיהוי הניקוד בהברה יֵ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה יֵ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קמץ"
+          },
+          {
+            "id": 2,
+            "text": "פתח"
+          },
+          {
+            "id": 3,
+            "text": "סגול"
+          },
+          {
+            "id": 4,
+            "text": "צירה"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 1,
+        "symbol": "יֵ"
+      },
+      {
+        "id": 210030,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05d9-05b5",
+        "learningGoal": "התאמת ההברה יֵ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: יֵ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "שֶ"
+          },
+          {
+            "id": 2,
+            "text": "פֶ"
+          },
+          {
+            "id": 3,
+            "text": "מֶ"
+          },
+          {
+            "id": 4,
+            "text": "יֵ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 1,
+        "symbol": "יֵ"
+      }
+    ],
+    "segol-tzere:syllable-05db-05b6": [
+      {
+        "id": 210031,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05db-05b6",
+        "learningGoal": "זיהוי ההברה כֶ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  כֶ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "כֶ"
+          },
+          {
+            "id": 2,
+            "text": "נֵ"
+          },
+          {
+            "id": 3,
+            "text": "צֵ"
+          },
+          {
+            "id": 4,
+            "text": "תֵ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "כֶ"
+      },
+      {
+        "id": 210032,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05db-05b6",
+        "learningGoal": "זיהוי הניקוד בהברה כֶ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה כֶ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "פתח"
+          },
+          {
+            "id": 2,
+            "text": "צירה"
+          },
+          {
+            "id": 3,
+            "text": "סגול"
+          },
+          {
+            "id": 4,
+            "text": "קמץ"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 2,
+        "symbol": "כֶ"
+      },
+      {
+        "id": 210033,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05db-05b6",
+        "learningGoal": "התאמת ההברה כֶ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: כֶ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "תֵ"
+          },
+          {
+            "id": 2,
+            "text": "צֵ"
+          },
+          {
+            "id": 3,
+            "text": "נֵ"
+          },
+          {
+            "id": 4,
+            "text": "כֶ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "כֶ"
+      }
+    ],
+    "segol-tzere:syllable-05dc-05b5": [
+      {
+        "id": 210034,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05dc-05b5",
+        "learningGoal": "זיהוי ההברה לֵ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  לֵ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "לֵ"
+          },
+          {
+            "id": 2,
+            "text": "סֶ"
+          },
+          {
+            "id": 3,
+            "text": "קֶ"
+          },
+          {
+            "id": 4,
+            "text": "אֶ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "לֵ"
+      },
+      {
+        "id": 210035,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05dc-05b5",
+        "learningGoal": "זיהוי הניקוד בהברה לֵ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה לֵ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סגול"
+          },
+          {
+            "id": 2,
+            "text": "צירה"
+          },
+          {
+            "id": 3,
+            "text": "קמץ"
+          },
+          {
+            "id": 4,
+            "text": "פתח"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 2,
+        "symbol": "לֵ"
+      },
+      {
+        "id": 210036,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05dc-05b5",
+        "learningGoal": "התאמת ההברה לֵ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: לֵ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "אֶ"
+          },
+          {
+            "id": 2,
+            "text": "קֶ"
+          },
+          {
+            "id": 3,
+            "text": "סֶ"
+          },
+          {
+            "id": 4,
+            "text": "לֵ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "לֵ"
+      }
+    ],
+    "segol-tzere:syllable-05de-05b6": [
+      {
+        "id": 210037,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05de-05b6",
+        "learningGoal": "זיהוי ההברה מֶ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  מֶ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "מֶ"
+          },
+          {
+            "id": 2,
+            "text": "עֵ"
+          },
+          {
+            "id": 3,
+            "text": "רֵ"
+          },
+          {
+            "id": 4,
+            "text": "בֵ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "מֶ"
+      },
+      {
+        "id": 210038,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05de-05b6",
+        "learningGoal": "זיהוי הניקוד בהברה מֶ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה מֶ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סגול"
+          },
+          {
+            "id": 2,
+            "text": "קמץ"
+          },
+          {
+            "id": 3,
+            "text": "פתח"
+          },
+          {
+            "id": 4,
+            "text": "צירה"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "מֶ"
+      },
+      {
+        "id": 210039,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05de-05b6",
+        "learningGoal": "התאמת ההברה מֶ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: מֶ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "בֵ"
+          },
+          {
+            "id": 2,
+            "text": "רֵ"
+          },
+          {
+            "id": 3,
+            "text": "עֵ"
+          },
+          {
+            "id": 4,
+            "text": "מֶ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "מֶ"
+      }
+    ],
+    "segol-tzere:syllable-05e0-05b5": [
+      {
+        "id": 210040,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05e0-05b5",
+        "learningGoal": "זיהוי ההברה נֵ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  נֵ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "נֵ"
+          },
+          {
+            "id": 2,
+            "text": "פֶ"
+          },
+          {
+            "id": 3,
+            "text": "שֶ"
+          },
+          {
+            "id": 4,
+            "text": "גֶ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "נֵ"
+      },
+      {
+        "id": 210041,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05e0-05b5",
+        "learningGoal": "זיהוי הניקוד בהברה נֵ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה נֵ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קמץ"
+          },
+          {
+            "id": 2,
+            "text": "פתח"
+          },
+          {
+            "id": 3,
+            "text": "סגול"
+          },
+          {
+            "id": 4,
+            "text": "צירה"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "נֵ"
+      },
+      {
+        "id": 210042,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05e0-05b5",
+        "learningGoal": "התאמת ההברה נֵ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: נֵ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "גֶ"
+          },
+          {
+            "id": 2,
+            "text": "שֶ"
+          },
+          {
+            "id": 3,
+            "text": "פֶ"
+          },
+          {
+            "id": 4,
+            "text": "נֵ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "נֵ"
+      }
+    ],
+    "segol-tzere:syllable-05e1-05b6": [
+      {
+        "id": 210043,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05e1-05b6",
+        "learningGoal": "זיהוי ההברה סֶ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  סֶ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סֶ"
+          },
+          {
+            "id": 2,
+            "text": "צֵ"
+          },
+          {
+            "id": 3,
+            "text": "תֵ"
+          },
+          {
+            "id": 4,
+            "text": "דֵ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "סֶ"
+      },
+      {
+        "id": 210044,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05e1-05b6",
+        "learningGoal": "זיהוי הניקוד בהברה סֶ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה סֶ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "פתח"
+          },
+          {
+            "id": 2,
+            "text": "צירה"
+          },
+          {
+            "id": 3,
+            "text": "סגול"
+          },
+          {
+            "id": 4,
+            "text": "קמץ"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 2,
+        "symbol": "סֶ"
+      },
+      {
+        "id": 210045,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05e1-05b6",
+        "learningGoal": "התאמת ההברה סֶ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: סֶ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "דֵ"
+          },
+          {
+            "id": 2,
+            "text": "תֵ"
+          },
+          {
+            "id": 3,
+            "text": "צֵ"
+          },
+          {
+            "id": 4,
+            "text": "סֶ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "סֶ"
+      }
+    ],
+    "segol-tzere:syllable-05e2-05b5": [
+      {
+        "id": 210046,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05e2-05b5",
+        "learningGoal": "זיהוי ההברה עֵ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  עֵ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "עֵ"
+          },
+          {
+            "id": 2,
+            "text": "קֶ"
+          },
+          {
+            "id": 3,
+            "text": "אֶ"
+          },
+          {
+            "id": 4,
+            "text": "הֶ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "עֵ"
+      },
+      {
+        "id": 210047,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05e2-05b5",
+        "learningGoal": "זיהוי הניקוד בהברה עֵ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה עֵ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סגול"
+          },
+          {
+            "id": 2,
+            "text": "צירה"
+          },
+          {
+            "id": 3,
+            "text": "קמץ"
+          },
+          {
+            "id": 4,
+            "text": "פתח"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 2,
+        "symbol": "עֵ"
+      },
+      {
+        "id": 210048,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05e2-05b5",
+        "learningGoal": "התאמת ההברה עֵ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: עֵ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "הֶ"
+          },
+          {
+            "id": 2,
+            "text": "אֶ"
+          },
+          {
+            "id": 3,
+            "text": "קֶ"
+          },
+          {
+            "id": 4,
+            "text": "עֵ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "עֵ"
+      }
+    ],
+    "segol-tzere:syllable-05e4-05b6": [
+      {
+        "id": 210049,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05e4-05b6",
+        "learningGoal": "זיהוי ההברה פֶ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  פֶ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "פֶ"
+          },
+          {
+            "id": 2,
+            "text": "רֵ"
+          },
+          {
+            "id": 3,
+            "text": "בֵ"
+          },
+          {
+            "id": 4,
+            "text": "וֵ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "פֶ"
+      },
+      {
+        "id": 210050,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05e4-05b6",
+        "learningGoal": "זיהוי הניקוד בהברה פֶ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה פֶ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סגול"
+          },
+          {
+            "id": 2,
+            "text": "קמץ"
+          },
+          {
+            "id": 3,
+            "text": "פתח"
+          },
+          {
+            "id": 4,
+            "text": "צירה"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "פֶ"
+      },
+      {
+        "id": 210051,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05e4-05b6",
+        "learningGoal": "התאמת ההברה פֶ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: פֶ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "וֵ"
+          },
+          {
+            "id": 2,
+            "text": "בֵ"
+          },
+          {
+            "id": 3,
+            "text": "רֵ"
+          },
+          {
+            "id": 4,
+            "text": "פֶ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "פֶ"
+      }
+    ],
+    "segol-tzere:syllable-05e6-05b5": [
+      {
+        "id": 210052,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05e6-05b5",
+        "learningGoal": "זיהוי ההברה צֵ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  צֵ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "צֵ"
+          },
+          {
+            "id": 2,
+            "text": "שֶ"
+          },
+          {
+            "id": 3,
+            "text": "גֶ"
+          },
+          {
+            "id": 4,
+            "text": "זֶ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "צֵ"
+      },
+      {
+        "id": 210053,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05e6-05b5",
+        "learningGoal": "זיהוי הניקוד בהברה צֵ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה צֵ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קמץ"
+          },
+          {
+            "id": 2,
+            "text": "פתח"
+          },
+          {
+            "id": 3,
+            "text": "סגול"
+          },
+          {
+            "id": 4,
+            "text": "צירה"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "צֵ"
+      },
+      {
+        "id": 210054,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05e6-05b5",
+        "learningGoal": "התאמת ההברה צֵ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: צֵ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "זֶ"
+          },
+          {
+            "id": 2,
+            "text": "גֶ"
+          },
+          {
+            "id": 3,
+            "text": "שֶ"
+          },
+          {
+            "id": 4,
+            "text": "צֵ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "צֵ"
+      }
+    ],
+    "segol-tzere:syllable-05e7-05b6": [
+      {
+        "id": 210055,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05e7-05b6",
+        "learningGoal": "זיהוי ההברה קֶ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  קֶ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קֶ"
+          },
+          {
+            "id": 2,
+            "text": "תֵ"
+          },
+          {
+            "id": 3,
+            "text": "דֵ"
+          },
+          {
+            "id": 4,
+            "text": "חֵ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "קֶ"
+      },
+      {
+        "id": 210056,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05e7-05b6",
+        "learningGoal": "זיהוי הניקוד בהברה קֶ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה קֶ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "פתח"
+          },
+          {
+            "id": 2,
+            "text": "צירה"
+          },
+          {
+            "id": 3,
+            "text": "סגול"
+          },
+          {
+            "id": 4,
+            "text": "קמץ"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 2,
+        "symbol": "קֶ"
+      },
+      {
+        "id": 210057,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05e7-05b6",
+        "learningGoal": "התאמת ההברה קֶ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: קֶ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "חֵ"
+          },
+          {
+            "id": 2,
+            "text": "דֵ"
+          },
+          {
+            "id": 3,
+            "text": "תֵ"
+          },
+          {
+            "id": 4,
+            "text": "קֶ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "קֶ"
+      }
+    ],
+    "segol-tzere:syllable-05e8-05b5": [
+      {
+        "id": 210058,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05e8-05b5",
+        "learningGoal": "זיהוי ההברה רֵ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  רֵ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "רֵ"
+          },
+          {
+            "id": 2,
+            "text": "אֶ"
+          },
+          {
+            "id": 3,
+            "text": "הֶ"
+          },
+          {
+            "id": 4,
+            "text": "בֵ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "רֵ"
+      },
+      {
+        "id": 210059,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05e8-05b5",
+        "learningGoal": "זיהוי הניקוד בהברה רֵ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה רֵ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סגול"
+          },
+          {
+            "id": 2,
+            "text": "צירה"
+          },
+          {
+            "id": 3,
+            "text": "קמץ"
+          },
+          {
+            "id": 4,
+            "text": "פתח"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 2,
+        "symbol": "רֵ"
+      },
+      {
+        "id": 210060,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05e8-05b5",
+        "learningGoal": "התאמת ההברה רֵ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: רֵ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "בֵ"
+          },
+          {
+            "id": 2,
+            "text": "הֶ"
+          },
+          {
+            "id": 3,
+            "text": "אֶ"
+          },
+          {
+            "id": 4,
+            "text": "רֵ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "רֵ"
+      }
+    ],
+    "segol-tzere:syllable-05e9-05b6": [
+      {
+        "id": 210061,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05e9-05b6",
+        "learningGoal": "זיהוי ההברה שֶ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  שֶ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "שֶ"
+          },
+          {
+            "id": 2,
+            "text": "בֵ"
+          },
+          {
+            "id": 3,
+            "text": "וֵ"
+          },
+          {
+            "id": 4,
+            "text": "גֶ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "שֶ"
+      },
+      {
+        "id": 210062,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05e9-05b6",
+        "learningGoal": "זיהוי הניקוד בהברה שֶ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה שֶ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סגול"
+          },
+          {
+            "id": 2,
+            "text": "קמץ"
+          },
+          {
+            "id": 3,
+            "text": "פתח"
+          },
+          {
+            "id": 4,
+            "text": "צירה"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "שֶ"
+      },
+      {
+        "id": 210063,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05e9-05b6",
+        "learningGoal": "התאמת ההברה שֶ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: שֶ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "גֶ"
+          },
+          {
+            "id": 2,
+            "text": "וֵ"
+          },
+          {
+            "id": 3,
+            "text": "בֵ"
+          },
+          {
+            "id": 4,
+            "text": "שֶ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "שֶ"
+      }
+    ],
+    "segol-tzere:syllable-05ea-05b5": [
+      {
+        "id": 210064,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05ea-05b5",
+        "learningGoal": "זיהוי ההברה תֵ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  תֵ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "תֵ"
+          },
+          {
+            "id": 2,
+            "text": "גֶ"
+          },
+          {
+            "id": 3,
+            "text": "זֶ"
+          },
+          {
+            "id": 4,
+            "text": "דֵ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "תֵ"
+      },
+      {
+        "id": 210065,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05ea-05b5",
+        "learningGoal": "זיהוי הניקוד בהברה תֵ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה תֵ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קמץ"
+          },
+          {
+            "id": 2,
+            "text": "פתח"
+          },
+          {
+            "id": 3,
+            "text": "סגול"
+          },
+          {
+            "id": 4,
+            "text": "צירה"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "תֵ"
+      },
+      {
+        "id": 210066,
+        "boardId": "segol-tzere",
+        "groupId": "segol-tzere:syllable-05ea-05b5",
+        "learningGoal": "התאמת ההברה תֵ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: תֵ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "דֵ"
+          },
+          {
+            "id": 2,
+            "text": "זֶ"
+          },
+          {
+            "id": 3,
+            "text": "גֶ"
+          },
+          {
+            "id": 4,
+            "text": "תֵ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "תֵ"
+      }
+    ]
+  }
+}

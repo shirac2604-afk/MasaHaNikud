@@ -11,6 +11,7 @@ export const AssetKeys = {
         HOLAM: "board-holam-v2",
         SHURUK_KUBUTZ: "board-shuruk-kubutz-v2",
         MASA_HANIKUD: "board-masa-hanikud-v2",
+        // Compatibility aliases for older callers.
         SHURUK: "board-shuruk-kubutz-v2",
         KAMATZ: "board-kamatz-patach-v2",
         SEGOL: "board-segol-tzere-v2",

@@ -1,0 +1,2574 @@
+{
+  "schemaVersion": 1,
+  "boardId": "holam",
+  "version": "2.1.0",
+  "groups": {
+    "holam:syllable-05d0-05b9": [
+      {
+        "id": 230001,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05d0-05b9",
+        "learningGoal": "זיהוי ההברה אֹ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  אֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "אֹ"
+          },
+          {
+            "id": 2,
+            "text": "דוֹ"
+          },
+          {
+            "id": 3,
+            "text": "חוֹ"
+          },
+          {
+            "id": 4,
+            "text": "לוֹ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "symbol": "אֹ"
+      },
+      {
+        "id": 230002,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05d0-05b9",
+        "learningGoal": "זיהוי הניקוד בהברה אֹ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה אֹ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "חולם חסר"
+          },
+          {
+            "id": 2,
+            "text": "קמץ"
+          },
+          {
+            "id": 3,
+            "text": "פתח"
+          },
+          {
+            "id": 4,
+            "text": "סגול"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "symbol": "אֹ"
+      },
+      {
+        "id": 230003,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05d0-05b9",
+        "learningGoal": "התאמת ההברה אֹ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: אֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "לוֹ"
+          },
+          {
+            "id": 2,
+            "text": "חוֹ"
+          },
+          {
+            "id": 3,
+            "text": "דוֹ"
+          },
+          {
+            "id": 4,
+            "text": "אֹ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 1,
+        "symbol": "אֹ"
+      },
+      {
+        "id": 230067,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05d0-05b9",
+        "learningGoal": "זיהוי ההברה אֹ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  אֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "אֹ"
+          },
+          {
+            "id": 2,
+            "text": "דוֹ"
+          },
+          {
+            "id": 3,
+            "text": "חוֹ"
+          },
+          {
+            "id": 4,
+            "text": "הֹ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "אֹ"
+      },
+      {
+        "id": 230068,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05d0-05b9",
+        "learningGoal": "זיהוי הניקוד בהברה אֹ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה אֹ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "פתח"
+          },
+          {
+            "id": 2,
+            "text": "סגול"
+          },
+          {
+            "id": 3,
+            "text": "חולם חסר"
+          },
+          {
+            "id": 4,
+            "text": "קמץ"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 3,
+        "symbol": "אֹ"
+      },
+      {
+        "id": 230069,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05d0-05b9",
+        "learningGoal": "התאמת ההברה אֹ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: אֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "הֹ"
+          },
+          {
+            "id": 2,
+            "text": "חוֹ"
+          },
+          {
+            "id": 3,
+            "text": "דוֹ"
+          },
+          {
+            "id": 4,
+            "text": "אֹ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "אֹ"
+      }
+    ],
+    "holam:syllable-05d1-05d5-05b9": [
+      {
+        "id": 230004,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05d1-05d5-05b9",
+        "learningGoal": "זיהוי ההברה בוֹ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  בוֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "בוֹ"
+          },
+          {
+            "id": 2,
+            "text": "הֹ"
+          },
+          {
+            "id": 3,
+            "text": "טֹ"
+          },
+          {
+            "id": 4,
+            "text": "מֹ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "symbol": "בוֹ"
+      },
+      {
+        "id": 230005,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05d1-05d5-05b9",
+        "learningGoal": "זיהוי הניקוד בהברה בוֹ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה בוֹ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קמץ"
+          },
+          {
+            "id": 2,
+            "text": "פתח"
+          },
+          {
+            "id": 3,
+            "text": "סגול"
+          },
+          {
+            "id": 4,
+            "text": "חולם מלא"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 1,
+        "symbol": "בוֹ"
+      },
+      {
+        "id": 230006,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05d1-05d5-05b9",
+        "learningGoal": "התאמת ההברה בוֹ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: בוֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "מֹ"
+          },
+          {
+            "id": 2,
+            "text": "טֹ"
+          },
+          {
+            "id": 3,
+            "text": "הֹ"
+          },
+          {
+            "id": 4,
+            "text": "בוֹ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 1,
+        "symbol": "בוֹ"
+      },
+      {
+        "id": 230070,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05d1-05d5-05b9",
+        "learningGoal": "זיהוי ההברה בוֹ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  בוֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "בוֹ"
+          },
+          {
+            "id": 2,
+            "text": "הֹ"
+          },
+          {
+            "id": 3,
+            "text": "אֹ"
+          },
+          {
+            "id": 4,
+            "text": "ווֹ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "בוֹ"
+      },
+      {
+        "id": 230071,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05d1-05d5-05b9",
+        "learningGoal": "זיהוי הניקוד בהברה בוֹ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה בוֹ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סגול"
+          },
+          {
+            "id": 2,
+            "text": "חולם מלא"
+          },
+          {
+            "id": 3,
+            "text": "קמץ"
+          },
+          {
+            "id": 4,
+            "text": "פתח"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 3,
+        "symbol": "בוֹ"
+      },
+      {
+        "id": 230072,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05d1-05d5-05b9",
+        "learningGoal": "התאמת ההברה בוֹ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: בוֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "ווֹ"
+          },
+          {
+            "id": 2,
+            "text": "אֹ"
+          },
+          {
+            "id": 3,
+            "text": "הֹ"
+          },
+          {
+            "id": 4,
+            "text": "בוֹ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "בוֹ"
+      }
+    ],
+    "holam:syllable-05d2-05b9": [
+      {
+        "id": 230007,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05d2-05b9",
+        "learningGoal": "זיהוי ההברה גֹ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  גֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "גֹ"
+          },
+          {
+            "id": 2,
+            "text": "ווֹ"
+          },
+          {
+            "id": 3,
+            "text": "יוֹ"
+          },
+          {
+            "id": 4,
+            "text": "נוֹ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "symbol": "גֹ"
+      },
+      {
+        "id": 230008,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05d2-05b9",
+        "learningGoal": "זיהוי הניקוד בהברה גֹ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה גֹ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "פתח"
+          },
+          {
+            "id": 2,
+            "text": "סגול"
+          },
+          {
+            "id": 3,
+            "text": "חולם חסר"
+          },
+          {
+            "id": 4,
+            "text": "קמץ"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 1,
+        "symbol": "גֹ"
+      },
+      {
+        "id": 230009,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05d2-05b9",
+        "learningGoal": "התאמת ההברה גֹ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: גֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "נוֹ"
+          },
+          {
+            "id": 2,
+            "text": "יוֹ"
+          },
+          {
+            "id": 3,
+            "text": "ווֹ"
+          },
+          {
+            "id": 4,
+            "text": "גֹ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 1,
+        "symbol": "גֹ"
+      },
+      {
+        "id": 230073,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05d2-05b9",
+        "learningGoal": "זיהוי ההברה גֹ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  גֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "גֹ"
+          },
+          {
+            "id": 2,
+            "text": "ווֹ"
+          },
+          {
+            "id": 3,
+            "text": "בוֹ"
+          },
+          {
+            "id": 4,
+            "text": "זֹ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "גֹ"
+      },
+      {
+        "id": 230074,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05d2-05b9",
+        "learningGoal": "זיהוי הניקוד בהברה גֹ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה גֹ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "חולם חסר"
+          },
+          {
+            "id": 2,
+            "text": "קמץ"
+          },
+          {
+            "id": 3,
+            "text": "פתח"
+          },
+          {
+            "id": 4,
+            "text": "סגול"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "גֹ"
+      },
+      {
+        "id": 230075,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05d2-05b9",
+        "learningGoal": "התאמת ההברה גֹ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: גֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "זֹ"
+          },
+          {
+            "id": 2,
+            "text": "בוֹ"
+          },
+          {
+            "id": 3,
+            "text": "ווֹ"
+          },
+          {
+            "id": 4,
+            "text": "גֹ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "גֹ"
+      }
+    ],
+    "holam:syllable-05d3-05d5-05b9": [
+      {
+        "id": 230010,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05d3-05d5-05b9",
+        "learningGoal": "זיהוי ההברה דוֹ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  דוֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "דוֹ"
+          },
+          {
+            "id": 2,
+            "text": "זֹ"
+          },
+          {
+            "id": 3,
+            "text": "כֹ"
+          },
+          {
+            "id": 4,
+            "text": "סֹ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "symbol": "דוֹ"
+      },
+      {
+        "id": 230011,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05d3-05d5-05b9",
+        "learningGoal": "זיהוי הניקוד בהברה דוֹ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה דוֹ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סגול"
+          },
+          {
+            "id": 2,
+            "text": "חולם מלא"
+          },
+          {
+            "id": 3,
+            "text": "קמץ"
+          },
+          {
+            "id": 4,
+            "text": "פתח"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 1,
+        "symbol": "דוֹ"
+      },
+      {
+        "id": 230012,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05d3-05d5-05b9",
+        "learningGoal": "התאמת ההברה דוֹ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: דוֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סֹ"
+          },
+          {
+            "id": 2,
+            "text": "כֹ"
+          },
+          {
+            "id": 3,
+            "text": "זֹ"
+          },
+          {
+            "id": 4,
+            "text": "דוֹ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 1,
+        "symbol": "דוֹ"
+      },
+      {
+        "id": 230076,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05d3-05d5-05b9",
+        "learningGoal": "זיהוי ההברה דוֹ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  דוֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "דוֹ"
+          },
+          {
+            "id": 2,
+            "text": "זֹ"
+          },
+          {
+            "id": 3,
+            "text": "גֹ"
+          },
+          {
+            "id": 4,
+            "text": "חוֹ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "דוֹ"
+      },
+      {
+        "id": 230077,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05d3-05d5-05b9",
+        "learningGoal": "זיהוי הניקוד בהברה דוֹ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה דוֹ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קמץ"
+          },
+          {
+            "id": 2,
+            "text": "פתח"
+          },
+          {
+            "id": 3,
+            "text": "סגול"
+          },
+          {
+            "id": 4,
+            "text": "חולם מלא"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "דוֹ"
+      },
+      {
+        "id": 230078,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05d3-05d5-05b9",
+        "learningGoal": "התאמת ההברה דוֹ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: דוֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "חוֹ"
+          },
+          {
+            "id": 2,
+            "text": "גֹ"
+          },
+          {
+            "id": 3,
+            "text": "זֹ"
+          },
+          {
+            "id": 4,
+            "text": "דוֹ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "דוֹ"
+      }
+    ],
+    "holam:syllable-05d4-05b9": [
+      {
+        "id": 230013,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05d4-05b9",
+        "learningGoal": "זיהוי ההברה הֹ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  הֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "הֹ"
+          },
+          {
+            "id": 2,
+            "text": "חוֹ"
+          },
+          {
+            "id": 3,
+            "text": "לוֹ"
+          },
+          {
+            "id": 4,
+            "text": "עוֹ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "symbol": "הֹ"
+      },
+      {
+        "id": 230014,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05d4-05b9",
+        "learningGoal": "זיהוי הניקוד בהברה הֹ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה הֹ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "חולם חסר"
+          },
+          {
+            "id": 2,
+            "text": "קמץ"
+          },
+          {
+            "id": 3,
+            "text": "פתח"
+          },
+          {
+            "id": 4,
+            "text": "סגול"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "symbol": "הֹ"
+      },
+      {
+        "id": 230015,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05d4-05b9",
+        "learningGoal": "התאמת ההברה הֹ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: הֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "עוֹ"
+          },
+          {
+            "id": 2,
+            "text": "לוֹ"
+          },
+          {
+            "id": 3,
+            "text": "חוֹ"
+          },
+          {
+            "id": 4,
+            "text": "הֹ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 1,
+        "symbol": "הֹ"
+      },
+      {
+        "id": 230079,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05d4-05b9",
+        "learningGoal": "זיהוי ההברה הֹ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  הֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "הֹ"
+          },
+          {
+            "id": 2,
+            "text": "חוֹ"
+          },
+          {
+            "id": 3,
+            "text": "דוֹ"
+          },
+          {
+            "id": 4,
+            "text": "אֹ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "הֹ"
+      },
+      {
+        "id": 230080,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05d4-05b9",
+        "learningGoal": "זיהוי הניקוד בהברה הֹ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה הֹ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "פתח"
+          },
+          {
+            "id": 2,
+            "text": "סגול"
+          },
+          {
+            "id": 3,
+            "text": "חולם חסר"
+          },
+          {
+            "id": 4,
+            "text": "קמץ"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 3,
+        "symbol": "הֹ"
+      },
+      {
+        "id": 230081,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05d4-05b9",
+        "learningGoal": "התאמת ההברה הֹ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: הֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "אֹ"
+          },
+          {
+            "id": 2,
+            "text": "דוֹ"
+          },
+          {
+            "id": 3,
+            "text": "חוֹ"
+          },
+          {
+            "id": 4,
+            "text": "הֹ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "הֹ"
+      }
+    ],
+    "holam:syllable-05d5-05d5-05b9": [
+      {
+        "id": 230016,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05d5-05d5-05b9",
+        "learningGoal": "זיהוי ההברה ווֹ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  ווֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "ווֹ"
+          },
+          {
+            "id": 2,
+            "text": "טֹ"
+          },
+          {
+            "id": 3,
+            "text": "מֹ"
+          },
+          {
+            "id": 4,
+            "text": "פֹ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "symbol": "ווֹ"
+      },
+      {
+        "id": 230017,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05d5-05d5-05b9",
+        "learningGoal": "זיהוי הניקוד בהברה ווֹ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה ווֹ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קמץ"
+          },
+          {
+            "id": 2,
+            "text": "פתח"
+          },
+          {
+            "id": 3,
+            "text": "סגול"
+          },
+          {
+            "id": 4,
+            "text": "חולם מלא"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 1,
+        "symbol": "ווֹ"
+      },
+      {
+        "id": 230018,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05d5-05d5-05b9",
+        "learningGoal": "התאמת ההברה ווֹ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: ווֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "פֹ"
+          },
+          {
+            "id": 2,
+            "text": "מֹ"
+          },
+          {
+            "id": 3,
+            "text": "טֹ"
+          },
+          {
+            "id": 4,
+            "text": "ווֹ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 1,
+        "symbol": "ווֹ"
+      },
+      {
+        "id": 230082,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05d5-05d5-05b9",
+        "learningGoal": "זיהוי ההברה ווֹ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  ווֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "ווֹ"
+          },
+          {
+            "id": 2,
+            "text": "אֹ"
+          },
+          {
+            "id": 3,
+            "text": "הֹ"
+          },
+          {
+            "id": 4,
+            "text": "טֹ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "ווֹ"
+      },
+      {
+        "id": 230083,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05d5-05d5-05b9",
+        "learningGoal": "זיהוי הניקוד בהברה ווֹ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה ווֹ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סגול"
+          },
+          {
+            "id": 2,
+            "text": "חולם מלא"
+          },
+          {
+            "id": 3,
+            "text": "קמץ"
+          },
+          {
+            "id": 4,
+            "text": "פתח"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 3,
+        "symbol": "ווֹ"
+      },
+      {
+        "id": 230084,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05d5-05d5-05b9",
+        "learningGoal": "התאמת ההברה ווֹ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: ווֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "טֹ"
+          },
+          {
+            "id": 2,
+            "text": "הֹ"
+          },
+          {
+            "id": 3,
+            "text": "אֹ"
+          },
+          {
+            "id": 4,
+            "text": "ווֹ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "ווֹ"
+      }
+    ],
+    "holam:syllable-05d6-05b9": [
+      {
+        "id": 230019,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05d6-05b9",
+        "learningGoal": "זיהוי ההברה זֹ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  זֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "זֹ"
+          },
+          {
+            "id": 2,
+            "text": "יוֹ"
+          },
+          {
+            "id": 3,
+            "text": "נוֹ"
+          },
+          {
+            "id": 4,
+            "text": "צוֹ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "symbol": "זֹ"
+      },
+      {
+        "id": 230020,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05d6-05b9",
+        "learningGoal": "זיהוי הניקוד בהברה זֹ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה זֹ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "פתח"
+          },
+          {
+            "id": 2,
+            "text": "סגול"
+          },
+          {
+            "id": 3,
+            "text": "חולם חסר"
+          },
+          {
+            "id": 4,
+            "text": "קמץ"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 1,
+        "symbol": "זֹ"
+      },
+      {
+        "id": 230021,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05d6-05b9",
+        "learningGoal": "התאמת ההברה זֹ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: זֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "צוֹ"
+          },
+          {
+            "id": 2,
+            "text": "נוֹ"
+          },
+          {
+            "id": 3,
+            "text": "יוֹ"
+          },
+          {
+            "id": 4,
+            "text": "זֹ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 1,
+        "symbol": "זֹ"
+      },
+      {
+        "id": 230085,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05d6-05b9",
+        "learningGoal": "זיהוי ההברה זֹ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  זֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "זֹ"
+          },
+          {
+            "id": 2,
+            "text": "בוֹ"
+          },
+          {
+            "id": 3,
+            "text": "ווֹ"
+          },
+          {
+            "id": 4,
+            "text": "יוֹ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "זֹ"
+      },
+      {
+        "id": 230086,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05d6-05b9",
+        "learningGoal": "זיהוי הניקוד בהברה זֹ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה זֹ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "חולם חסר"
+          },
+          {
+            "id": 2,
+            "text": "קמץ"
+          },
+          {
+            "id": 3,
+            "text": "פתח"
+          },
+          {
+            "id": 4,
+            "text": "סגול"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 3,
+        "symbol": "זֹ"
+      },
+      {
+        "id": 230087,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05d6-05b9",
+        "learningGoal": "התאמת ההברה זֹ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: זֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "יוֹ"
+          },
+          {
+            "id": 2,
+            "text": "ווֹ"
+          },
+          {
+            "id": 3,
+            "text": "בוֹ"
+          },
+          {
+            "id": 4,
+            "text": "זֹ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 3,
+        "symbol": "זֹ"
+      }
+    ],
+    "holam:syllable-05d7-05d5-05b9": [
+      {
+        "id": 230022,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05d7-05d5-05b9",
+        "learningGoal": "זיהוי ההברה חוֹ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  חוֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "חוֹ"
+          },
+          {
+            "id": 2,
+            "text": "כֹ"
+          },
+          {
+            "id": 3,
+            "text": "סֹ"
+          },
+          {
+            "id": 4,
+            "text": "קֹ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "symbol": "חוֹ"
+      },
+      {
+        "id": 230023,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05d7-05d5-05b9",
+        "learningGoal": "זיהוי הניקוד בהברה חוֹ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה חוֹ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סגול"
+          },
+          {
+            "id": 2,
+            "text": "חולם מלא"
+          },
+          {
+            "id": 3,
+            "text": "קמץ"
+          },
+          {
+            "id": 4,
+            "text": "פתח"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 1,
+        "symbol": "חוֹ"
+      },
+      {
+        "id": 230024,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05d7-05d5-05b9",
+        "learningGoal": "התאמת ההברה חוֹ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: חוֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קֹ"
+          },
+          {
+            "id": 2,
+            "text": "סֹ"
+          },
+          {
+            "id": 3,
+            "text": "כֹ"
+          },
+          {
+            "id": 4,
+            "text": "חוֹ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 1,
+        "symbol": "חוֹ"
+      }
+    ],
+    "holam:syllable-05d8-05b9": [
+      {
+        "id": 230025,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05d8-05b9",
+        "learningGoal": "זיהוי ההברה טֹ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  טֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "טֹ"
+          },
+          {
+            "id": 2,
+            "text": "לוֹ"
+          },
+          {
+            "id": 3,
+            "text": "עוֹ"
+          },
+          {
+            "id": 4,
+            "text": "רוֹ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "symbol": "טֹ"
+      },
+      {
+        "id": 230026,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05d8-05b9",
+        "learningGoal": "זיהוי הניקוד בהברה טֹ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה טֹ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "חולם חסר"
+          },
+          {
+            "id": 2,
+            "text": "קמץ"
+          },
+          {
+            "id": 3,
+            "text": "פתח"
+          },
+          {
+            "id": 4,
+            "text": "סגול"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "symbol": "טֹ"
+      },
+      {
+        "id": 230027,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05d8-05b9",
+        "learningGoal": "התאמת ההברה טֹ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: טֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "רוֹ"
+          },
+          {
+            "id": 2,
+            "text": "עוֹ"
+          },
+          {
+            "id": 3,
+            "text": "לוֹ"
+          },
+          {
+            "id": 4,
+            "text": "טֹ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 1,
+        "symbol": "טֹ"
+      }
+    ],
+    "holam:syllable-05d9-05d5-05b9": [
+      {
+        "id": 230028,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05d9-05d5-05b9",
+        "learningGoal": "זיהוי ההברה יוֹ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  יוֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "יוֹ"
+          },
+          {
+            "id": 2,
+            "text": "מֹ"
+          },
+          {
+            "id": 3,
+            "text": "פֹ"
+          },
+          {
+            "id": 4,
+            "text": "שֹ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 1,
+        "symbol": "יוֹ"
+      },
+      {
+        "id": 230029,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05d9-05d5-05b9",
+        "learningGoal": "זיהוי הניקוד בהברה יוֹ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה יוֹ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קמץ"
+          },
+          {
+            "id": 2,
+            "text": "פתח"
+          },
+          {
+            "id": 3,
+            "text": "סגול"
+          },
+          {
+            "id": 4,
+            "text": "חולם מלא"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 1,
+        "symbol": "יוֹ"
+      },
+      {
+        "id": 230030,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05d9-05d5-05b9",
+        "learningGoal": "התאמת ההברה יוֹ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: יוֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "שֹ"
+          },
+          {
+            "id": 2,
+            "text": "פֹ"
+          },
+          {
+            "id": 3,
+            "text": "מֹ"
+          },
+          {
+            "id": 4,
+            "text": "יוֹ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 1,
+        "symbol": "יוֹ"
+      }
+    ],
+    "holam:syllable-05db-05b9": [
+      {
+        "id": 230031,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05db-05b9",
+        "learningGoal": "זיהוי ההברה כֹ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  כֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "כֹ"
+          },
+          {
+            "id": 2,
+            "text": "נוֹ"
+          },
+          {
+            "id": 3,
+            "text": "צוֹ"
+          },
+          {
+            "id": 4,
+            "text": "תוֹ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "כֹ"
+      },
+      {
+        "id": 230032,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05db-05b9",
+        "learningGoal": "זיהוי הניקוד בהברה כֹ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה כֹ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "פתח"
+          },
+          {
+            "id": 2,
+            "text": "סגול"
+          },
+          {
+            "id": 3,
+            "text": "חולם חסר"
+          },
+          {
+            "id": 4,
+            "text": "קמץ"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 2,
+        "symbol": "כֹ"
+      },
+      {
+        "id": 230033,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05db-05b9",
+        "learningGoal": "התאמת ההברה כֹ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: כֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "תוֹ"
+          },
+          {
+            "id": 2,
+            "text": "צוֹ"
+          },
+          {
+            "id": 3,
+            "text": "נוֹ"
+          },
+          {
+            "id": 4,
+            "text": "כֹ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "כֹ"
+      }
+    ],
+    "holam:syllable-05dc-05d5-05b9": [
+      {
+        "id": 230034,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05dc-05d5-05b9",
+        "learningGoal": "זיהוי ההברה לוֹ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  לוֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "לוֹ"
+          },
+          {
+            "id": 2,
+            "text": "סֹ"
+          },
+          {
+            "id": 3,
+            "text": "קֹ"
+          },
+          {
+            "id": 4,
+            "text": "אֹ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "לוֹ"
+      },
+      {
+        "id": 230035,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05dc-05d5-05b9",
+        "learningGoal": "זיהוי הניקוד בהברה לוֹ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה לוֹ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סגול"
+          },
+          {
+            "id": 2,
+            "text": "חולם מלא"
+          },
+          {
+            "id": 3,
+            "text": "קמץ"
+          },
+          {
+            "id": 4,
+            "text": "פתח"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 2,
+        "symbol": "לוֹ"
+      },
+      {
+        "id": 230036,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05dc-05d5-05b9",
+        "learningGoal": "התאמת ההברה לוֹ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: לוֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "אֹ"
+          },
+          {
+            "id": 2,
+            "text": "קֹ"
+          },
+          {
+            "id": 3,
+            "text": "סֹ"
+          },
+          {
+            "id": 4,
+            "text": "לוֹ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "לוֹ"
+      }
+    ],
+    "holam:syllable-05de-05b9": [
+      {
+        "id": 230037,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05de-05b9",
+        "learningGoal": "זיהוי ההברה מֹ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  מֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "מֹ"
+          },
+          {
+            "id": 2,
+            "text": "עוֹ"
+          },
+          {
+            "id": 3,
+            "text": "רוֹ"
+          },
+          {
+            "id": 4,
+            "text": "בוֹ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "מֹ"
+      },
+      {
+        "id": 230038,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05de-05b9",
+        "learningGoal": "זיהוי הניקוד בהברה מֹ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה מֹ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "חולם חסר"
+          },
+          {
+            "id": 2,
+            "text": "קמץ"
+          },
+          {
+            "id": 3,
+            "text": "פתח"
+          },
+          {
+            "id": 4,
+            "text": "סגול"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "מֹ"
+      },
+      {
+        "id": 230039,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05de-05b9",
+        "learningGoal": "התאמת ההברה מֹ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: מֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "בוֹ"
+          },
+          {
+            "id": 2,
+            "text": "רוֹ"
+          },
+          {
+            "id": 3,
+            "text": "עוֹ"
+          },
+          {
+            "id": 4,
+            "text": "מֹ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "מֹ"
+      }
+    ],
+    "holam:syllable-05e0-05d5-05b9": [
+      {
+        "id": 230040,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05e0-05d5-05b9",
+        "learningGoal": "זיהוי ההברה נוֹ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  נוֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "נוֹ"
+          },
+          {
+            "id": 2,
+            "text": "פֹ"
+          },
+          {
+            "id": 3,
+            "text": "שֹ"
+          },
+          {
+            "id": 4,
+            "text": "גֹ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "נוֹ"
+      },
+      {
+        "id": 230041,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05e0-05d5-05b9",
+        "learningGoal": "זיהוי הניקוד בהברה נוֹ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה נוֹ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קמץ"
+          },
+          {
+            "id": 2,
+            "text": "פתח"
+          },
+          {
+            "id": 3,
+            "text": "סגול"
+          },
+          {
+            "id": 4,
+            "text": "חולם מלא"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "נוֹ"
+      },
+      {
+        "id": 230042,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05e0-05d5-05b9",
+        "learningGoal": "התאמת ההברה נוֹ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: נוֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "גֹ"
+          },
+          {
+            "id": 2,
+            "text": "שֹ"
+          },
+          {
+            "id": 3,
+            "text": "פֹ"
+          },
+          {
+            "id": 4,
+            "text": "נוֹ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "נוֹ"
+      }
+    ],
+    "holam:syllable-05e1-05b9": [
+      {
+        "id": 230043,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05e1-05b9",
+        "learningGoal": "זיהוי ההברה סֹ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  סֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סֹ"
+          },
+          {
+            "id": 2,
+            "text": "צוֹ"
+          },
+          {
+            "id": 3,
+            "text": "תוֹ"
+          },
+          {
+            "id": 4,
+            "text": "דוֹ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "סֹ"
+      },
+      {
+        "id": 230044,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05e1-05b9",
+        "learningGoal": "זיהוי הניקוד בהברה סֹ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה סֹ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "פתח"
+          },
+          {
+            "id": 2,
+            "text": "סגול"
+          },
+          {
+            "id": 3,
+            "text": "חולם חסר"
+          },
+          {
+            "id": 4,
+            "text": "קמץ"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 2,
+        "symbol": "סֹ"
+      },
+      {
+        "id": 230045,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05e1-05b9",
+        "learningGoal": "התאמת ההברה סֹ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: סֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "דוֹ"
+          },
+          {
+            "id": 2,
+            "text": "תוֹ"
+          },
+          {
+            "id": 3,
+            "text": "צוֹ"
+          },
+          {
+            "id": 4,
+            "text": "סֹ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "סֹ"
+      }
+    ],
+    "holam:syllable-05e2-05d5-05b9": [
+      {
+        "id": 230046,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05e2-05d5-05b9",
+        "learningGoal": "זיהוי ההברה עוֹ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  עוֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "עוֹ"
+          },
+          {
+            "id": 2,
+            "text": "קֹ"
+          },
+          {
+            "id": 3,
+            "text": "אֹ"
+          },
+          {
+            "id": 4,
+            "text": "הֹ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "עוֹ"
+      },
+      {
+        "id": 230047,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05e2-05d5-05b9",
+        "learningGoal": "זיהוי הניקוד בהברה עוֹ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה עוֹ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סגול"
+          },
+          {
+            "id": 2,
+            "text": "חולם מלא"
+          },
+          {
+            "id": 3,
+            "text": "קמץ"
+          },
+          {
+            "id": 4,
+            "text": "פתח"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 2,
+        "symbol": "עוֹ"
+      },
+      {
+        "id": 230048,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05e2-05d5-05b9",
+        "learningGoal": "התאמת ההברה עוֹ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: עוֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "הֹ"
+          },
+          {
+            "id": 2,
+            "text": "אֹ"
+          },
+          {
+            "id": 3,
+            "text": "קֹ"
+          },
+          {
+            "id": 4,
+            "text": "עוֹ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "עוֹ"
+      }
+    ],
+    "holam:syllable-05e4-05b9": [
+      {
+        "id": 230049,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05e4-05b9",
+        "learningGoal": "זיהוי ההברה פֹ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  פֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "פֹ"
+          },
+          {
+            "id": 2,
+            "text": "רוֹ"
+          },
+          {
+            "id": 3,
+            "text": "בוֹ"
+          },
+          {
+            "id": 4,
+            "text": "ווֹ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "פֹ"
+      },
+      {
+        "id": 230050,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05e4-05b9",
+        "learningGoal": "זיהוי הניקוד בהברה פֹ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה פֹ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "חולם חסר"
+          },
+          {
+            "id": 2,
+            "text": "קמץ"
+          },
+          {
+            "id": 3,
+            "text": "פתח"
+          },
+          {
+            "id": 4,
+            "text": "סגול"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "פֹ"
+      },
+      {
+        "id": 230051,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05e4-05b9",
+        "learningGoal": "התאמת ההברה פֹ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: פֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "ווֹ"
+          },
+          {
+            "id": 2,
+            "text": "בוֹ"
+          },
+          {
+            "id": 3,
+            "text": "רוֹ"
+          },
+          {
+            "id": 4,
+            "text": "פֹ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "פֹ"
+      }
+    ],
+    "holam:syllable-05e6-05d5-05b9": [
+      {
+        "id": 230052,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05e6-05d5-05b9",
+        "learningGoal": "זיהוי ההברה צוֹ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  צוֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "צוֹ"
+          },
+          {
+            "id": 2,
+            "text": "שֹ"
+          },
+          {
+            "id": 3,
+            "text": "גֹ"
+          },
+          {
+            "id": 4,
+            "text": "זֹ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "צוֹ"
+      },
+      {
+        "id": 230053,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05e6-05d5-05b9",
+        "learningGoal": "זיהוי הניקוד בהברה צוֹ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה צוֹ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קמץ"
+          },
+          {
+            "id": 2,
+            "text": "פתח"
+          },
+          {
+            "id": 3,
+            "text": "סגול"
+          },
+          {
+            "id": 4,
+            "text": "חולם מלא"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "צוֹ"
+      },
+      {
+        "id": 230054,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05e6-05d5-05b9",
+        "learningGoal": "התאמת ההברה צוֹ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: צוֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "זֹ"
+          },
+          {
+            "id": 2,
+            "text": "גֹ"
+          },
+          {
+            "id": 3,
+            "text": "שֹ"
+          },
+          {
+            "id": 4,
+            "text": "צוֹ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "צוֹ"
+      }
+    ],
+    "holam:syllable-05e7-05b9": [
+      {
+        "id": 230055,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05e7-05b9",
+        "learningGoal": "זיהוי ההברה קֹ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  קֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קֹ"
+          },
+          {
+            "id": 2,
+            "text": "תוֹ"
+          },
+          {
+            "id": 3,
+            "text": "דוֹ"
+          },
+          {
+            "id": 4,
+            "text": "חוֹ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "קֹ"
+      },
+      {
+        "id": 230056,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05e7-05b9",
+        "learningGoal": "זיהוי הניקוד בהברה קֹ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה קֹ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "פתח"
+          },
+          {
+            "id": 2,
+            "text": "סגול"
+          },
+          {
+            "id": 3,
+            "text": "חולם חסר"
+          },
+          {
+            "id": 4,
+            "text": "קמץ"
+          }
+        ],
+        "correctAnswer": 3,
+        "difficulty": 2,
+        "symbol": "קֹ"
+      },
+      {
+        "id": 230057,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05e7-05b9",
+        "learningGoal": "התאמת ההברה קֹ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: קֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "חוֹ"
+          },
+          {
+            "id": 2,
+            "text": "דוֹ"
+          },
+          {
+            "id": 3,
+            "text": "תוֹ"
+          },
+          {
+            "id": 4,
+            "text": "קֹ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "קֹ"
+      }
+    ],
+    "holam:syllable-05e8-05d5-05b9": [
+      {
+        "id": 230058,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05e8-05d5-05b9",
+        "learningGoal": "זיהוי ההברה רוֹ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  רוֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "רוֹ"
+          },
+          {
+            "id": 2,
+            "text": "אֹ"
+          },
+          {
+            "id": 3,
+            "text": "הֹ"
+          },
+          {
+            "id": 4,
+            "text": "בוֹ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "רוֹ"
+      },
+      {
+        "id": 230059,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05e8-05d5-05b9",
+        "learningGoal": "זיהוי הניקוד בהברה רוֹ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה רוֹ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "סגול"
+          },
+          {
+            "id": 2,
+            "text": "חולם מלא"
+          },
+          {
+            "id": 3,
+            "text": "קמץ"
+          },
+          {
+            "id": 4,
+            "text": "פתח"
+          }
+        ],
+        "correctAnswer": 2,
+        "difficulty": 2,
+        "symbol": "רוֹ"
+      },
+      {
+        "id": 230060,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05e8-05d5-05b9",
+        "learningGoal": "התאמת ההברה רוֹ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: רוֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "בוֹ"
+          },
+          {
+            "id": 2,
+            "text": "הֹ"
+          },
+          {
+            "id": 3,
+            "text": "אֹ"
+          },
+          {
+            "id": 4,
+            "text": "רוֹ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "רוֹ"
+      }
+    ],
+    "holam:syllable-05e9-05b9": [
+      {
+        "id": 230061,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05e9-05b9",
+        "learningGoal": "זיהוי ההברה שֹ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  שֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "שֹ"
+          },
+          {
+            "id": 2,
+            "text": "בוֹ"
+          },
+          {
+            "id": 3,
+            "text": "ווֹ"
+          },
+          {
+            "id": 4,
+            "text": "גֹ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "שֹ"
+      },
+      {
+        "id": 230062,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05e9-05b9",
+        "learningGoal": "זיהוי הניקוד בהברה שֹ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה שֹ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "חולם חסר"
+          },
+          {
+            "id": 2,
+            "text": "קמץ"
+          },
+          {
+            "id": 3,
+            "text": "פתח"
+          },
+          {
+            "id": 4,
+            "text": "סגול"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "שֹ"
+      },
+      {
+        "id": 230063,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05e9-05b9",
+        "learningGoal": "התאמת ההברה שֹ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: שֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "גֹ"
+          },
+          {
+            "id": 2,
+            "text": "ווֹ"
+          },
+          {
+            "id": 3,
+            "text": "בוֹ"
+          },
+          {
+            "id": 4,
+            "text": "שֹ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "שֹ"
+      }
+    ],
+    "holam:syllable-05ea-05d5-05b9": [
+      {
+        "id": 230064,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05ea-05d5-05b9",
+        "learningGoal": "זיהוי ההברה תוֹ",
+        "kind": "identify",
+        "text": "איזו הברה מופיעה במשבצת?  תוֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "תוֹ"
+          },
+          {
+            "id": 2,
+            "text": "גֹ"
+          },
+          {
+            "id": 3,
+            "text": "זֹ"
+          },
+          {
+            "id": 4,
+            "text": "דוֹ"
+          }
+        ],
+        "correctAnswer": 1,
+        "difficulty": 2,
+        "symbol": "תוֹ"
+      },
+      {
+        "id": 230065,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05ea-05d5-05b9",
+        "learningGoal": "זיהוי הניקוד בהברה תוֹ",
+        "kind": "find-nikud",
+        "text": "איזה ניקוד מופיע בהברה תוֹ?",
+        "answers": [
+          {
+            "id": 1,
+            "text": "קמץ"
+          },
+          {
+            "id": 2,
+            "text": "פתח"
+          },
+          {
+            "id": 3,
+            "text": "סגול"
+          },
+          {
+            "id": 4,
+            "text": "חולם מלא"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "תוֹ"
+      },
+      {
+        "id": 230066,
+        "boardId": "holam",
+        "groupId": "holam:syllable-05ea-05d5-05b9",
+        "learningGoal": "התאמת ההברה תוֹ",
+        "kind": "choose-example",
+        "text": "בחרו את ההברה הזהה לזו שעל המשבצת: תוֹ",
+        "answers": [
+          {
+            "id": 1,
+            "text": "דוֹ"
+          },
+          {
+            "id": 2,
+            "text": "זֹ"
+          },
+          {
+            "id": 3,
+            "text": "גֹ"
+          },
+          {
+            "id": 4,
+            "text": "תוֹ"
+          }
+        ],
+        "correctAnswer": 4,
+        "difficulty": 2,
+        "symbol": "תוֹ"
+      }
+    ]
+  }
+}

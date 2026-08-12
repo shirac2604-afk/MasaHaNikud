@@ -21,6 +21,8 @@ import { soundManager } from "../services/SoundManager";
 import { preferencesService } from "../services/PreferencesService";
 import { BrandBadge } from "../ui/BrandBadge";
 
+
+
 export class GameScene extends BaseScene {
 
     private boardManager!: BoardManager;
@@ -180,6 +182,7 @@ export class GameScene extends BaseScene {
             () => this.scene.start(SceneKeys.MENU)
         );
     }
+
 
     private updatePhaseUi(phase: TurnPhase): void {
         const labels: Record<TurnPhase, string> = {

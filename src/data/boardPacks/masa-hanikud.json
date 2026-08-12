@@ -1,0 +1,979 @@
+{
+  "schemaVersion": 2,
+  "id": "masa-hanikud",
+  "version": "2.1.0",
+  "name": "מסע הניקוד",
+  "description": "משחק סולמות ונחשים המשלב את כל סימני הניקוד",
+  "assetKey": "board-approved-masa-hanikud",
+  "image": "assets/boards/approved/masa-hanikud.png",
+  "category": "ניקוד",
+  "questionSet": "masa-hanikud",
+  "difficulty": 4,
+  "difficultyLabel": "מסכם",
+  "recommendedAge": "6–8",
+  "estimatedDuration": "20–30 דקות",
+  "learningGoals": [
+    "חזרה על כל סימני הניקוד",
+    "יישום משולב"
+  ],
+  "theme": {
+    "primary": "#9d241f",
+    "accent": "#ffb34f",
+    "tileFill": "#fff1cf",
+    "tileStroke": "#624018",
+    "pathStroke": "#ffb34f"
+  },
+  "layout": {
+    "referenceWidth": 1600,
+    "referenceHeight": 1000,
+    "tileRadius": 28,
+    "renderTiles": false,
+    "renderPath": false,
+    "renderTransitions": false,
+    "renderHeader": false,
+    "renderEndpointBadges": false
+  },
+  "path": [
+    {
+      "id": 1,
+      "center": {
+        "x": 0.08,
+        "y": 0.18
+      },
+      "anchor": {
+        "x": 0.08,
+        "y": 0.205
+      },
+      "type": "start",
+      "questionGroup": "masa-hanikud:syllable-05d0-05b8",
+      "label": "אָ",
+      "learningGoal": "זיהוי וקריאת ההברה אָ"
+    },
+    {
+      "id": 2,
+      "center": {
+        "x": 0.1733,
+        "y": 0.18
+      },
+      "anchor": {
+        "x": 0.1733,
+        "y": 0.205
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05d1-05b7",
+      "label": "בַ",
+      "learningGoal": "זיהוי וקריאת ההברה בַ"
+    },
+    {
+      "id": 3,
+      "center": {
+        "x": 0.2667,
+        "y": 0.18
+      },
+      "anchor": {
+        "x": 0.2667,
+        "y": 0.205
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05d2-05b6",
+      "label": "גֶ",
+      "learningGoal": "זיהוי וקריאת ההברה גֶ"
+    },
+    {
+      "id": 4,
+      "center": {
+        "x": 0.36,
+        "y": 0.18
+      },
+      "anchor": {
+        "x": 0.36,
+        "y": 0.205
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05d3-05b5",
+      "label": "דֵ",
+      "learningGoal": "זיהוי וקריאת ההברה דֵ"
+    },
+    {
+      "id": 5,
+      "center": {
+        "x": 0.4533,
+        "y": 0.18
+      },
+      "anchor": {
+        "x": 0.4533,
+        "y": 0.205
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05d4-05b4",
+      "label": "הִ",
+      "learningGoal": "זיהוי וקריאת ההברה הִ"
+    },
+    {
+      "id": 6,
+      "center": {
+        "x": 0.5467,
+        "y": 0.18
+      },
+      "anchor": {
+        "x": 0.5467,
+        "y": 0.205
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05d5-05b9",
+      "label": "וֹ",
+      "learningGoal": "זיהוי וקריאת ההברה וֹ"
+    },
+    {
+      "id": 7,
+      "center": {
+        "x": 0.64,
+        "y": 0.18
+      },
+      "anchor": {
+        "x": 0.64,
+        "y": 0.205
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05d6-05d5-05b9",
+      "label": "זוֹ",
+      "learningGoal": "זיהוי וקריאת ההברה זוֹ"
+    },
+    {
+      "id": 8,
+      "center": {
+        "x": 0.7333,
+        "y": 0.18
+      },
+      "anchor": {
+        "x": 0.7333,
+        "y": 0.205
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05d7-05bb",
+      "label": "חֻ",
+      "learningGoal": "זיהוי וקריאת ההברה חֻ"
+    },
+    {
+      "id": 9,
+      "center": {
+        "x": 0.8267,
+        "y": 0.18
+      },
+      "anchor": {
+        "x": 0.8267,
+        "y": 0.205
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05d8-05d5-05bc",
+      "label": "טוּ",
+      "learningGoal": "זיהוי וקריאת ההברה טוּ"
+    },
+    {
+      "id": 10,
+      "center": {
+        "x": 0.92,
+        "y": 0.18
+      },
+      "anchor": {
+        "x": 0.92,
+        "y": 0.205
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05d9-05b8",
+      "label": "יָ",
+      "learningGoal": "זיהוי וקריאת ההברה יָ"
+    },
+    {
+      "id": 11,
+      "center": {
+        "x": 0.92,
+        "y": 0.32
+      },
+      "anchor": {
+        "x": 0.92,
+        "y": 0.345
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05db-05b7",
+      "label": "כַ",
+      "learningGoal": "זיהוי וקריאת ההברה כַ"
+    },
+    {
+      "id": 12,
+      "center": {
+        "x": 0.8267,
+        "y": 0.32
+      },
+      "anchor": {
+        "x": 0.8267,
+        "y": 0.345
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05dc-05b6",
+      "label": "לֶ",
+      "learningGoal": "זיהוי וקריאת ההברה לֶ"
+    },
+    {
+      "id": 13,
+      "center": {
+        "x": 0.7333,
+        "y": 0.32
+      },
+      "anchor": {
+        "x": 0.7333,
+        "y": 0.345
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05de-05b5",
+      "label": "מֵ",
+      "learningGoal": "זיהוי וקריאת ההברה מֵ"
+    },
+    {
+      "id": 14,
+      "center": {
+        "x": 0.64,
+        "y": 0.32
+      },
+      "anchor": {
+        "x": 0.64,
+        "y": 0.345
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05e0-05b4",
+      "label": "נִ",
+      "learningGoal": "זיהוי וקריאת ההברה נִ"
+    },
+    {
+      "id": 15,
+      "center": {
+        "x": 0.5467,
+        "y": 0.32
+      },
+      "anchor": {
+        "x": 0.5467,
+        "y": 0.345
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05e1-05b9",
+      "label": "סֹ",
+      "learningGoal": "זיהוי וקריאת ההברה סֹ"
+    },
+    {
+      "id": 16,
+      "center": {
+        "x": 0.4533,
+        "y": 0.32
+      },
+      "anchor": {
+        "x": 0.4533,
+        "y": 0.345
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05e2-05d5-05b9",
+      "label": "עוֹ",
+      "learningGoal": "זיהוי וקריאת ההברה עוֹ"
+    },
+    {
+      "id": 17,
+      "center": {
+        "x": 0.36,
+        "y": 0.32
+      },
+      "anchor": {
+        "x": 0.36,
+        "y": 0.345
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05e4-05bb",
+      "label": "פֻ",
+      "learningGoal": "זיהוי וקריאת ההברה פֻ"
+    },
+    {
+      "id": 18,
+      "center": {
+        "x": 0.2667,
+        "y": 0.32
+      },
+      "anchor": {
+        "x": 0.2667,
+        "y": 0.345
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05e6-05d5-05bc",
+      "label": "צוּ",
+      "learningGoal": "זיהוי וקריאת ההברה צוּ"
+    },
+    {
+      "id": 19,
+      "center": {
+        "x": 0.1733,
+        "y": 0.32
+      },
+      "anchor": {
+        "x": 0.1733,
+        "y": 0.345
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05e7-05b8",
+      "label": "קָ",
+      "learningGoal": "זיהוי וקריאת ההברה קָ"
+    },
+    {
+      "id": 20,
+      "center": {
+        "x": 0.08,
+        "y": 0.32
+      },
+      "anchor": {
+        "x": 0.08,
+        "y": 0.345
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05e8-05b7",
+      "label": "רַ",
+      "learningGoal": "זיהוי וקריאת ההברה רַ"
+    },
+    {
+      "id": 21,
+      "center": {
+        "x": 0.08,
+        "y": 0.46
+      },
+      "anchor": {
+        "x": 0.08,
+        "y": 0.485
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05e9-05b6",
+      "label": "שֶ",
+      "learningGoal": "זיהוי וקריאת ההברה שֶ"
+    },
+    {
+      "id": 22,
+      "center": {
+        "x": 0.1733,
+        "y": 0.46
+      },
+      "anchor": {
+        "x": 0.1733,
+        "y": 0.485
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05ea-05b5",
+      "label": "תֵ",
+      "learningGoal": "זיהוי וקריאת ההברה תֵ"
+    },
+    {
+      "id": 23,
+      "center": {
+        "x": 0.2667,
+        "y": 0.46
+      },
+      "anchor": {
+        "x": 0.2667,
+        "y": 0.485
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05d0-05b4",
+      "label": "אִ",
+      "learningGoal": "זיהוי וקריאת ההברה אִ"
+    },
+    {
+      "id": 24,
+      "center": {
+        "x": 0.36,
+        "y": 0.46
+      },
+      "anchor": {
+        "x": 0.36,
+        "y": 0.485
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05d1-05b9",
+      "label": "בֹ",
+      "learningGoal": "זיהוי וקריאת ההברה בֹ"
+    },
+    {
+      "id": 25,
+      "center": {
+        "x": 0.4533,
+        "y": 0.46
+      },
+      "anchor": {
+        "x": 0.4533,
+        "y": 0.485
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05d2-05d5-05b9",
+      "label": "גוֹ",
+      "learningGoal": "זיהוי וקריאת ההברה גוֹ"
+    },
+    {
+      "id": 26,
+      "center": {
+        "x": 0.5467,
+        "y": 0.46
+      },
+      "anchor": {
+        "x": 0.5467,
+        "y": 0.485
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05d3-05bb",
+      "label": "דֻ",
+      "learningGoal": "זיהוי וקריאת ההברה דֻ"
+    },
+    {
+      "id": 27,
+      "center": {
+        "x": 0.64,
+        "y": 0.46
+      },
+      "anchor": {
+        "x": 0.64,
+        "y": 0.485
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05d4-05d5-05bc",
+      "label": "הוּ",
+      "learningGoal": "זיהוי וקריאת ההברה הוּ"
+    },
+    {
+      "id": 28,
+      "center": {
+        "x": 0.7333,
+        "y": 0.46
+      },
+      "anchor": {
+        "x": 0.7333,
+        "y": 0.485
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05d5-05b8",
+      "label": "וָ",
+      "learningGoal": "זיהוי וקריאת ההברה וָ"
+    },
+    {
+      "id": 29,
+      "center": {
+        "x": 0.8267,
+        "y": 0.46
+      },
+      "anchor": {
+        "x": 0.8267,
+        "y": 0.485
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05d6-05b7",
+      "label": "זַ",
+      "learningGoal": "זיהוי וקריאת ההברה זַ"
+    },
+    {
+      "id": 30,
+      "center": {
+        "x": 0.92,
+        "y": 0.46
+      },
+      "anchor": {
+        "x": 0.92,
+        "y": 0.485
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05d7-05b6",
+      "label": "חֶ",
+      "learningGoal": "זיהוי וקריאת ההברה חֶ"
+    },
+    {
+      "id": 31,
+      "center": {
+        "x": 0.92,
+        "y": 0.6
+      },
+      "anchor": {
+        "x": 0.92,
+        "y": 0.625
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05d8-05b5",
+      "label": "טֵ",
+      "learningGoal": "זיהוי וקריאת ההברה טֵ"
+    },
+    {
+      "id": 32,
+      "center": {
+        "x": 0.8267,
+        "y": 0.6
+      },
+      "anchor": {
+        "x": 0.8267,
+        "y": 0.625
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05d9-05b4",
+      "label": "יִ",
+      "learningGoal": "זיהוי וקריאת ההברה יִ"
+    },
+    {
+      "id": 33,
+      "center": {
+        "x": 0.7333,
+        "y": 0.6
+      },
+      "anchor": {
+        "x": 0.7333,
+        "y": 0.625
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05db-05b9",
+      "label": "כֹ",
+      "learningGoal": "זיהוי וקריאת ההברה כֹ"
+    },
+    {
+      "id": 34,
+      "center": {
+        "x": 0.64,
+        "y": 0.6
+      },
+      "anchor": {
+        "x": 0.64,
+        "y": 0.625
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05dc-05d5-05b9",
+      "label": "לוֹ",
+      "learningGoal": "זיהוי וקריאת ההברה לוֹ"
+    },
+    {
+      "id": 35,
+      "center": {
+        "x": 0.5467,
+        "y": 0.6
+      },
+      "anchor": {
+        "x": 0.5467,
+        "y": 0.625
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05de-05bb",
+      "label": "מֻ",
+      "learningGoal": "זיהוי וקריאת ההברה מֻ"
+    },
+    {
+      "id": 36,
+      "center": {
+        "x": 0.4533,
+        "y": 0.6
+      },
+      "anchor": {
+        "x": 0.4533,
+        "y": 0.625
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05e0-05d5-05bc",
+      "label": "נוּ",
+      "learningGoal": "זיהוי וקריאת ההברה נוּ"
+    },
+    {
+      "id": 37,
+      "center": {
+        "x": 0.36,
+        "y": 0.6
+      },
+      "anchor": {
+        "x": 0.36,
+        "y": 0.625
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05e1-05b8",
+      "label": "סָ",
+      "learningGoal": "זיהוי וקריאת ההברה סָ"
+    },
+    {
+      "id": 38,
+      "center": {
+        "x": 0.2667,
+        "y": 0.6
+      },
+      "anchor": {
+        "x": 0.2667,
+        "y": 0.625
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05e2-05b7",
+      "label": "עַ",
+      "learningGoal": "זיהוי וקריאת ההברה עַ"
+    },
+    {
+      "id": 39,
+      "center": {
+        "x": 0.1733,
+        "y": 0.6
+      },
+      "anchor": {
+        "x": 0.1733,
+        "y": 0.625
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05e4-05b6",
+      "label": "פֶ",
+      "learningGoal": "זיהוי וקריאת ההברה פֶ"
+    },
+    {
+      "id": 40,
+      "center": {
+        "x": 0.08,
+        "y": 0.6
+      },
+      "anchor": {
+        "x": 0.08,
+        "y": 0.625
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05e6-05b5",
+      "label": "צֵ",
+      "learningGoal": "זיהוי וקריאת ההברה צֵ"
+    },
+    {
+      "id": 41,
+      "center": {
+        "x": 0.08,
+        "y": 0.74
+      },
+      "anchor": {
+        "x": 0.08,
+        "y": 0.765
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05e7-05b4",
+      "label": "קִ",
+      "learningGoal": "זיהוי וקריאת ההברה קִ"
+    },
+    {
+      "id": 42,
+      "center": {
+        "x": 0.1733,
+        "y": 0.74
+      },
+      "anchor": {
+        "x": 0.1733,
+        "y": 0.765
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05e8-05b9",
+      "label": "רֹ",
+      "learningGoal": "זיהוי וקריאת ההברה רֹ"
+    },
+    {
+      "id": 43,
+      "center": {
+        "x": 0.2667,
+        "y": 0.74
+      },
+      "anchor": {
+        "x": 0.2667,
+        "y": 0.765
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05e9-05d5-05b9",
+      "label": "שוֹ",
+      "learningGoal": "זיהוי וקריאת ההברה שוֹ"
+    },
+    {
+      "id": 44,
+      "center": {
+        "x": 0.36,
+        "y": 0.74
+      },
+      "anchor": {
+        "x": 0.36,
+        "y": 0.765
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05ea-05bb",
+      "label": "תֻ",
+      "learningGoal": "זיהוי וקריאת ההברה תֻ"
+    },
+    {
+      "id": 45,
+      "center": {
+        "x": 0.4533,
+        "y": 0.74
+      },
+      "anchor": {
+        "x": 0.4533,
+        "y": 0.765
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05d0-05d5-05bc",
+      "label": "אוּ",
+      "learningGoal": "זיהוי וקריאת ההברה אוּ"
+    },
+    {
+      "id": 46,
+      "center": {
+        "x": 0.5467,
+        "y": 0.74
+      },
+      "anchor": {
+        "x": 0.5467,
+        "y": 0.765
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05d1-05b8",
+      "label": "בָ",
+      "learningGoal": "זיהוי וקריאת ההברה בָ"
+    },
+    {
+      "id": 47,
+      "center": {
+        "x": 0.64,
+        "y": 0.74
+      },
+      "anchor": {
+        "x": 0.64,
+        "y": 0.765
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05d2-05b7",
+      "label": "גַ",
+      "learningGoal": "זיהוי וקריאת ההברה גַ"
+    },
+    {
+      "id": 48,
+      "center": {
+        "x": 0.7333,
+        "y": 0.74
+      },
+      "anchor": {
+        "x": 0.7333,
+        "y": 0.765
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05d3-05b6",
+      "label": "דֶ",
+      "learningGoal": "זיהוי וקריאת ההברה דֶ"
+    },
+    {
+      "id": 49,
+      "center": {
+        "x": 0.8267,
+        "y": 0.74
+      },
+      "anchor": {
+        "x": 0.8267,
+        "y": 0.765
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05d4-05b5",
+      "label": "הֵ",
+      "learningGoal": "זיהוי וקריאת ההברה הֵ"
+    },
+    {
+      "id": 50,
+      "center": {
+        "x": 0.92,
+        "y": 0.74
+      },
+      "anchor": {
+        "x": 0.92,
+        "y": 0.765
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05d5-05b4",
+      "label": "וִ",
+      "learningGoal": "זיהוי וקריאת ההברה וִ"
+    },
+    {
+      "id": 51,
+      "center": {
+        "x": 0.92,
+        "y": 0.88
+      },
+      "anchor": {
+        "x": 0.92,
+        "y": 0.905
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05d6-05b9",
+      "label": "זֹ",
+      "learningGoal": "זיהוי וקריאת ההברה זֹ"
+    },
+    {
+      "id": 52,
+      "center": {
+        "x": 0.8267,
+        "y": 0.88
+      },
+      "anchor": {
+        "x": 0.8267,
+        "y": 0.905
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05d7-05d5-05b9",
+      "label": "חוֹ",
+      "learningGoal": "זיהוי וקריאת ההברה חוֹ"
+    },
+    {
+      "id": 53,
+      "center": {
+        "x": 0.7333,
+        "y": 0.88
+      },
+      "anchor": {
+        "x": 0.7333,
+        "y": 0.905
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05d8-05bb",
+      "label": "טֻ",
+      "learningGoal": "זיהוי וקריאת ההברה טֻ"
+    },
+    {
+      "id": 54,
+      "center": {
+        "x": 0.64,
+        "y": 0.88
+      },
+      "anchor": {
+        "x": 0.64,
+        "y": 0.905
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05d9-05d5-05bc",
+      "label": "יוּ",
+      "learningGoal": "זיהוי וקריאת ההברה יוּ"
+    },
+    {
+      "id": 55,
+      "center": {
+        "x": 0.5467,
+        "y": 0.88
+      },
+      "anchor": {
+        "x": 0.5467,
+        "y": 0.905
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05db-05b8",
+      "label": "כָ",
+      "learningGoal": "זיהוי וקריאת ההברה כָ"
+    },
+    {
+      "id": 56,
+      "center": {
+        "x": 0.4533,
+        "y": 0.88
+      },
+      "anchor": {
+        "x": 0.4533,
+        "y": 0.905
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05dc-05b7",
+      "label": "לַ",
+      "learningGoal": "זיהוי וקריאת ההברה לַ"
+    },
+    {
+      "id": 57,
+      "center": {
+        "x": 0.36,
+        "y": 0.88
+      },
+      "anchor": {
+        "x": 0.36,
+        "y": 0.905
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05de-05b6",
+      "label": "מֶ",
+      "learningGoal": "זיהוי וקריאת ההברה מֶ"
+    },
+    {
+      "id": 58,
+      "center": {
+        "x": 0.2667,
+        "y": 0.88
+      },
+      "anchor": {
+        "x": 0.2667,
+        "y": 0.905
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05e0-05b5",
+      "label": "נֵ",
+      "learningGoal": "זיהוי וקריאת ההברה נֵ"
+    },
+    {
+      "id": 59,
+      "center": {
+        "x": 0.1733,
+        "y": 0.88
+      },
+      "anchor": {
+        "x": 0.1733,
+        "y": 0.905
+      },
+      "type": "question",
+      "questionGroup": "masa-hanikud:syllable-05e1-05b4",
+      "label": "סִ",
+      "learningGoal": "זיהוי וקריאת ההברה סִ"
+    },
+    {
+      "id": 60,
+      "center": {
+        "x": 0.08,
+        "y": 0.88
+      },
+      "anchor": {
+        "x": 0.08,
+        "y": 0.905
+      },
+      "type": "finish",
+      "questionGroup": "masa-hanikud:symbol-60",
+      "label": "עֹ"
+    }
+  ],
+  "transitions": [
+    {
+      "from": 3,
+      "to": 18,
+      "kind": "ladder"
+    },
+    {
+      "from": 14,
+      "to": 29,
+      "kind": "ladder"
+    },
+    {
+      "from": 32,
+      "to": 47,
+      "kind": "ladder"
+    },
+    {
+      "from": 45,
+      "to": 56,
+      "kind": "ladder"
+    },
+    {
+      "from": 17,
+      "to": 5,
+      "kind": "snake"
+    },
+    {
+      "from": 30,
+      "to": 11,
+      "kind": "snake"
+    },
+    {
+      "from": 44,
+      "to": 25,
+      "kind": "snake"
+    },
+    {
+      "from": 58,
+      "to": 39,
+      "kind": "snake"
+    }
+  ]
+}

@@ -100,6 +100,7 @@ export class PlayerSetupScene extends BaseScene {
             });
         });
 
+
         this.createButton(
             130,
             665,
